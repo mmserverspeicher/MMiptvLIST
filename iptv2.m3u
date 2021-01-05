@@ -108,370 +108,364 @@ https://archive.org/download/MMletsPLAYINGGearsOfWarUltimateEditionXBOXONE/MMlet
 https://ia601905.us.archive.org/0/items/MMletsPLAYINGGearsOfWar4XBOXONE/MMletsPLAYING-Gears-of-War-4-XBOX-ONE.mp4
 
 #EXTINF:-1,WagasWorld.com Werbung und andere ---TV---
-https://wagasworld.com/kodi.php?channel=werbung
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=werbung
+
+#EXTINF:-1,ChrismasTime ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Chrismas
 
 #EXTINF:-1,MARVEL-AND-DC-MOVIE ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-marvelvsdc
-
-#EXTINF:-1,Miss Marple Movie ---TV---
-https://wagasworld.com/kodi.php?channel=Miss.Marple
-
-#EXTINF:-1,Vintage SciFi ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-vintagescifi
-
-#EXTINF:-1,Mad Mission ---TV---
-https://wagasworld.com/kodi.php?channel=MadMission
-
-#EXTINF:-1,American Pie ---TV---
-https://wagasworld.com/kodi.php?channel=American.Pie
-
-#EXTINF:-1,Planet der Affen ---TV---
-https://wagasworld.com/kodi.php?channel=Planet.der.Affen
-
-#EXTINF:-1,Rocky ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-rocky
-
-#EXTINF:-1,Louis de Funes ---TV---
-https://wagasworld.com/kodi.php?channel=Louis.de.Funes
-
-#EXTINF:-1,Olsenbande ---TV---
-https://wagasworld.com/kodi.php?channel=Die.Olsenbande
-
-#EXTINF:-1,Herbie ein toller Käfer ---TV---
-https://wagasworld.com/kodi.php?channel=Herbie
-
-#EXTINF:-1,Twilight ---TV---
-https://wagasworld.com/kodi.php?channel=Twilight
-
-#EXTINF:-1,IpMan ---TV---
-https://wagasworld.com/kodi.php?channel=ipman
-
-#EXTINF:-1,Police Academy ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-policeakademy
-
-#EXTINF:-1,James Bond 007 ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-bondjames
-
-#EXTINF:-1,Harry Potter ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-harrypotter
-
-#EXTINF:-1,Narnia ---TV---
-https://wagasworld.com/kodi.php?channel=Narnia
-
-#EXTINF:-1,Fluch der Karibik ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-carribean
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-marvelvsdc
 
 #EXTINF:-1,Bad Ass ---TV---
-https://wagasworld.com/kodi.php?channel=Bad.Ass
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Bad.Ass
 
-#EXTINF:-1,Der weiße Hai ---TV---
-https://wagasworld.com/kodi.php?channel=derweissehai
+#EXTINF:-1,Kevin Allein zu Haus ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Kevin.Allein.zu.Haus
 
-#EXTINF:-1,Fast and Furious ---TV---
-https://wagasworld.com/kodi.php?channel=fastandfurious
+#EXTINF:-1,Miss Marple Movie ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Miss.Marple
 
-#EXTINF:-1,Beverly Hills Cop ---TV---
-https://wagasworld.com/kodi.php?channel=beverlyhillscop
+#EXTINF:-1,Vintage SciFi ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-vintagescifi
 
-#EXTINF:-1,Der Hobbit ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-hobbit
+#EXTINF:-1,Mad Mission ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MadMission
 
-#EXTINF:-1,Herr der Ringe ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-hdr
+#EXTINF:-1,American Pie ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=American.Pie
 
-#EXTINF:-1,Die Mumie ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-mumie
+#EXTINF:-1,Planet der Affen ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Planet.der.Affen
 
-#EXTINF:-1,Die Unendliche Geschichte ---TV---
-https://wagasworld.com/kodi.php?channel=dieunendlichegeschichte
+#EXTINF:-1,Rocky ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-rocky
 
-#EXTINF:-1,KidsMovie ---TV---
-https://wagasworld.com/kodi.php?channel=MovieMixKids
+#EXTINF:-1,Sylvester Stallone ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=SlyStallone
 
-#EXTINF:-1,CartoonMovie ---TV---
-https://wagasworld.com/kodi.php?channel=MovieMixCartoons
-
-#EXTINF:-1,MovieMix1 ---TV---
-https://wagasworld.com/kodi.php?channel=MovieMix1
-
-#EXTINF:-1,MovieMix2 ---TV---
-https://wagasworld.com/kodi.php?channel=MovieMix2
-
-#EXTINF:-1,MovieMix3 ---TV---
-https://wagasworld.com/kodi.php?channel=MovieMix3
-
-#EXTINF:-1,MovieMixComedy ---TV---
-https://wagasworld.com/kodi.php?channel=MovieMixComedy
-
-#EXTINF:-1,MovieMixAction ---TV---
-https://wagasworld.com/kodi.php?channel=MovieMixFight
-
-#EXTINF:-1,Asia ---TV---
-https://wagasworld.com/kodi.php?channel=MovieMixAsia
-
-#EXTINF:-1,Horror ---TV---
-https://wagasworld.com/kodi.php?channel=MovieMixHorror
-
-#EXTINF:-1,Two and a Half Men ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-taahm
-
-#EXTINF:-1,Scrubs ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-scrubs
-
-#EXTINF:-1,2Broke Girls ---TV---
-https://wagasworld.com/kodi.php?channel=2.Broke.Girls
-
-#EXTINF:-1,How I Meet Your Mother ---TV---
-https://wagasworld.com/kodi.php?channel=Himym
-
-#EXTINF:-1,Bezaubernde Jeannie ---TV---
-https://wagasworld.com/kodi.php?channel=bezauberndejeannie
-
-#EXTINF:-1,Ein Käfig voller Helden ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-kaefigvollerhelden
-
-#EXTINF:-1,Alf ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-alf
-
-#EXTINF:-1,Hör mal wer da hämmert ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-homeimprovement
-
-#EXTINF:-1,Eine schrecklich nette Familie ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-schrecklichefamilie
-
-#EXTINF:-1,Malcolm mittendrin ---TV---
-https://wagasworld.com/kodi.php?channel=malcom
-
-#EXTINF:-1,King of Queens ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-koq
-
-#EXTINF:-1,The Big Bang Theory ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-tbbt
-
-#EXTINF:-1,Prinz von Bel Air ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-belair
-
-#EXTINF:-1,Charmed ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-charmed
-
-#EXTINF:-1,Knight Rider ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-knightrider
-
-#EXTINF:-1,Das A-Team ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-ateam
-
-#EXTINF:-1,Miami Vice ---TV---
-https://wagasworld.com/kodi.php?channel=Miami.Vice
-
-#EXTINF:-1,Indiana Jones ---TV---
-https://wagasworld.com/kodi.php?channel=indianajones
-
-#EXTINF:-1,Ghostbusters ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-ghostbusters
-
-#EXTINF:-1,Didi Hallervorden ---TV---
-https://wagasworld.com/kodi.php?channel=didihallervorden
-
-#EXTINF:-1,Bud Spencer ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-buddyterence
+#EXTINF:-1,Arnold Schwarzenegger ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=ArnoldSchw
 
 #EXTINF:-1,Bruce Lee ---TV---
-https://wagasworld.com/kodi.php?channel=brucelee
-
-#EXTINF:-1,Jackie Chan ---TV---
-https://wagasworld.com/kodi.php?channel=jackie
-
-#EXTINF:-1,Jean-Claude Van Damme ---TV---
-https://wagasworld.com/kodi.php?channel=jcvd
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=brucelee
 
 #EXTINF:-1,Adam Sandler ---TV---
-https://wagasworld.com/kodi.php?channel=Adam.Sandler
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Adam.Sandler
+
+#EXTINF:-1,Jackie Chan ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=jackie
+
+#EXTINF:-1,IpMan ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=ipman
+
+#EXTINF:-1,Police Academy ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-policeakademy
+
+#EXTINF:-1,James Bond 007 ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-bondjames
+
+#EXTINF:-1,Harry Potter ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-harrypotter
+
+#EXTINF:-1,Fluch der Karibik ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-carribean
+
+#EXTINF:-1,Der weiße Hai ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=derweissehai
+
+#EXTINF:-1,Fast and Furious ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=fastandfurious
+
+#EXTINF:-1,Beverly Hills Cop ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=beverlyhillscop
+
+#EXTINF:-1,Der Hobbit ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-hobbit
+
+#EXTINF:-1,Herr der Ringe ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-hdr
+
+#EXTINF:-1,Die Mumie ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-mumie
+
+#EXTINF:-1,Die Unendliche Geschichte ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=dieunendlichegeschichte
+
+#EXTINF:-1,KidsMovie ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixKids
+
+#EXTINF:-1,CartoonMovie ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixCartoons
+
+#EXTINF:-1,MovieMix1 ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMix1
+
+#EXTINF:-1,MovieMix2 ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMix2
+
+#EXTINF:-1,MovieMix3 ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMix3
+
+#EXTINF:-1,MovieMixComedy ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixComedy
+
+#EXTINF:-1,MovieMixAction ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixFight
+
+#EXTINF:-1,Asia ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixAsia
+
+#EXTINF:-1,Horror ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixHorror
+
+#EXTINF:-1,Two and a Half Men ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-taahm
+
+#EXTINF:-1,Scrubs ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-scrubs
+
+#EXTINF:-1,2Broke Girls ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=2.Broke.Girls
+
+#EXTINF:-1,How I Meet Your Mother ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Himym
+
+#EXTINF:-1,Bezaubernde Jeannie ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=bezauberndejeannie
+
+#EXTINF:-1,Ein Käfig voller Helden ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-kaefigvollerhelden
+
+#EXTINF:-1,Alf ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-alf
+
+#EXTINF:-1,Hör mal wer da hämmert ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-homeimprovement
+
+#EXTINF:-1,Eine schrecklich nette Familie ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-schrecklichefamilie
+
+#EXTINF:-1,Malcolm mittendrin ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=malcom
+
+#EXTINF:-1,King of Queens ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-koq
+
+#EXTINF:-1,The Big Bang Theory ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-tbbt
+
+#EXTINF:-1,Prinz von Bel Air ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-belair
+
+#EXTINF:-1,Charmed ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-charmed
+
+#EXTINF:-1,Knight Rider ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-knightrider
+
+#EXTINF:-1,Das A-Team ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-ateam
+
+#EXTINF:-1,Indiana Jones ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=indianajones
+
+#EXTINF:-1,Ghostbusters ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-ghostbusters
+
+#EXTINF:-1,Didi Hallervorden ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=didihallervorden
+
+#EXTINF:-1,Bud Spencer ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-buddyterence
+
+#EXTINF:-1,Jean-Claude Van Damme ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=jcvd
+
+#EXTINF:-1,Louis de Funes ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Louis.de.Funes
+
+#EXTINF:-1,Olsenbande ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Die.Olsenbande
 
 #EXTINF:-1,AmericanFighter ---TV---
-https://wagasworld.com/kodi.php?channel=americanfighter
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=americanfighter
 
 #EXTINF:-1,BollyWood ---TV---
-https://wagasworld.com/kodi.php?channel=bollywood
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=bollywood
 
 #EXTINF:-1,The Witcher ---TV---
-https://wagasworld.com/kodi.php?channel=The.Witcher
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=The.Witcher
 
 #EXTINF:-1,Lucifer ---TV---
-https://wagasworld.com/kodi.php?channel=Lucifer
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Lucifer
 
 #EXTINF:-1,Eureka ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-eureka
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-eureka
 
 #EXTINF:-1,Warehouse13 ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-warehouse
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-warehouse
 
 #EXTINF:-1,The Flash ---TV---
-https://wagasworld.com/kodi.php?channel=TheFlash
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=TheFlash
 
 #EXTINF:-1,Unglaubliche Geschichten ---TV---
-https://wagasworld.com/kodi.php?channel=UGa
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=UGa
 
 #EXTINF:-1,Supernatural ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-spn
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-spn
 
 #EXTINF:-1,Carnival Row ---TV---
-https://wagasworld.com/kodi.php?channel=carnivalrow
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=carnivalrow
 
 #EXTINF:-1,Grimm ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-grimm
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-grimm
 
 #EXTINF:-1,Game of Thrones ---TV---
-https://wagasworld.com/kodi.php?channel=GoT
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=GoT
 
 #EXTINF:-1,Doctor Who ---TV---
-https://wagasworld.com/kodi.php?channel=doctor-who
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=doctor-who
 
 #EXTINF:-1,Buck Rogers ---TV---
-https://wagasworld.com/kodi.php?channel=buckrogers
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=buckrogers
 
 #EXTINF:-1,Firefly ---TV---
-https://wagasworld.com/kodi.php?channel=firefly
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=firefly
 
 #EXTINF:-1,SeaQuest DSV ---TV---
-https://wagasworld.com/kodi.php?channel=seaquestdsv
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=seaquestdsv
 
 #EXTINF:-1,Mission Erde ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-missionerde
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-missionerde
 
 #EXTINF:-1,Mondbasis Alpha 1 ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-mondbasis
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-mondbasis
 
 #EXTINF:-1,Raumpatrouille Orion ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-orion
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-orion
 
 #EXTINF:-1,UFO - Weltraumkommando S.H.A.D.O. ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-ufo
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-ufo
 
 #EXTINF:-1,Kampfstern Galactica ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-galactica
-
-#EXTINF:-1,Orville ---TV---
-https://wagasworld.com/kodi.php?channel=theorville
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-galactica
 
 #EXTINF:-1,Babylon 5 ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-babylon5
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-babylon5
+
+#EXTINF:-1,Orville ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=theorville
 
 #EXTINF:-1,Star Trek - Enterprise ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-nextenterprise
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-nextenterprise
 
 #EXTINF:-1,Star Trek - Raumschiff Enterprise ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-startrek
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-startrek
 
 #EXTINF:-1,Star Trek - Animated ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-trekkieanimated
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-trekkieanimated
 
 #EXTINF:-1,Star Trek - The Next Generation ---TV---
-https://wagasworld.com/kodi.php?channel=next-generation
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=next-generation
 
 #EXTINF:-1,Star Trek - Deep Space 9 ---TV---
-https://wagasworld.com/kodi.php?channel=ds9
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=ds9
 
 #EXTINF:-1,Star Trek - Voyager ---TV---
-https://wagasworld.com/kodi.php?channel=voyager
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=voyager
 
 #EXTINF:-1,Star Trek - Discovery ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-discovery
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-discovery
+
+#EXTINF:-1,Star Trek - Picard ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=startrekpicard
 
 #EXTINF:-1,Star Trek MOVIE ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-trekkiemovies
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-trekkiemovies
 
 #EXTINF:-1,Stargate SG1 ---TV---
-https://wagasworld.com/kodi.php?channel=stargate
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=stargate
 
 #EXTINF:-1,Stargate Atlantis ---TV---
-https://wagasworld.com/kodi.php?channel=stargate-atlantis
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=stargate-atlantis
 
 #EXTINF:-1,Stargate Universe ---TV---
-https://wagasworld.com/kodi.php?channel=stargate-universe
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=stargate-universe
 
 #EXTINF:-1,Star Wars ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-starwars
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-starwars
 
 #EXTINF:-1,V - Die Außerirdischen ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-vdieausserirdischen
-
-#EXTINF:-1,Dinos  ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-diedinos
-
-#EXTINF:-1,Löwenzahn  ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-loewenzahn
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-vdieausserirdischen
 
 #EXTINF:-1,Michel aus Lönneberga  ---TV---
-https://wagasworld.com/kodi.php?channel=michel
-
-#EXTINF:-1,Pippi Langstrumpf  ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-langstrumpf
-
-#EXTINF:-1,Adolars  ---TV---
-https://wagasworld.com/kodi.php?channel=Adolars
-
-#EXTINF:-1,Bibi Blocksberg  ---TV---
-https://wagasworld.com/kodi.php?channel=Bibi.Blocksberg
-
-#EXTINF:-1,Tim und Struppi  ---TV---
-https://wagasworld.com/kodi.php?channel=Tim.und.Struppi
-
-#EXTINF:-1,Disneys Gummibärenbande ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-gummibaerenbande
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=michel
 
 #EXTINF:-1,Barbie ---TV---
-https://wagasworld.com/kodi.php?channel=Barbie
-
-#EXTINF:-1,Detektiv Conan ---TV---
-https://wagasworld.com/kodi.php?channel=DConanFilme
-
-#EXTINF:-1,Castlevania ---TV---
-https://wagasworld.com/kodi.php?channel=Castlevania
-
-#EXTINF:-1,Attack on Titan ---TV---
-https://wagasworld.com/kodi.php?channel=AttackonTitan
-
-#EXTINF:-1,DuckTales ---TV---
-https://wagasworld.com/kodi.php?channel=DuckTales
-
-#EXTINF:-1,KäptnBalu ---TV---
-https://wagasworld.com/kodi.php?channel=kaptainbalu
-
-#EXTINF:-1,Tom und Jerry ---TV---
-https://wagasworld.com/kodi.php?channel=Tom.und.Jerry
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Barbie
 
 #EXTINF:-1,He-Man - Im Tal der Macht ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-heman
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-heman
 
 #EXTINF:-1,Guardian of the Galaxy Zeichentrick ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-guardianofthegalaxy
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-guardianofthegalaxy
 
 #EXTINF:-1,Simpsons ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-simpsons
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-simpsons
 
 #EXTINF:-1,New Spiderman ---TV---
-https://wagasworld.com/kodi.php?channel=newspiderman
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=newspiderman
+
+#EXTINF:-1,Pippi Langstrumpf  ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-langstrumpf
+
+#EXTINF:-1,Adolars  ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Adolars
+
+#EXTINF:-1,Bibi Blocksberg  ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Bibi.Blocksberg
+
+#EXTINF:-1,Tim und Struppi  ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Tim.und.Struppi
+
+#EXTINF:-1,Disneys Gummibärenbande ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-gummibaerenbande
+
+#EXTINF:-1,Detektiv Conan ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=DConanFilme
+
+#EXTINF:-1,Castlevania ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Castlevania
+
+#EXTINF:-1,Attack on Titan ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=AttackonTitan
+
+#EXTINF:-1,DuckTales ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=DuckTales
+
+#EXTINF:-1,KäptnBalu ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=kaptainbalu
+
+#EXTINF:-1,Tom und Jerry ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Tom.und.Jerry
 
 #EXTINF:-1,Die Jetsons ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-diejetsons
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-diejetsons
 
 #EXTINF:-1,Futurama ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-futurama
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-futurama
 
 #EXTINF:-1,Captain Future ---TV---
-https://wagasworld.com/kodi.php?channel=captainfuture
-
-#EXTINF:-1,Yu-Gi-oh ---TV---
-https://wagasworld.com/kodi.php?channel=yugioh
-
-#EXTINF:-1,Dragon Ball Z ---TV---
-https://wagasworld.com/kodi.php?channel=Dragonball.Z
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=captainfuture
 
 #EXTINF:-1,Southpark ---TV---
-https://wagasworld.com/kodi.php?channel=southpark
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=southpark
 
 #EXTINF:-1,Geheimnisse des Universums ---TV---
-https://wagasworld.com/kodi.php?channel=guldukat-universum
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-universum
+
+#EXTINF:-1,Entspannungs ---TV---
+plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=entspannung
 
 #EXTINF:-1,WWE TV and SportTV
 http://cdnak12.cast4u.info/channels/3/10803.m3u8
