@@ -1,4 +1,8 @@
 #EXTM3U#
+#EXTINF:-1,--CLIP182---
+rtmp://fcs5-1.streamate.com/vod/extss/mp4:2021-02-09/show_8274567474_1612845259515_external
+#EXTINF:-1,--CLIP181---
+rtmp://fcs5-1.streamate.com/vod/extss/mp4:2021-02-02/show_8261466425_1612240534849_external
 #EXTINF:-1,--CLIP180---
 rtmp://fcs5-1.streamate.com/vod/extss/mp4:2021-01-26/show_8248366107_1611635761627_external
 #EXTINF:-1,--CLIP179---
