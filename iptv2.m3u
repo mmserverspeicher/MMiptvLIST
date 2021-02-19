@@ -2,6 +2,9 @@
 #EXTINF:-1,MMiptvLIST
 https://ia802906.us.archive.org/2/items/mmtvlist/MMiptvLIST.mp4
 
+#EXTINF:0,Whistleblower aus Berliner Altenheim - Das schreckliche Sterben nach der Impfung
+https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
+
 #EXTINF:-1,Deluxe Music
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b500000_slde.m3u8
 
@@ -37,6 +40,9 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
 #EXTINF:-1,Servus TV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_3392.m3u8
+
+#EXTINF:-1,oe24.TV
+https://varoe24live.sf.apa.at:443/oe24-live1/oe24.smil/chunklist_b946000.m3u8
 
 #EXTINF:-1,VIVA TV
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
@@ -108,364 +114,325 @@ https://archive.org/download/MMletsPLAYINGGearsOfWarUltimateEditionXBOXONE/MMlet
 https://ia601905.us.archive.org/0/items/MMletsPLAYINGGearsOfWar4XBOXONE/MMletsPLAYING-Gears-of-War-4-XBOX-ONE.mp4
 
 #EXTINF:-1,WagasWorld.com Werbung und andere ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=werbung
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=werbung
 
 #EXTINF:-1,ChrismasTime ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Chrismas
-
-#EXTINF:-1,MARVEL-AND-DC-MOVIE ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-marvelvsdc
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Chrismas
 
 #EXTINF:-1,Bad Ass ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Bad.Ass
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Bad.Ass
 
 #EXTINF:-1,Kevin Allein zu Haus ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Kevin.Allein.zu.Haus
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Kevin.Allein.zu.Haus
 
 #EXTINF:-1,Miss Marple Movie ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Miss.Marple
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Miss.Marple
 
 #EXTINF:-1,Vintage SciFi ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-vintagescifi
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-vintagescifi
 
 #EXTINF:-1,Mad Mission ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MadMission
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MadMission
 
 #EXTINF:-1,American Pie ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=American.Pie
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=American.Pie
 
 #EXTINF:-1,Planet der Affen ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Planet.der.Affen
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Planet.der.Affen
 
 #EXTINF:-1,Rocky ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-rocky
-
-#EXTINF:-1,Sylvester Stallone ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=SlyStallone
-
-#EXTINF:-1,Arnold Schwarzenegger ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=ArnoldSchw
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-rocky
 
 #EXTINF:-1,Bruce Lee ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=brucelee
-
-#EXTINF:-1,Adam Sandler ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Adam.Sandler
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=brucelee
 
 #EXTINF:-1,Jackie Chan ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=jackie
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=jackie
 
 #EXTINF:-1,IpMan ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=ipman
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=ipman
 
 #EXTINF:-1,Police Academy ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-policeakademy
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-policeakademy
 
 #EXTINF:-1,James Bond 007 ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-bondjames
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-bondjames
 
 #EXTINF:-1,Harry Potter ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-harrypotter
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-harrypotter
 
 #EXTINF:-1,Fluch der Karibik ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-carribean
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-carribean
 
 #EXTINF:-1,Der weiße Hai ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=derweissehai
-
-#EXTINF:-1,Fast and Furious ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=fastandfurious
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=derweissehai
 
 #EXTINF:-1,Beverly Hills Cop ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=beverlyhillscop
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=beverlyhillscop
 
 #EXTINF:-1,Der Hobbit ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-hobbit
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-hobbit
 
 #EXTINF:-1,Herr der Ringe ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-hdr
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-hdr
 
 #EXTINF:-1,Die Mumie ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-mumie
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-mumie
 
 #EXTINF:-1,Die Unendliche Geschichte ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=dieunendlichegeschichte
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=dieunendlichegeschichte
 
 #EXTINF:-1,KidsMovie ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixKids
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixKids
 
 #EXTINF:-1,CartoonMovie ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixCartoons
-
-#EXTINF:-1,MovieMix1 ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMix1
-
-#EXTINF:-1,MovieMix2 ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMix2
-
-#EXTINF:-1,MovieMix3 ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMix3
-
-#EXTINF:-1,MovieMixComedy ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixComedy
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixCartoons
 
 #EXTINF:-1,MovieMixAction ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixFight
-
-#EXTINF:-1,Asia ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixAsia
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixFight
 
 #EXTINF:-1,Horror ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=MovieMixHorror
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixHorror
 
 #EXTINF:-1,Two and a Half Men ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-taahm
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-taahm
 
 #EXTINF:-1,Scrubs ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-scrubs
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-scrubs
 
 #EXTINF:-1,2Broke Girls ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=2.Broke.Girls
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=2.Broke.Girls
 
 #EXTINF:-1,How I Meet Your Mother ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Himym
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Himym
 
 #EXTINF:-1,Bezaubernde Jeannie ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=bezauberndejeannie
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=bezauberndejeannie
 
 #EXTINF:-1,Ein Käfig voller Helden ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-kaefigvollerhelden
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-kaefigvollerhelden
 
 #EXTINF:-1,Alf ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-alf
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-alf
 
 #EXTINF:-1,Hör mal wer da hämmert ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-homeimprovement
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-homeimprovement
 
 #EXTINF:-1,Eine schrecklich nette Familie ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-schrecklichefamilie
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-schrecklichefamilie
 
 #EXTINF:-1,Malcolm mittendrin ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=malcom
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=malcom
 
 #EXTINF:-1,King of Queens ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-koq
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-koq
 
 #EXTINF:-1,The Big Bang Theory ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-tbbt
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-tbbt
 
 #EXTINF:-1,Prinz von Bel Air ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-belair
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-belair
 
 #EXTINF:-1,Charmed ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-charmed
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-charmed
 
 #EXTINF:-1,Knight Rider ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-knightrider
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-knightrider
 
 #EXTINF:-1,Das A-Team ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-ateam
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-ateam
 
 #EXTINF:-1,Indiana Jones ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=indianajones
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=indianajones
 
 #EXTINF:-1,Ghostbusters ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-ghostbusters
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-ghostbusters
 
 #EXTINF:-1,Didi Hallervorden ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=didihallervorden
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=didihallervorden
 
 #EXTINF:-1,Bud Spencer ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-buddyterence
-
-#EXTINF:-1,Jean-Claude Van Damme ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=jcvd
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-buddyterence
 
 #EXTINF:-1,Louis de Funes ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Louis.de.Funes
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Louis.de.Funes
 
 #EXTINF:-1,Olsenbande ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Die.Olsenbande
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Die.Olsenbande
 
 #EXTINF:-1,AmericanFighter ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=americanfighter
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=americanfighter
 
 #EXTINF:-1,BollyWood ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=bollywood
-
-#EXTINF:-1,The Witcher ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=The.Witcher
-
-#EXTINF:-1,Lucifer ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Lucifer
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=bollywood
 
 #EXTINF:-1,Eureka ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-eureka
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-eureka
 
 #EXTINF:-1,Warehouse13 ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-warehouse
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-warehouse
 
 #EXTINF:-1,The Flash ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=TheFlash
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=TheFlash
 
 #EXTINF:-1,Unglaubliche Geschichten ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=UGa
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=UGa
 
 #EXTINF:-1,Supernatural ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-spn
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-spn
 
 #EXTINF:-1,Carnival Row ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=carnivalrow
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=carnivalrow
 
 #EXTINF:-1,Grimm ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-grimm
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-grimm
 
 #EXTINF:-1,Game of Thrones ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=GoT
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=GoT
 
 #EXTINF:-1,Doctor Who ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=doctor-who
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=doctor-who
 
 #EXTINF:-1,Buck Rogers ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=buckrogers
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=buckrogers
 
 #EXTINF:-1,Firefly ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=firefly
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=firefly
 
 #EXTINF:-1,SeaQuest DSV ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=seaquestdsv
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=seaquestdsv
 
 #EXTINF:-1,Mission Erde ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-missionerde
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-missionerde
 
 #EXTINF:-1,Mondbasis Alpha 1 ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-mondbasis
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-mondbasis
 
 #EXTINF:-1,Raumpatrouille Orion ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-orion
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-orion
 
 #EXTINF:-1,UFO - Weltraumkommando S.H.A.D.O. ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-ufo
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-ufo
 
 #EXTINF:-1,Kampfstern Galactica ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-galactica
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-galactica
 
 #EXTINF:-1,Babylon 5 ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-babylon5
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-babylon5
 
 #EXTINF:-1,Orville ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=theorville
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=theorville
 
 #EXTINF:-1,Star Trek - Enterprise ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-nextenterprise
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-nextenterprise
 
 #EXTINF:-1,Star Trek - Raumschiff Enterprise ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-startrek
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-startrek
 
 #EXTINF:-1,Star Trek - Animated ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-trekkieanimated
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-trekkieanimated
+
+#EXTINF:-1,Star Trek - Short Treks ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=star-trek-short-treks
 
 #EXTINF:-1,Star Trek - The Next Generation ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=next-generation
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=next-generation
 
 #EXTINF:-1,Star Trek - Deep Space 9 ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=ds9
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=ds9
 
 #EXTINF:-1,Star Trek - Voyager ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=voyager
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=voyager
 
 #EXTINF:-1,Star Trek - Discovery ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-discovery
-
-#EXTINF:-1,Star Trek - Picard ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=startrekpicard
-
-#EXTINF:-1,Star Trek MOVIE ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-trekkiemovies
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-discovery
 
 #EXTINF:-1,Stargate SG1 ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=stargate
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=stargate
 
 #EXTINF:-1,Stargate Atlantis ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=stargate-atlantis
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=stargate-atlantis
 
 #EXTINF:-1,Stargate Universe ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=stargate-universe
-
-#EXTINF:-1,Star Wars ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-starwars
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=stargate-universe
 
 #EXTINF:-1,V - Die Außerirdischen ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-vdieausserirdischen
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-vdieausserirdischen
 
 #EXTINF:-1,Michel aus Lönneberga  ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=michel
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=michel
 
 #EXTINF:-1,Barbie ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Barbie
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Barbie
 
 #EXTINF:-1,He-Man - Im Tal der Macht ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-heman
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-heman
 
 #EXTINF:-1,Guardian of the Galaxy Zeichentrick ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-guardianofthegalaxy
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-guardianofthegalaxy
 
 #EXTINF:-1,Simpsons ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-simpsons
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-simpsons
+
+#EXTINF:-1,American Dad ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=americandad
+
+#EXTINF:-1,Family Guy ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=familyguy
 
 #EXTINF:-1,New Spiderman ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=newspiderman
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=newspiderman
 
 #EXTINF:-1,Pippi Langstrumpf  ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-langstrumpf
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-langstrumpf
 
 #EXTINF:-1,Adolars  ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Adolars
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Adolars
 
 #EXTINF:-1,Bibi Blocksberg  ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Bibi.Blocksberg
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Bibi.Blocksberg
 
 #EXTINF:-1,Tim und Struppi  ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Tim.und.Struppi
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Tim.und.Struppi
 
 #EXTINF:-1,Disneys Gummibärenbande ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-gummibaerenbande
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-gummibaerenbande
 
 #EXTINF:-1,Detektiv Conan ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=DConanFilme
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=DConanFilme
 
 #EXTINF:-1,Castlevania ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Castlevania
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Castlevania
 
 #EXTINF:-1,Attack on Titan ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=AttackonTitan
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=AttackonTitan
 
 #EXTINF:-1,DuckTales ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=DuckTales
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=DuckTales
 
 #EXTINF:-1,KäptnBalu ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=kaptainbalu
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=kaptainbalu
 
 #EXTINF:-1,Tom und Jerry ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=Tom.und.Jerry
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Tom.und.Jerry
 
 #EXTINF:-1,Die Jetsons ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-diejetsons
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-diejetsons
 
 #EXTINF:-1,Futurama ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-futurama
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-futurama
 
 #EXTINF:-1,Captain Future ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=captainfuture
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=captainfuture
 
 #EXTINF:-1,Southpark ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=southpark
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=southpark
 
 #EXTINF:-1,Geheimnisse des Universums ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=guldukat-universum
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-universum
 
 #EXTINF:-1,Entspannungs ---TV---
-plugin://plugin.video.wagasworld/?action=play&video=https://wagasworld.com/kodi2.php?channel=entspannung
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=entspannung
 
 #EXTINF:-1,WWE TV and SportTV
 http://cdnak12.cast4u.info/channels/3/10803.m3u8
