@@ -1,18 +1,31 @@
 #EXTM3U
 #EXTINF:0,CineMM
 https://ia801202.us.archive.org/31/items/CineMMlogo/CineMMlogo.mp4
+
+#EXTINF:0,Raya und der letzte Drache
+http://5.9.29.179:12000/tedeschi/2021/03/Raya.und.der.letzte.Drache.2021.Ger.720p.mp4
+
+#EXTINF:0,Der Prinz aus Zamunda 2
+http://5.9.29.179:12000/tedeschi/2021/03/Der.Prinz.aus.Zamunda.2.2021.GER.720P.mp4
+
 #EXTINF:0,Wonder Woman 1984
 http://5.9.29.179:12000/tedeschi/2021/02/Wonder.Woman.1984.ger.720.mp4
+
 #EXTINF:0,Neues aus der Welt
 http://5.9.29.179:12000/tedeschi/2021/02/Neues.aus.der.Welt.2020.Ger.720.mp4
+
 #EXTINF:0,Palmer
 http://5.9.29.179:12000/tedeschi/2021/02/Palmer.2021.Ger.720.mp4
+
 #EXTINF:0,Der geheime Garten
 http://5.9.29.179:12000/tedeschi/2021/02/Der.geheime.Garten.2020.Ger.720.mp4
+
 #EXTINF:0,Die Misswahl - Der Beginn einer Revolution
 http://5.9.29.179:12000/tedeschi/2021/02/Die.Misswahl.Der.Beginn.einer.Revolution.2020.Ger.720.mp4
+
 #EXTINF:0,Wächter der Galaxis
 http://5.9.29.179:12000/tedeschi/2021/02/Waechter.der.Galaxis.2020.Ger.DTS.720.mkv
+
 #EXTINF:0,The.Intergalactic.Adventures.of.Max.Cloud.2020.Ger.DTS.720.mkv
 http://5.9.29.179:12000/tedeschi/2021/02/The.Intergalactic.Adventures.of.Max.Cloud.2020.Ger.DTS.720.mkv
 #EXTINF:0,Bliss.2021.GER.720.mp4
