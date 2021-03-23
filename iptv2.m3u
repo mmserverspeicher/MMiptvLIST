@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,MMiptvLIST
-https://ia802906.us.archive.org/2/items/mmtvlist/MMiptvLIST.mp4
+https://archive.org/download/mmtvlist/MMiptvLIST.mp4
 
 #EXTINF:-1,Whistleblower aus Berliner Altenheim - Das schreckliche Sterben nach der Impfung
 https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
@@ -9,7 +9,7 @@ https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenhei
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b500000_slde.m3u8
 
 #EXTINF:-1,MMgameSTATION
-https://ia601001.us.archive.org/6/items/XBOX360MMgameSTATION/XBOX360%20MMgameSTATION.mp4
+https://archive.org/download/XBOX360MMgameSTATION/XBOX360%20MMgameSTATION.mp4
 
 #EXTINF:-1,ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -111,9 +111,15 @@ http://youvodfree-vh.akamaihd.net/i/delivery/a6/3a/a63ad9ea-d99b-4264-8c22-75bfd
 https://archive.org/download/MMletsPLAYINGGearsOfWarUltimateEditionXBOXONE/MMletsPLAYING%20-%20Gears%20of%20War%20-%20Ultimate%20Edition%20-%20XBOX%20ONE.mp4
 
 #EXTINF:-1,MMletsPLAYING - Gears Of War 4 - XBOX ONE
-https://ia601905.us.archive.org/0/items/MMletsPLAYINGGearsOfWar4XBOXONE/MMletsPLAYING-Gears-of-War-4-XBOX-ONE.mp4
+https://archive.org/download/MMletsPLAYINGGearsOfWar4XBOXONE/MMletsPLAYING-Gears-of-War-4-XBOX-ONE.mp4
 
-#EXTINF:-1,WagasWorld.com Werbung und andere ---TV---
+#EXTINF:-1,Best of MR.M.M.
+https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4
+
+#EXTINF:-1,AIDA
+https://archive.org/download/resource.uisounds.mm.sounds/Video-Aida.mp4
+
+#EXTINF:-1,WagasWorld.com ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=werbung
 
 #EXTINF:-1,ChrismasTime ---TV---
@@ -164,6 +170,12 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=der
 #EXTINF:-1,Beverly Hills Cop ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=beverlyhillscop
 
+#EXTINF:-1,Twilight ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Twilight
+
+#EXTINF:-1,Fast and Furious ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=fastandfurious
+
 #EXTINF:-1,Der Hobbit ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-hobbit
 
@@ -181,6 +193,18 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Mov
 
 #EXTINF:-1,CartoonMovie ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixCartoons
+
+#EXTINF:-1,MovieMix1 ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMix1
+
+#EXTINF:-1,MovieMix2 ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMix2
+
+#EXTINF:-1,MovieMixComedy ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixComedy
+
+#EXTINF:-1,Hero ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-marvelvsdc
 
 #EXTINF:-1,MovieMixAction ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixFight
@@ -296,6 +320,12 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=UGa
 #EXTINF:-1,Supernatural ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-spn
 
+#EXTINF:-1,Motherland - Fort Salem ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Motherland.Fort.Salem
+
+#EXTINF:-1,Swamp Thing ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Swamp.Thing
+
 #EXTINF:-1,Carnival Row ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=carnivalrow
 
@@ -359,9 +389,6 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=gul
 #EXTINF:-1,Star Trek - Animated ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-trekkieanimated
 
-#EXTINF:-1,Star Trek - Short Treks ---TV---
-https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=star-trek-short-treks
-
 #EXTINF:-1,Star Trek - The Next Generation ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=next-generation
 
@@ -373,6 +400,18 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=voy
 
 #EXTINF:-1,Star Trek - Discovery ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-discovery
+
+#EXTINF:-1,Star Trek - Short Treks ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=star-trek-short-treks
+
+#EXTINF:-1,Star Trek - Picard ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=startrekpicard
+
+#EXTINF:-1,Star Trek MOVIE ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-trekkiemovies
+
+#EXTINF:-1,Star Wars ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-starwars
 
 #EXTINF:-1,Stargate SG1 ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=stargate
