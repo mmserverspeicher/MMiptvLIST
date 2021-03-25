@@ -2,8 +2,11 @@
 #EXTINF:-1,MMiptvLIST
 https://archive.org/download/mmtvlist/MMiptvLIST.mp4
 
-#EXTINF:-1,Whistleblower aus Berliner Altenheim - Das schreckliche Sterben nach der Impfung
+#EXTINF:-1,Whistleblower aus Berliner Altenheim - Das schreckliche Sterben nach der Impfung am 24. Februar 2021
 https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
+
+#EXTINF:-1,Polizei drangsaliert Senioren in Magdeburg am 11. Januar 2021
+https://2020news.de/wp-content/uploads/2021/01/100000a.mp4
 
 #EXTINF:-1,Deluxe Music
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b500000_slde.m3u8
@@ -116,8 +119,14 @@ https://archive.org/download/MMletsPLAYINGGearsOfWar4XBOXONE/MMletsPLAYING-Gears
 #EXTINF:-1,Best of MR.M.M.
 https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4
 
+#EXTINF:-1,SuperTHAM
+https://archive.org/download/resource.uisounds.mm.sounds/Video-Super-THAM.mp4
+
 #EXTINF:-1,AIDA
 https://archive.org/download/resource.uisounds.mm.sounds/Video-Aida.mp4
+
+#EXTINF:-1,HANNA
+https://archive.org/download/resource.uisounds.mm.sounds/Video-Hanna.mp4
 
 #EXTINF:-1,WagasWorld.com ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=werbung
@@ -344,6 +353,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Lup
 #EXTINF:-1,Game of Thrones ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=GoT
 
+#EXTINF:-1,The Witcher ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=The.Witcher
+
 #EXTINF:-1,Doctor Who ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=doctor-who
 
@@ -470,6 +482,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=gul
 #EXTINF:-1,Detektiv Conan ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=DConanFilme
 
+#EXTINF:-1,Detektiv Conan Serie ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-conan
+
 #EXTINF:-1,Castlevania ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Castlevania
 
@@ -478,6 +493,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Att
 
 #EXTINF:-1,Highschool of the Dead ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=HOtD
+
+#EXTINF:-1,ID-0 ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=ID-0
 
 #EXTINF:-1,DuckTales ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=DuckTales
