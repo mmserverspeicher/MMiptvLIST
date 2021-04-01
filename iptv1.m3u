@@ -1,6 +1,27 @@
 #EXTM3U
 #EXTINF:0,CineMM
-https://ia801202.us.archive.org/31/items/CineMMlogo/CineMMlogo.mp4
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
+
+#EXTINF:0,Superintelligence
+http://5.9.29.179:12000/tedeschi/2021/03/Superintelligence.2020.Ger.1080.mp4
+
+#EXTINF:0,The Little Things
+http://5.9.29.179:12000/tedeschi/2021/03/The.Little.Things.2021.Ger.720.mp4
+
+#EXTINF:0,Willys Wonderland
+http://5.9.29.179:12000/tedeschi/2021/03/Willys.Wonderland.2021.Ger.720.mp4
+
+#EXTINF:0,Stay Alive - Überleben um jeden Preis
+http://5.9.29.179:12000/tedeschi/2021/03/Stay.Alive.Ueberleben.um.jeden.Preis.2020.Ger.720.mkv
+
+#EXTINF:0,Sentinelle
+http://5.9.29.179:12000/tedeschi/2021/03/Sentinelle.2021.GER.1080p.mp4
+
+#EXTINF:0,Silk Road Gebieter des Darknets
+http://5.9.29.179:12000/tedeschi/2021/03/Silk.Road.Gebieter.des.Darknets.2021.Ger.720.mp4
+
+#EXTINF:0,Voices Stimmen aus dem Jenseits
+http://5.9.29.179:12000/tedeschi/2021/03/Voices.Stimmen.aus.dem.Jenseits.2020.Ger.DTS.720.mp4
 
 #EXTINF:0,Raya und der letzte Drache
 http://5.9.29.179:12000/tedeschi/2021/03/Raya.und.der.letzte.Drache.2021.Ger.720p.mp4
