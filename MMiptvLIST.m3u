@@ -122,7 +122,7 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=gul
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-CartoonTRICKs.png" group-title="CineMM", CineMM CartoonTRICKs
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixCartoons
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" group-title="CineMM", CineMM MovieKids
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" group-title="CineMM", CineMM MOVIEkids
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixKids
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Street-Fighter---TV---.png" group-title="Movies", Street Fighter ---TV---
@@ -218,7 +218,7 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=gul
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/Der%20Weisse%20Hai.jpg" group-title="Movies", Der Weisse Hai ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=derweissehai
 
-#EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/Dick%20%26%20Doof.jpg" group-title="Movies", Dick & Doof ---TV---
+#EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/Dick%20%26%20Doof.jpg" group-title="Movies", Dick und Doof ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-dickdoof
 
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/Die%20Mumie.jpg" group-title="Movies", Die Mumie ---TV---
@@ -245,7 +245,7 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Her
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/Herr%20der%20Ringe.jpg" group-title="Movies", Herr der Ringe ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-hdr
 
-#EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/Indiana%20Jones.jpg" group-title="Movies", Indiana Jones
+#EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/Indiana%20Jones.jpg" group-title="Movies", Indiana Jones ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=indianajones
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jackie-Chan---TV---.png" group-title="Movies", Jackie Chan ---TV---
@@ -288,7 +288,7 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Nig
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Species
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/KiKA.png" group-title="Kids", KiKA
-https://kikageohls-i.akamaihd.net:443/hls/live/1006268/livetvkika_de/master_720.m3u8
+https://kikageohls.akamaized.net:443/hls/live/2022693/livetvkika_de/master-720p-3628.m3u8
 
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/l%C3%B6wenzahn.png" group-title="Kids", Löwenzahn ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-loewenzahn
@@ -640,6 +640,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=haw
 
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/Knight-Rider-Universal-Pictures-Home-Entertainment.jpg" group-title="Crime", Knight Rider ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-knightrider
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MacGyver---TV---.png" group-title="Crime", MacGyver ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=ClassicMacGyver
 
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/97234.jpg" group-title="Crime", Mac Gyver ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=macgyver
