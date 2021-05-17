@@ -122,7 +122,7 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=gul
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-CartoonTRICKs.png" group-title="CineMM", CineMM CartoonTRICKs
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixCartoons
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" group-title="CineMM", CineMM MOVIEkids
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" group-title="CineMM", CineMM MOVIEkiDs
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixKids
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Street-Fighter---TV---.png" group-title="Movies", Street Fighter ---TV---
@@ -497,6 +497,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=gul
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/yound%20sheldon.jpg" group-title="Sitcoms", Young Sheldon ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-youngsheldon
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Vikings---TV---.png" group-title="FantasyMystery", Vikings ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Vikings
+
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/eureka-die-geheime-stadt.jpg" group-title="FantasyMystery", Eureka ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-eureka
 
@@ -539,7 +542,7 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Swa
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-03/wallpapersden.com_legacies-tv-show_3840x2160.jpg" group-title="FantasyMystery", Legacies ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Legacies
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Picard---TV---.png" group-title="SciFi", Star Trek - Picard
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Picard---TV---.png" group-title="SciFi", Star Trek - Picard ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=startrekpicard
 
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/250px-Raumpatrouille_orion.jpg" group-title="SciFi", Raumpatrouille Orion ---TV---
@@ -557,7 +560,7 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=doc
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/firefly.jpeg" group-title="SciFi", Firefly ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=firefly
 
-#EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/galactica.jpg" group-title="SciFi", Kampfstern Galactica
+#EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/galactica.jpg" group-title="SciFi", Kampfstern Galactica ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-galactica
 
 #EXTINF:0 tvg-logo="https://wagasworld.com/sites/default/files/styles/large/public/2021-01/erde.jpg" group-title="SciFi", Mission Erde ---TV---
