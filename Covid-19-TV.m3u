@@ -2,8 +2,14 @@
 #EXTINF:0,MMiptvLIST
 https://archive.org/download/mmtvlist/MMiptvLIST.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 64 - Jetzt Live
-https://fra-cdn.livepeer.com:443/hls/04c41ufeqb4lnijk/10_0/index.m3u8
+#EXTINF:0,Ignaz Bearth
+https://fra-cdn.livepeer.com/hls/80b8mran6du2cl1v/index.m3u8
+
+#EXTINF:0,OVALmedia
+https://fra-cdn.livepeer.com/hls/04c41ufeqb4lnijk/index.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss
+https://mdw-cdn.livepeer.com/hls/b8614b5h7g8jvkv6/index.m3u8
 
 #EXTINF:0,Corona.Film - Prologue
 https://tcode.kenfm.de/download/videos/fa1e71fd-6226-47c8-baa2-eaf45ca068d0-720.mp4
@@ -55,6 +61,9 @@ https://fra-cdn.livepeer.com:443/recordings/b861517b-c617-45ad-81ed-71eb65ab77c3
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 63 - Im Auge des Sturms
 https://eu-p1.lbryplayer.xyz/api/v4/streams/tc/sca63_converted_720p/0bf543b8f9d5061694b417a16d5d1f2c4f523664/0104815ed8c69ba0c4b5641db06893ec8106a23e5e90257951a467dac98fefe1313231bf8656fb9090068e4e7aa0307a/master.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 64 - Medienkritik war gestern
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-64-Medienkritik-war-gestern/cf90876bbe5868d835c47d8e14f7bde51461c288/25048e.mp4
 
 #EXTINF:0,EMPTY - Der weiße Schatten des schwarzen Schwans - Teil 1
 https://tube.kai-stuht.com/download/videos/6fc5b1c0-b57e-44f6-82f4-f989d2e3f145-720.mp4
