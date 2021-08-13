@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0,MMiptvLIST
-https://archive.org/download/mmtvlist/MMiptvLIST.mp4
+#EXTINF:0,Covid-19-TV
+https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/C-TV.mp4
 
 #EXTINF:0,Ignaz Bearth ---LiveTV---
 https://fra-cdn.livepeer.com/hls/80b8mran6du2cl1v/index.m3u8
