@@ -78,10 +78,10 @@ https://fra-cdn.livepeer.com:443/recordings/b861517b-c617-45ad-81ed-71eb65ab77c3
 https://eu-p7.lbryplayer.xyz:443/api/v4/streams/tc/sca63_converted_720p/0bf543b8f9d5061694b417a16d5d1f2c4f523664/0104815ed8c69ba0c4b5641db06893ec8106a23e5e90257951a467dac98fefe1313231bf8656fb9090068e4e7aa0307a/stream_0.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 64 - Medienkritik war gestern
-https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/Sitzung-64-Medienkritik-war-gestern/cf90876bbe5868d835c47d8e14f7bde51461c288/25048ecf981d9598d1c30607a1fbfd3ac8a511023c77c4f1838b31c25abd3994ed5aae4b22ddff49c71b6dfcdd315071/stream_0.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-64-Medienkritik-war-gestern/cf90876bbe5868d835c47d8e14f7bde51461c288/25048e.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 65 - Internationale Solidarität
-https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/Sitzung-65-Internationale-Solidarit%c3%a4t/a4937cc4b9b988211be9016dda9de18ddfb0f0fb/5031bd1b5f4f52b590d26ce40ef1854e083b3cc027868b1d8cb507f6acb59aec593e1a7c0724280274360ae812005631/stream_0.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-65-Internationale-Solidarit%C3%A4t/a4937cc4b9b988211be9016dda9de18ddfb0f0fb/5031bd.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 66 - Kettenreaktion
 https://fra-cdn.livepeer.com:443/recordings/b8615513-7934-48d8-a014-77b30216ad46/720p0.m3u8
