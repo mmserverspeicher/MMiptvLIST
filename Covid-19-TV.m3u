@@ -89,6 +89,9 @@ https://fra-cdn.livepeer.com:443/recordings/b8615513-7934-48d8-a014-77b30216ad46
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 67 - Die Drücker
 https://eu-p3.lbryplayer.xyz:443/api/v4/streams/tc/Sitzung-67-Die-Dr%c3%bccker-online/b45b4426736f894329a301fd104cd31da540caff/1c7cff6f1559469558224ab53f610fbf45256cebe1e861258ee260596ce514eb3264a9291a52c60e9ad6503c641e6203/stream_0.m3u8
 
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 68 - Wirksamer Widerstand
+https://eu-p7.lbryplayer.xyz:443/api/v4/streams/tc/Sitzung-68-Wirksamer-Widerstand_online/ffdd4c4950f901ff523a9594cdaefb95e31307d9/4923c850c89156aa787a12c9c5f42f619415f99f9bdb6cf816640a631817147108b44c0239198c8cef687dd051784e32/stream_0.m3u8
+
 #EXTINF:0,EMPTY - Der weiße Schatten des schwarzen Schwans - Teil 1
 https://tube.kai-stuht.com/download/videos/6fc5b1c0-b57e-44f6-82f4-f989d2e3f145-720.mp4
 
