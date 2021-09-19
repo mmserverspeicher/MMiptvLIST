@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,CineMM
-https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
 #EXTINF:0,Cash Truck
 http://5.9.29.179:12000/tedeschi/2021/08/Cash.Truck.2021.German.720.mp4
