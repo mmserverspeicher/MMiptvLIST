@@ -2,10 +2,13 @@
 #EXTINF:0,Covid-19-TV
 https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/C-TV.mp4
 
-#EXTINF:0,Pathologie - Konferenz - Tod durch Impfung/ Undeklarierte Bestandteile der COVID-19- Impfstoffe
+#EXTINF:0,Pathologie - Konferenz - Tod durch Impfung Undeklarierte Bestandteile der COVID-19 Impfstoffe
 https://fra-cdn.livepeer.com:443/recordings/04c4332e-99fe-4c47-900e-a5b5c9a6a0a8/720p0.m3u8
 
-#EXTINF:0,Dr. Reiner Fuellmich fasst die bisherigen Erkenntnisse des Corona Ausschusses zusammen und zieht Zwischenbilanz
+#EXTINF:0,dieBasis - Wahlaufruf
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Wahlaufruf/9ade5ff2122c4dc727262a0e50869feca0354551/e537e2.mp4
+
+#EXTINF:0,Reiner Fuellmich fasst die bisherigen Erkenntnisse des Corona Ausschusses zusammen und zieht Zwischenbilanz
 https://cdn.lbryplayer.xyz/api/v4/streams/free/Reiner-Fuellmich-Introduction-Deutsch_BestCut/c16bea96707916e599b6f4606f3bea68ce488979/1d79ce.mp4
 
 #EXTINF:0,basiscamp.live
@@ -103,6 +106,9 @@ https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-69-Be-water,-my-friend_on
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 70 - Wer wenn nicht wir
 https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-70_-Wer,-wenn-nicht-wir_online/490f2f9deb324219db5d87527e1434fedf33ec13/2218c1.mp4
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 71 - Wann wenn nicht jetzt
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-71-Wann,-wenn-nicht-jetzt-online/aee7c76fa5475e578fb7fcee40f9ffb5a1379e73/09c408.mp4
 
 #EXTINF:0,EMPTY - Der weiße Schatten des schwarzen Schwans - Teil 1
 https://tube.kai-stuht.com/download/videos/6fc5b1c0-b57e-44f6-82f4-f989d2e3f145-720.mp4
