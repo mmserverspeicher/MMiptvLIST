@@ -14,14 +14,17 @@ https://cdn.lbryplayer.xyz/api/v4/streams/free/Reiner-Fuellmich-Introduction-Deu
 #EXTINF:0,basiscamp.live
 https://fra-cdn.livepeer.com:443/recordings/b8618ffa-4acf-4f5e-9601-c97758dfbb1e/source.m3u8
 
-#EXTINF:0,Ignaz Bearth ---LiveTV---
+#EXTINF:0,Ignaz Bearth ---Live---
 https://fra-cdn.livepeer.com/hls/80b8mran6du2cl1v/index.m3u8
 
-#EXTINF:0,OVALmedia ---LiveTV---
+#EXTINF:0,OVALmedia ---Live---
 https://fra-cdn.livepeer.com/hls/04c41ufeqb4lnijk/index.m3u8
 
-#EXTINF:0,Stiftung Corona Ausschuss ---LiveTV---
+#EXTINF:0,Stiftung Corona Ausschuss ---Live---
 https://mdw-cdn.livepeer.com/hls/b8614b5h7g8jvkv6/index.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss ---Odysee LIVE---
+https://cdn.odysee.live/hls/3fc783fae191c72eccd904a6e6ee9ec473cb6e7f/index.m3u8
 
 #EXTINF:0,Corona.Film - Prologue
 https://tcode.kenfm.de/download/videos/fa1e71fd-6226-47c8-baa2-eaf45ca068d0-720.mp4
