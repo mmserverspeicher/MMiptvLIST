@@ -5,9 +5,6 @@ https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/C-TV.mp4
 #EXTINF:0,Pathologie - Konferenz - Tod durch Impfung Undeklarierte Bestandteile der COVID-19 Impfstoffe
 https://fra-cdn.livepeer.com:443/recordings/04c4332e-99fe-4c47-900e-a5b5c9a6a0a8/720p0.m3u8
 
-#EXTINF:0,dieBasis - Wahlaufruf
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Wahlaufruf/9ade5ff2122c4dc727262a0e50869feca0354551/e537e2.mp4
-
 #EXTINF:0,Reiner Fuellmich fasst die bisherigen Erkenntnisse des Corona Ausschusses zusammen und zieht Zwischenbilanz
 https://cdn.lbryplayer.xyz/api/v4/streams/free/Reiner-Fuellmich-Introduction-Deutsch_BestCut/c16bea96707916e599b6f4606f3bea68ce488979/1d79ce.mp4
 
@@ -84,49 +81,52 @@ https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/sca61_converted_720p_german_v
 https://eu-p2.lbryplayer.xyz:443/api/v4/streams/tc/Ausschuss60_Part5_Martin_Wodarg_Schwab_german_translation/3977390491236fdbcaacab6037451a87e18c89c1/55d4b22f3b54fcb7f5b0d5ac213e23384f40c3b28a88b798ee9097cbafd460c1c9ce22934d1b81e8d7aef9b911c4804f/stream_0.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 61 - We'll catch you 'cause we can in Deutsch
-https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/sca61_converted_720p_german_version/1c8418c0284c4bcb5eecf1efb40b84d2cae555b7/0971617ecaee056378ca0c21f3fe78233344152cd36ae711f1820a7746c8e994758e5c8db454d645cfa295d857cd340f/stream_0.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/sca61_converted_720p_german_version/1c8418c0284c4bcb5eecf1efb40b84d2cae555b7/097161.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 62 - Die Welle
 https://fra-cdn.livepeer.com:443/recordings/b861517b-c617-45ad-81ed-71eb65ab77c3/720p0.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 63 - Im Auge des Sturms
-https://eu-p7.lbryplayer.xyz:443/api/v4/streams/tc/sca63_converted_720p/0bf543b8f9d5061694b417a16d5d1f2c4f523664/0104815ed8c69ba0c4b5641db06893ec8106a23e5e90257951a467dac98fefe1313231bf8656fb9090068e4e7aa0307a/stream_0.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/sca63_converted_720p/0bf543b8f9d5061694b417a16d5d1f2c4f523664/010481.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 64 - Medienkritik war gestern
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-64-Medienkritik-war-gestern/cf90876bbe5868d835c47d8e14f7bde51461c288/25048e.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-64-Medienkritik-war-gestern/cf90876bbe5868d835c47d8e14f7bde51461c288/25048e.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 65 - Internationale Solidarität
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-65-Internationale-Solidarit%C3%A4t/a4937cc4b9b988211be9016dda9de18ddfb0f0fb/5031bd.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-65-Internationale-Solidarit%C3%A4t/a4937cc4b9b988211be9016dda9de18ddfb0f0fb/5031bd.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 66 - Kettenreaktion
 https://fra-cdn.livepeer.com:443/recordings/b8615513-7934-48d8-a014-77b30216ad46/720p0.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 67 - Die Drücker
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-67-Die-Dr%C3%BCcker-online/b45b4426736f894329a301fd104cd31da540caff/1c7cff.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-67-Die-Dr%C3%BCcker-online/b45b4426736f894329a301fd104cd31da540caff/1c7cff.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 68 - Wirksamer Widerstand
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-68-Wirksamer-Widerstand_online/ffdd4c4950f901ff523a9594cdaefb95e31307d9/77f224.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-68-Wirksamer-Widerstand_online/ffdd4c4950f901ff523a9594cdaefb95e31307d9/77f224.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 69 - Be water my friend
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-69-Be-water,-my-friend_online/5552a06540ae99e3d9fceb2c681de3461d5a6e7d/97a626.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-69-Be-water,-my-friend_online/5552a06540ae99e3d9fceb2c681de3461d5a6e7d/97a626.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 70 - Wer wenn nicht wir
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-70_-Wer,-wenn-nicht-wir_online/490f2f9deb324219db5d87527e1434fedf33ec13/2218c1.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-70_-Wer,-wenn-nicht-wir_online/490f2f9deb324219db5d87527e1434fedf33ec13/2218c1.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 71 - Wann wenn nicht jetzt
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-71-Wann,-wenn-nicht-jetzt-online/aee7c76fa5475e578fb7fcee40f9ffb5a1379e73/09c408.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-71-Wann,-wenn-nicht-jetzt-online/aee7c76fa5475e578fb7fcee40f9ffb5a1379e73/09c408.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 72 - Das Kühlwasser kocht
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-72-Das-K%C3%BChlwasser-kocht/5d56770006de33a980b777a5ff29fdbbe1a16c91/66ff8c.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-72-Das-K%C3%BChlwasser-kocht/5d56770006de33a980b777a5ff29fdbbe1a16c91/66ff8c.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 73 - Ich bin also denke ich
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-73-Ich-bin,-also-denke-ich_online/f0fa7142c761e4e2ed8c7a08cd04c41170af422d/9f051c.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-73-Ich-bin,-also-denke-ich_online/f0fa7142c761e4e2ed8c7a08cd04c41170af422d/9f051c.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 74 - So wahr mir Gott helfe
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-74-So-wahr-mir-Gott-helfe-online/10a237a34a2ef1ae2a557dd50ee50bdd6bc54fe8/6dc163.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-74-So-wahr-mir-Gott-helfe-online/10a237a34a2ef1ae2a557dd50ee50bdd6bc54fe8/6dc163.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 75 - Hinter tausend Stäben keine Welt
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-75---Hinter-tausend-Staeben-keine-Welt---online/a9ab6e17801cbcfec58fda2ecdf9a4a743bd8719/056ac5.m3u8
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-75---Hinter-tausend-Staeben-keine-Welt---online/a9ab6e17801cbcfec58fda2ecdf9a4a743bd8719/056ac5.mp4
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 76 - Kolumbus´ faule Eier
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-76-de/be8f3fd0b50d73c8b5d2663b609eb15df81455bb/8302fb.mp4
 
 #EXTINF:0,EMPTY - Der weiße Schatten des schwarzen Schwans - Teil 1
 https://tube.kai-stuht.com/download/videos/6fc5b1c0-b57e-44f6-82f4-f989d2e3f145-720.mp4
