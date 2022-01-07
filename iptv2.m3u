@@ -2,8 +2,17 @@
 #EXTINF:-1,MMiptvLIST
 https://archive.org/download/mmtvlist/MMiptvLIST.mp4
 
+#EXTINF:0,OVALmedia ---Live---
+https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss ---Live---
+https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
+
 #EXTINF:-1,Whistleblower aus Berliner Altenheim - Das schreckliche Sterben nach der Impfung am 24. Februar 2021
 https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
+
+#EXTINF:-1,dieBasis
+https://diebasis-partei.de/wp-content/uploads/2021/03/%E2%80%9EOhne-Freiheit-geht-nichts-ohne-Freiheit-braucht-man-ueber-nichts-nachzudenken.-%E2%80%93-dieBasis-Stimmen.mp4
 
 #EXTINF:-1,Polizei drangsaliert Senioren in Magdeburg am 11. Januar 2021
 https://2020news.de/wp-content/uploads/2021/01/100000a.mp4
@@ -41,6 +50,9 @@ https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
 #EXTINF:-1,3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
+#EXTINF:-1,phoenix vor ort
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
 #EXTINF:-1,Servus TV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_3392.m3u8
 
@@ -57,7 +69,7 @@ https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b1628000.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
 
 #EXTINF:-1,SWR
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3776.m3u8
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-720p-3628.m3u8
 
 #EXTINF:-1,ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3660_av-p.m3u8
@@ -99,7 +111,7 @@ https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3
 https://regiotv.iptv-playoutcenter.de/regiotv/regiotv.stream_1/playlist.m3u8
 
 #EXTINF:-1,KiKA
-https://kikageohls-i.akamaihd.net:443/hls/live/1006268/livetvkika_de/master_720.m3u8
+https://kikageohls.akamaized.net:443/hls/live/2022693/livetvkika_de/master-720p-3628.m3u8
 
 #EXTINF:-1,pearl.tv
 http://enstyle.cdn.ses-ps.com/index.m3u8
@@ -263,6 +275,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=gul
 #EXTINF:-1,Charmed ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-charmed
 
+#EXTINF:-1,Airwolf ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Airwolf
+
 #EXTINF:-1,Knight Rider ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-knightrider
 
@@ -308,6 +323,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=jcv
 #EXTINF:-1,Olsenbande ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Die.Olsenbande
 
+#EXTINF:-1,Tek War ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Tek.War
+
 #EXTINF:-1,AmericanFighter ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=americanfighter
 
@@ -338,6 +356,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Swa
 #EXTINF:-1,Carnival Row ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=carnivalrow
 
+#EXTINF:-1,American Crime Story ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=American.Crime.Story
+
 #EXTINF:-1,Grimm ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-grimm
 
@@ -355,6 +376,12 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=GoT
 
 #EXTINF:-1,The Witcher ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=The.Witcher
+
+#EXTINF:-1,Nightmare on Elm Street ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Nightmare.on.Elm.Street
+
+#EXTINF:-1,Legacies ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Legacies
 
 #EXTINF:-1,Doctor Who ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=doctor-who
@@ -382,6 +409,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=gul
 
 #EXTINF:-1,Kampfstern Galactica ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-galactica
+
+#EXTINF:-1,Species ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Species
 
 #EXTINF:-1,Under the Dome ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=Under.the.Dome
@@ -424,6 +454,9 @@ https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=gul
 
 #EXTINF:-1,Star Wars ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-starwars
+
+#EXTINF:-1,Star Wars - The Mandalorian ---TV---
+https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=The.Mandalorian
 
 #EXTINF:-1,Stargate SG1 ---TV---
 https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=stargate
