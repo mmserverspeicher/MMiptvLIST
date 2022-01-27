@@ -2,8 +2,11 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
-#EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s9082c043fe13dab9/image/iba29b40685c205b2/version/1643058251/image.jpg" group-title="CineMM", The Matrix - Resurrections
+#EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s9082c043fe13dab9/image/iba29b40685c205b2/version/1643058251/image.jpg" group-title="CineMM", The Matrix Resurrections
 https://dl.streamcloud.club/files/movies/720p/61c47711bc3df4744af007eb.mp4
 
 #EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s9082c043fe13dab9/image/i226c95b5896e16dd/version/1643058192/image.jpg" group-title="CineMM", Eternals
 https://dl.streamcloud.club/files/movies/720p/61df53393710952b65d540a9.mp4
+
+#EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s9082c043fe13dab9/image/iafee647b9467c25e/version/1643060853/image.jpg" group-title="CineMM", Resident Evil - Welcome to Raccoon City
+https://dl.streamcloud.club/files/movies/720p/61c2989103858102bb812dc3.mp4
