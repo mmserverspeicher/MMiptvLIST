@@ -66,10 +66,13 @@ https://tcode.kenfm.de/download/videos/93e87585-ef1f-48b1-ae0e-ca8a9a00bbbd-818.
 https://tcode.kenfm.de/download/videos/63d5a282-5ab2-4e3d-961e-bdc80e9a3766-480.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 1 - Lernen vom Untersuchungsausschuss Schweinegrippe
-https://cdn.lbryplayer.xyz/api/v4/streams/free/sitzung1/fd16806c80fcf7bc8ce2a2c2ee9b8d184c6e44a1/e58ebc.m3u8
+https://player.odycdn.com/api/v4/streams/free/sitzung01/585c830129d66c18450e025f8fbce4e1a1f077ce/e58469.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 2 - Die Lage der Menschen in den Pflegeheimen
-https://cdn.lbryplayer.xyz/api/v4/streams/free/sitzung02/ac00bbf7177bafd025ff09e825e47908240578e9/1bc2d3.m3u8
+https://player.odycdn.com/api/v4/streams/free/sitzung02/ac00bbf7177bafd025ff09e825e47908240578e9/1bc2d3.mp4
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 3 - Bergamo - was war da los
+https://player.odycdn.com/api/v4/streams/free/sitzung03/727fcd5eeda0dacb0869908c1b2c73ca4ea48635/534e66.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 49 - Der Offenbarungseid
 https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-49-Der-Offenbarungseid/fdd9ed8ebbbb43f53e3b7d933b16c72fc6805501/7e703a.m3u8
