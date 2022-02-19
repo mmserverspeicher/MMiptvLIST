@@ -12,7 +12,7 @@ https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
 https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deluxe-Music.png" group-title="TVprogramme", Deluxe Music
-https://1000338copo-app2749759488.r53.cdn.tv1.eu:443/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b1000000_slde.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com:443/13456/26412680270_2201_123528video_720.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Das-Erste.png" group-title="TVprogramme", ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -41,8 +41,8 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/3sat.png" group-title="TVprogramme", 3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ServusTV.png" group-title="TVprogramme", Servus TV
-https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_3392.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ServusTV.png" group-title="TVprogramme", ServusTV
+https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" group-title="TVprogramme", oe24.TV
 https://varoe24live.sf.apa.at:443/oe24-live1/oe24.smil/chunklist_b946000.m3u8
@@ -57,37 +57,37 @@ https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b1628000.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SWR.png" group-title="TVprogramme", SWR
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master-720p-3628.m3u8
+https://swrbwd-hls.akamaized.net/hls/live/2018672-b/swrbwd/master-720p-3328.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ARD-alpha.png" group-title="TVprogramme", ARD-alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3660_av-p.m3u8
+https://mcdn.br.de:443/br/fs/ard_alpha/hls/de/master_1280p_3328.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/WDR.png" group-title="TVprogramme", WDR
-https://mcdn.wdr.de:443/wdr/wdrfs/de/master_3628.m3u8
+https://mcdn.wdr.de:443/wdr/wdrfs/de/master_3328.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/rbb.png" group-title="TVprogramme", rbb
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_4_av-p.m3u8
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BR.png" group-title="TVprogramme", BR
-https://mcdn.br.de:443/bfs_sued/de/profile1/1.m3u8
+https://mcdn.br.de:443/br/fs/bfs_sued/hls/de/master_1280p_3328.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/hr.png" group-title="TVprogramme", hr
-https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master-720.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SR.png" group-title="TVprogramme", SR
-https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-p.m3u8
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/mdr.png" group-title="TVprogramme", mdr
-https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-b.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/one.png" group-title="TVprogramme", one
-https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_4_av-b.m3u8
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/TVAktuell.png" group-title="TVprogramme", TVAktuell
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/TV-Oberfranken.png" group-title="TVprogramme", TV Oberfranken
-https://stream02.stream.welocal.world:443/stream/tvo/ngrp:tvo.stream_all/chunklist_w560057221_b946000.m3u8
+https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/regioTV-Stuttgart.png" group-title="TVprogramme", regioTV Stuttgart
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
