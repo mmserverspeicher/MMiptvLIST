@@ -105,28 +105,28 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7de99bc5200300072e971a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5e7de99bc5200300072e971a&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
-https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMix1
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Deluxe.png" group-title="CineMM", CineMM DELUXE
-https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMix2
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMMdeluxe.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Movies.png" group-title="CineMM", CineMM MOVIEs
-https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMix3
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-MOVIEs.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Super-Comedy.png" group-title="CineMM", CineMM SUPER COMEDY
-https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixComedy
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-SUPER-COMEDY.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Terror-Horror.png" group-title="CineMM", CineMM TERROR HORROR
-https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixHorror
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-TERROR-HORROR.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-ClassicScienceFiction.png" group-title="CineMM", CineMM Classic Science Fiction
-https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=guldukat-vintagescifi
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-ClassicScienceFiction.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-CartoonTRICKs.png" group-title="CineMM", CineMM CartoonTRICKs
-https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixCartoons
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-CartoonTRICKs.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" group-title="CineMM", CineMM MOVIEkiDs
-https://Masterbaster:Masterbaster54652@wagasworld.com/getstream2.php?channel=MovieMixKids
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-MOVIEkiDs.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Best-of-MR.M.M.png" group-title="Video-on-Demand", Best of MR.M.M.
 https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4
