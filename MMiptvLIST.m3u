@@ -5,10 +5,10 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
 https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaENGLISCH-LIVE.png" group-title="TVprogramme", OVALmedia ENGLISCH ---Live---
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaENGLISCH-LIVE.png" group-title="TVprogramme", OVALmedia ENGLISCH ---LIVE---
 https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaDEUTSCH-LIVE.png" group-title="TVprogramme", OVALmedia DEUTSCH ---Live---
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaDEUTSCH-LIVE.png" group-title="TVprogramme", OVALmedia DEUTSCH ---LIVE---
 https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deluxe-Music.png" group-title="TVprogramme", Deluxe Music
