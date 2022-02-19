@@ -89,7 +89,7 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/TVAktuell.png" group-title="TVprogramme", TVAktuell
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/TV-Oberfranken.png" group-title="TVprogramme", TV Oberfranken
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/TVO.png" group-title="TVprogramme", TV Oberfranken
 https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/regioTV-Stuttgart.png" group-title="TVprogramme", regioTV Stuttgart
