@@ -32,6 +32,9 @@ https://tagesschau.akamaized.net/hls/live/2020116/tagesschau/tagesschau_2/master
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/WeLT.png" group-title="TVprogramme", WeLT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/KiKA.png" group-title="TVprogramme", KiKA
+https://kikageohls.akamaized.net:443/hls/live/2022693/livetvkika_de/master-720p-3328.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/k-tv.png" group-title="TVprogramme", k-tv
 http://ec2-52-57-41-34.eu-central-1.compute.amazonaws.com/p/101/sp/10100/playManifest/entryId/0_0rfgbtwj/format/applehttp/protocol/http/uiConfId/23448323/a.m3u8
 
