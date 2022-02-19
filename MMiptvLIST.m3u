@@ -101,6 +101,9 @@ https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/regioTV-Schwaben.png" group-title="TVprogramme", regioTV Schwaben
 https://regiotv.iptv-playoutcenter.de/regiotv/regiotv.stream_1/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BITTEL-TV-LIVE.png" group-title="TVprogramme", BITTEL TV - EINFACH ANDERS ---LIVE---
+https://live.prd.dlive.tv/hls/live/bitteltv.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-Turtles.png" group-title="TVprogramme", pluto.tv - Turtles
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5d6792bd6be2998ad0ccce30&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1m3u8
 
