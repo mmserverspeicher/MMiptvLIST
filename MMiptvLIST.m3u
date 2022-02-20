@@ -6,10 +6,10 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 https://player.odycdn.com/api/v4/streams/free/Sitzung-92-de-online/8b1400ae05b0ee1a100b0cb58f83333027ca49e2/2efdb5.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaENGLISCH-LIVE.png" group-title="TVprogramme", OVALmedia ENGLISCH ---LIVE---
-https://player.odycdn.com/api/v4/streams/free/Grand-Jury-Day-4-online/46d4131d2f860e8ebd9701a8ea8d3981c2a72f01/8d79f2.mp4
+https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaDEUTSCH-LIVE.png" group-title="TVprogramme", OVALmedia DEUTSCH ---LIVE---
-https://player.odycdn.com/api/v4/streams/free/Grand-Jury-Tag-4-online/9ff24fce1a30819661519df198ef1d801a2a93e5/78305e.mp4
+https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deluxe-Music.png" group-title="TVprogramme", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com:443/13456/26412680270_2201_123528video_720.m3u8
