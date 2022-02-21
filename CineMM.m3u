@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/the-kings-man-the-beginning.jpg" group-title="CineMM", The Kings Man - The Beginning
+https://dl.streamcloud.club/files/movies/720p/620062fe20d3cd993ab60965.mp4
+
 #EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s9082c043fe13dab9/image/ia0c4c9ca4c6f4b08/version/1644241169/image.jpg" group-title="CineMM", Ice Age - Die Abenteuer Von Buck Wild
 https://dl.streamcloud.club/files/movies/720p/61f432d39588320d9617ef56.mp4
 
