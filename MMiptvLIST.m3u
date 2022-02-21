@@ -3,10 +3,10 @@
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
-https://playback.prd.dlivecdn.com/live/dlive-mybfprkjzk/1645178283/720p/playback.m3u8
+https://playback.prd.dlivecdn.com/live/dlive-mybfprkjzk/1645178283/vod.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaENGLISCH-LIVE.png" group-title="TVprogramme", OVALmedia ENGLISCH ---LIVE---
-https://playback.prd.dlivecdn.com/live/coronainvestigative/1645376223/720p/playback.m3u8
+https://playback.prd.dlivecdn.com/live/coronainvestigative/1645376223/vod.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaDEUTSCH-LIVE.png" group-title="TVprogramme", OVALmedia DEUTSCH ---LIVE---
 https://playback.prd.dlivecdn.com/live/dlive-mybfprkjzk/1645376208/720p/playback.m3u8
