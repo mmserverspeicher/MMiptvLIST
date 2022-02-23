@@ -3,7 +3,7 @@
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
-https://playback.prd.dlivecdn.com/live/dlive-mybfprkjzk/1645178283/vod.m3u8
+https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaENGLISCH-LIVE.png" group-title="TVprogramme", OVALmedia ENGLISCH ---LIVE---
 https://playback.prd.dlivecdn.com/live/coronainvestigative/1645376223/vod.m3u8
@@ -107,7 +107,7 @@ https://playback.prd.dlivecdn.com/live/bitteltv/1645184519/vod.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/The-petCollective.png" group-title="TVprogramme", The petCollective
 https://the-pet-collective-international-us.ono.wurl.tv:443/3000.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ThePetCollective.png" group-title="TVprogramme", The Pet Collective
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-ThePetCollective.png" group-title="TVprogramme", pluto.tv - The Pet Collective
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5b4f5a07694c027be6ed1417&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-Turtles.png" group-title="TVprogramme", pluto.tv - Turtles
