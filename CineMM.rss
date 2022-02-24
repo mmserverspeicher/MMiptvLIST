@@ -20,10 +20,34 @@
 </item>
 
 <item>
+<title>Fistful of Vengeance</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/720p/620ec90cf8f65884dbfbc6c6.mp4">
+<media:thumbnail url="https://filmpalast.to/files/movies/450/fistful-of-vengeance.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Tides</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/720p/62101a8ef8f65884dbfcffb5.mp4">
+<media:thumbnail url="https://filmpalast.to/files/movies/450/tides-2021.jpg" />
+</media:content>
+</item>
+
+<item>
 <title>The Kings Man - The Beginning</title>
 <description>CineMM Film</description>
 <media:content url="https://dl.streamcloud.club/files/movies/720p/620062fe20d3cd993ab60965.mp4">
 <media:thumbnail url="https://filmpalast.to/files/movies/450/the-kings-man-the-beginning.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Monsters of Man</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/720p/620d3f52b9cb14f619d44a6d.mp4">
+<media:thumbnail url="https://filmpalast.to/files/movies/450/monsters-of-man.jpg" />
 </media:content>
 </item>
 
