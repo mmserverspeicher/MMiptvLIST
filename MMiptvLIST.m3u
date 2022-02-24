@@ -6,10 +6,10 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaENGLISCH-LIVE.png" group-title="TVprogramme", OVALmedia ENGLISCH ---LIVE---
-https://playback.prd.dlivecdn.com/live/coronainvestigative/1645376223/vod.m3u8
+https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaDEUTSCH-LIVE.png" group-title="TVprogramme", OVALmedia DEUTSCH ---LIVE---
-https://playback.prd.dlivecdn.com/live/dlive-mybfprkjzk/1645376208/vod.m3u8
+https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deluxe-Music.png" group-title="TVprogramme", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com:443/13456/26412680270_2201_123528video_720.m3u8
@@ -102,7 +102,7 @@ https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3
 https://regiotv.iptv-playoutcenter.de/regiotv/regiotv.stream_1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BITTEL-TV-LIVE.png" group-title="TVprogramme", BITTEL TV - EINFACH ANDERS ---LIVE---
-https://playback.prd.dlivecdn.com/live/bitteltv/1645184519/vod.m3u8
+https://live.prd.dlive.tv/hls/live/bitteltv.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/The-petCollective.png" group-title="TVprogramme", The petCollective
 https://the-pet-collective-international-us.ono.wurl.tv:443/3000.m3u8
