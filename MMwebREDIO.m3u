@@ -9,13 +9,13 @@ http://radio-paralax.de:8000/;
 http://136.243.156.30:2808/stream/2/
 
 #EXTINF:0 tvg-logo="http://static.radio.de/images/broadcasts/4b/b9/4386/c175.png" group-title="MMwebREDIO", NoLife-radio
-http://radio.nolife-radio.com:8000/
+http://radio.nolife-radio.com:8000
 
-#EXTINF:0 tvg-logo="https://absolutradio.de/images/shop.png" group-title="MMwebREDIO", Absolutradio
-https://absolut.hoerradar.de/absolutradio-mp3-128
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Absolut-musicXL.png" group-title="MMwebREDIO", Absolut musicXL
+https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl/stream/mp3
 
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s158432q.png" group-title="MMwebREDIO", Absolut relax
-https://absolut.hoerradar.de/absolutradio-relax-mp3
+https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3
 
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s237962q.png" group-title="MMwebREDIO", sunshine live - Die 90er
 https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq
