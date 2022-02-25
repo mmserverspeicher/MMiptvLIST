@@ -157,3 +157,7 @@ http://youvodfree-vh.akamaihd.net/i/delivery/9f/05/9f05ebe0-2d19-4f8b-a219-9aa36
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BERLYN.png" group-title="Video-on-Demand", BERLYN
 http://youvodfree-vh.akamaihd.net/i/delivery/a6/3a/a63ad9ea-d99b-4264-8c22-75bfd46373af/01SU2HR334T11WVN_,650,1350,2350,250,65,1000,3850,k.mp4.csmil/index_6_av.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/StreetFighter6.png" group-title="Intros", Street Fighter 6
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/StreetFighter6.mp4?raw=true
+
