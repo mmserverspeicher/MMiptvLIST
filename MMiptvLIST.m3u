@@ -101,6 +101,9 @@ https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/regioTV-Schwaben.png" group-title="TVprogramme", regioTV Schwaben
 https://regiotv.iptv-playoutcenter.de/regiotv/regiotv.stream_1/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MegaRadio.png" group-title="TVprogramme", MegaRadio
+https://live.prd.dlive.tv/hls/live/megaradio.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BITTEL-TV-LIVE.png" group-title="TVprogramme", BITTEL TV - EINFACH ANDERS ---LIVE---
 https://live.prd.dlive.tv/hls/live/bitteltv.m3u8
 
