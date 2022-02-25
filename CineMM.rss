@@ -100,10 +100,18 @@
 </item>
 
 <item>
-<title>Zack Snyder's Justice League</title>
+<title>Zack Snyde's Justice League</title>
 <description>CineMM Film</description>
 <media:content url="https://dl.streamcloud.club/files/movies/720p/6195193358607cdfb9fb6147.mp4">
 <media:thumbnail url="https://www.filmpalast.to/files/movies/315/zack-snyders-justice-league.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Shazam</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/720p/6195193358607cdfb9fb0307.mp4">
+<media:thumbnail url="https://filmpalast.to/files/movies/450/shazam.jpg" />
 </media:content>
 </item>
 
