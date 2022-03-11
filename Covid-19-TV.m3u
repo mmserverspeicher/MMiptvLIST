@@ -257,6 +257,12 @@ https://player.odycdn.com/api/v4/streams/free/Sitzung-93-de-online/947d78a482eb1
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 94 - Ihnen auf die Füße treten
 https://player.odycdn.com/api/v4/streams/free/s94de/fc080cf0dd78c772f27ca3d2a2a79780d7bd5559/ec96b4.mp4
 
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 95 - Hinter dem Vorhang
+https://stream.video.gettr.com/rM02Mv8uyg2JRynH02Jgz21736EnQ4gq7VS1xsBtKbuSM.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 96
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/sca.mp4?raw=true
+
 #EXTINF:0,Grand Jury - Tag 1
 https://player.odycdn.com/api/v4/streams/free/Grand-Jury-1-DE/a9793234ec56f63f6db83971680c02bef18b5435/d21ec9.mp4
 
