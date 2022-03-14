@@ -2,6 +2,15 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/kimi.jpg" group-title="CineMM", Kimi
+https://dl.streamcloud.club/files/movies/720p/621fec8aaa684c228f471a98.mp4
+
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/the-adam-project.jpg" group-title="CineMM", The Adam Project
+https://dl.streamcloud.club/files/movies/720p/622b4b7647cfba07dabb5826.mp4
+
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/pleasure-2021.jpg" group-title="CineMM", Pleasure
+https://dl.streamcloud.club/files/movies/720p/62268422aa684c228f4ea753.mp4
+
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/the-survivalist-die-tage-der-menschheit-sind-gezahlt.jpg" group-title="CineMM", The Survivalist - Die Tage der Menschheit sind gezählt
 https://dl.streamcloud.club/files/movies/720p/621303d5a8184217e61eb809.mp4
 
@@ -58,3 +67,6 @@ https://dl.streamcloud.club/files/movies/720p/6195193358607cdfb9fb0307.mp4
 
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/tucker-dale-vs-evil.jpg" group-title="CineMM", Tucker and Dale vs Evil
 https://dl.streamcloud.club/files/movies/720p/621fec8baa684c228f471aa4.mp4
+
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/es-war-einmal-ein-deadpool.jpg" group-title="CineMM", Es war einmal ein Deadpool
+https://dl.streamcloud.club/files/movies/720p/622d1b825499b2305207b953.mp4
