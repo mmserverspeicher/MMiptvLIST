@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/rot.jpg" group-title="CineMM", ROT
+https://dl.streamcloud.club/files/movies/720p/622b4b7647cfba07dabb5825.mp4
+
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/kimi.jpg" group-title="CineMM", Kimi
 https://dl.streamcloud.club/files/movies/720p/621fec8aaa684c228f471a98.mp4
 
