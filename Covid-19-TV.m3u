@@ -272,7 +272,10 @@ https://player.odycdn.com/api/v4/streams/free/s97de/f55dba6eaa60c1e6de1ec175dccc
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 98 - Vexierbilder
 https://player.odycdn.com/api/v4/streams/free/2022-04-01-sca-sitzung98-fixed/5d3b31594813aacc071ef0edac64672fd076a951/09b360.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 99
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 99 - Etappensiege
+https://livestream.gettr.com/subtitle/56524428/00Cp01Al01TKy0127gkQl200VhY4Phu7OPfXUJ3iPYNXA9e00/Khl9uivxKATONnZ6fkP01qz76jx02t9Y01dFYbZgpZ2TLE/master.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 100
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/sca.mp4?raw=true
 
 #EXTINF:0,Grand Jury - Tag 1
