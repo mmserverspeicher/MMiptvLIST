@@ -11,11 +11,8 @@ http://136.243.156.30:2808/stream/2/
 #EXTINF:0 tvg-logo="http://static.radio.de/images/broadcasts/4b/b9/4386/c175.png" group-title="MMwebREDIO", NoLife-radio
 http://radio.nolife-radio.com:8000/
 
-#EXTINF:0 tvg-logo="https://absolutradio.de/images/shop.png" group-title="MMwebREDIO", Absolutradio
-https://absolut.hoerradar.de/absolutradio-mp3-128
-
-#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s158432q.png" group-title="MMwebREDIO", Absolut relax
-https://absolut.hoerradar.de/absolutradio-relax-mp3
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s25260/images/logoq.jpg" group-title="MMwebREDIO", 1 LIVE
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s237962q.png" group-title="MMwebREDIO", sunshine live - Die 90er
 https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq

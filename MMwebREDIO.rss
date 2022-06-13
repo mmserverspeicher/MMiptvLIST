@@ -32,18 +32,10 @@
 </item>
 
 <item>
-<title>Absolut relax</title>
+<title>1 LIVE</title>
 <description>MMwebREDIO</description>
-<media:content url="https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3">
-<media:thumbnail url="https://cdn-radiotime-logos.tunein.com/s158432q.png" />
-</media:content>
-</item>
-
-<item>
-<title>Absolut musicXL</title>
-<description>MMwebREDIO</description>
-<media:content url="https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl/stream/mp3">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Absolut-musicXL.png" />
+<media:content url="https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3">
+<media:thumbnail url="https://cdn-profiles.tunein.com/s25260/images/logoq.jpg" />
 </media:content>
 </item>
 
