@@ -50,7 +50,7 @@
 <item>
 <title>Antenne Vorarlberg</title>
 <description>MMwebREDIO</description>
-<media:content url="http://webradio.antennevorarlberg.at/live">
+<media:content url="https://web.radio.antennevorarlberg.at/av-live">
 <media:thumbnail url="https://cdn-profiles.tunein.com/s24933/images/logoq.png" />
 </media:content>
 </item>
