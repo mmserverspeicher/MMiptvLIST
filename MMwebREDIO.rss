@@ -73,7 +73,7 @@
 
 <item>
 <title>DJ Kosta - The 80s MegaMix</title>
-<description>MMwebREDIO</description>
+<description>MMwebREDIO Mixes</description>
 <media:content url="http://archive.org/download/DJKostaThe80sMegaMix/DJ%20Kosta%20-%20The%2080s%20MegaMix.mp3">
 <media:thumbnail url="https://2.bp.blogspot.com/-tgX4Vdp20bU/WxcIiBqr_nI/AAAAAAAADBs/jt4UHDftdPINEyHNX4hOQ-fSxPieiVKDACLcBGAs/s1600/Cover.jpg" />
 </media:content>
@@ -81,9 +81,25 @@
 
 <item>
 <title>DJ Deep - Deep 90s Vol. 1</title>
-<description>MMwebREDIO</description>
+<description>MMwebREDIO Mixes</description>
 <media:content url="https://ia803209.us.archive.org/30/items/DJDeepDeep90sVol.1/DJ%20Deep%20-%20Deep%2090s%20Vol.%201.mp3">
 <media:thumbnail url="https://2.bp.blogspot.com/-CpBnyiXdI4g/WDLf88QXfvI/AAAAAAAAC7g/GjmXENBqFSs1KS6yzfbwaGQzfb8SfUBTwCLcB/s1600/90-1.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Studio 33 - The 114th Story</title>
+<description>MMwebREDIO Mixes</description>
+<media:content url="https://archive.org/download/Studio33The114thStory/Studio%2033%20-%20The%20114th%20Story.mp3">
+<media:thumbnail url="https://3.bp.blogspot.com/-JaaKzLzwLoY/WfMOU2ojKNI/AAAAAAAADAM/AkDETsy4ijk1-2HT26RusbKy1ZjkziycACLcBGAs/s1600/Cover.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Studio 38 - Back to the 90s</title>
+<description>MMwebREDIO Mixes</description>
+<media:content url="https://archive.org/download/Studio38BackToThe90s/Studio%2038%20-%20Back%20to%20the%2090s.mp3">
+<media:thumbnail url="https://1.bp.blogspot.com/-HN7GGs6c7c8/V2OZ3NCi-lI/AAAAAAAAC6s/LUZiRW5Tlq0jCE7ms3WPUs6yeWwLdI1ZACLcB/s280/Cover.jpeg" />
 </media:content>
 </item>
 
