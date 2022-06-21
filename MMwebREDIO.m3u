@@ -17,6 +17,9 @@ https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s237962q.png" group-title="MMwebREDIO", sunshine live - Die 90er
 https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq
 
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s84203/images/logoq.jpg" group-title="MMwebREDIO", bigFM - Deutschlands biggste Beats
+https://stream.bigfm.de/deutschland/mp3-128/
+
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s24933/images/logoq.png" group-title="MMwebREDIO", Antenne Vorarlberg
 https://web.radio.antennevorarlberg.at/av-live
 

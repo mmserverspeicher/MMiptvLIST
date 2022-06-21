@@ -48,6 +48,14 @@
 </item>
 
 <item>
+<title>bigFM - Deutschlands biggste Beats</title>
+<description>MMwebREDIO</description>
+<media:content url="https://stream.bigfm.de/deutschland/mp3-128/">
+<media:thumbnail url="https://cdn-profiles.tunein.com/s84203/images/logoq.jpg" />
+</media:content>
+</item>
+
+<item>
 <title>Antenne Vorarlberg</title>
 <description>MMwebREDIO</description>
 <media:content url="https://web.radio.antennevorarlberg.at/av-live">
