@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,MMwebREDIO
+https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMwebREDIO.rss
+#EXTINF:-1,CineMM Movies
+https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.rss
+#EXTINF:1,CineMMEXTRA
+https://content.jwplatform.com/feeds/2ztTkcWA.rss
+#EXTINF:1,MMgameSTATION
+https://content.jwplatform.com/feeds/Uh6f1Xko.rss
+#EXTINF:1,MMWtv
+https://content.jwplatform.com/feeds/7YOZUUyu.rss
+#EXTINF:1,MMgamePLAYING
+https://content.jwplatform.com/feeds/WKECeQpZ.rss
+#EXTINF:1,MMletsPLAYING
+https://content.jwplatform.com/feeds/Zy4Mw37a.rss
+#EXTINF:1,MMtvCENTER
+https://content.jwplatform.com/feeds/vxfyz8X0.rss
+#EXTINF:1,MJUNIK - Home Of YOU
+https://content.jwplatform.com/feeds/CB7Xhh6y.rss
+#EXTINF:1,MMpornoClips
+https://content.jwplatform.com/feeds/tUp0s5QV.rss
+#EXTINF:0,XXX-TV
+https://content.jwplatform.com/feeds/GdV8FZko.rss
