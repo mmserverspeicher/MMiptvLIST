@@ -15,7 +15,7 @@ http://radio.nolife-radio.com:8000/
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s237962q.png" group-title="MMwebREDIO", SUNSHINE LIVE  - Die 90er
-https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq/
+https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq
 
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s10637/images/logoq.png" group-title="MMwebREDIO", SUNSHINE LIVE
 https://stream.sunshine-live.de/live/mp3-192/tunein/
