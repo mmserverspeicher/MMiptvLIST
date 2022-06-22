@@ -48,10 +48,18 @@
 </item>
 
 <item>
-<title>sunshine live - Die 90er</title>
+<title>SUNSHINE LIVE - Die 90er</title>
 <description>MMwebREDIO</description>
 <media:content url="https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq">
 <media:thumbnail url="https://cdn-radiotime-logos.tunein.com/s237962q.png" />
+</media:content>
+</item>
+
+<item>
+<title>SUNSHINE LIVE - classics</title>
+<description>MMwebREDIO</description>
+<media:content url="https://sunshinelive.hoerradar.de/sunshinelive-classics-mp3-hq/">
+<media:thumbnail url="https://cdn-radiotime-logos.tunein.com/s237965q.png" />
 </media:content>
 </item>
 
