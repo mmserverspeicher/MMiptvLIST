@@ -22,6 +22,14 @@
 </item>
 
 <item>
+<title>Nerds and Geeks - THE STATION</title>
+<description>MMwebREDIO</description>
+<media:content url="http://136.243.156.30:2808/stream/2/">
+<media:thumbnail url="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9f/c6/108753/1/c175.png" />
+</media:content>
+</item>
+
+<item>
 <title>NoLife-radio</title>
 <description>MMwebREDIO</description>
 <pubDate>Tue, 13 Oct 2015 18:17:54 -0000</pubDate>
@@ -56,14 +64,6 @@
 </item>
 
 <item>
-<title>SUNSHINE LIVE - classics</title>
-<description>MMwebREDIO</description>
-<media:content url="https://sunshinelive.hoerradar.de/sunshinelive-classics-mp3-hq/">
-<media:thumbnail url="https://cdn-radiotime-logos.tunein.com/s237965q.png" />
-</media:content>
-</item>
-
-<item>
 <title>bigFM - Deutschlands biggste Beats</title>
 <description>MMwebREDIO</description>
 <media:content url="https://stream.bigfm.de/deutschland/mp3-128/">
@@ -92,14 +92,6 @@
 <description>MMwebREDIO</description>
 <media:content url="http://online.radioroks.ua/RadioROKS">
 <media:thumbnail url="https://cdn-profiles.tunein.com/s103802/images/logoq.png" />
-</media:content>
-</item>
-
-<item>
-<title>Nerds and Geeks - THE STATION</title>
-<description>MMwebREDIO</description>
-<media:content url="http://136.243.156.30:2808/stream/2/">
-<media:thumbnail url="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9f/c6/108753/1/c175.png" />
 </media:content>
 </item>
 
