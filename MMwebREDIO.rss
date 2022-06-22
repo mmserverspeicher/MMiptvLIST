@@ -80,6 +80,14 @@
 </item>
 
 <item>
+<title>Das neue Radio Seefunk</title>
+<description>MMwebREDIO</description>
+<media:content url="https://webradio.radio-seefunk.de/live">
+<media:thumbnail url="https://cdn-profiles.tunein.com/s79976/images/logoq.png" />
+</media:content>
+</item>
+
+<item>
 <title>Radio ROKS Ukraine</title>
 <description>MMwebREDIO</description>
 <media:content url="http://online.radioroks.ua/RadioROKS">
