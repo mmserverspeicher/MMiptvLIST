@@ -56,6 +56,22 @@
 </item>
 
 <item>
+<title>Radio7 - Mix Show</title>
+<description>MMwebREDIO</description>
+<media:content url="https://frontend01.lb.streamonkey.net/radio7-mixshow">
+<media:thumbnail url="https://images.radio7.de/files/streams/r7_stream_mixshow.png" />
+</media:content>
+</item>
+
+<item>
+<title>Radio7 - Die 90er</title>
+<description>MMwebREDIO</description>
+<media:content url="https://frontend01.lb.streamonkey.net/radio7-90er">
+<media:thumbnail url="https://images.radio7.de/files/streams/r7_stream_90er.png" />
+</media:content>
+</item>
+
+<item>
 <title>SUNSHINE LIVE - Die 90er</title>
 <description>MMwebREDIO</description>
 <media:content url="https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq">
