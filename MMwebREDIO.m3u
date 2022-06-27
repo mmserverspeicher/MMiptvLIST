@@ -14,6 +14,12 @@ http://radio.nolife-radio.com:8000/
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s25260/images/logoq.jpg" group-title="MMwebREDIO", WDR 1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 
+#EXTINF:0 tvg-logo="https://images.radio7.de/files/streams/r7_stream_mixshow.png" group-title="MMwebREDIO", Radio7 - MixShow
+https://frontend01.lb.streamonkey.net/radio7-mixshow
+
+#EXTINF:0 tvg-logo="https://images.radio7.de/files/streams/r7_stream_90er.png" group-title="MMwebREDIO", Radio7 - Die 90er
+https://frontend01.lb.streamonkey.net/radio7-90er
+
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s237962q.png" group-title="MMwebREDIO", SUNSHINE LIVE  - Die 90er
 https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq
 
