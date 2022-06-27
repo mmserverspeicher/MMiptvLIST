@@ -48,14 +48,6 @@
 </item>
 
 <item>
-<title>SUNSHINE LIVE</title>
-<description>MMwebREDIO</description>
-<media:content url="https://stream.sunshine-live.de/live/mp3-192/tunein/">
-<media:thumbnail url="https://cdn-profiles.tunein.com/s10637/images/logoq.png" />
-</media:content>
-</item>
-
-<item>
 <title>Radio7 - Mix Show</title>
 <description>MMwebREDIO</description>
 <media:content url="https://frontend01.lb.streamonkey.net/radio7-mixshow">
@@ -68,6 +60,14 @@
 <description>MMwebREDIO</description>
 <media:content url="https://frontend01.lb.streamonkey.net/radio7-90er">
 <media:thumbnail url="https://images.radio7.de/files/streams/r7_stream_90er.png" />
+</media:content>
+</item>
+
+<item>
+<title>SUNSHINE LIVE</title>
+<description>MMwebREDIO</description>
+<media:content url="https://stream.sunshine-live.de/live/mp3-192/tunein/">
+<media:thumbnail url="https://cdn-profiles.tunein.com/s10637/images/logoq.png" />
 </media:content>
 </item>
 
