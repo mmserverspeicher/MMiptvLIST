@@ -4,14 +4,6 @@
   <title>MMwebREDIO</title>
 
 <item>
-<title>MMwebREDIO</title>
-<description>MMwebREDIO Video</description>
-<media:content url="https://files.catbox.moe/f93vqj.mp4">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMwebREDIOintro.png" />
-</media:content>
-</item>
-
-<item>
 <title>Classic-Videogames RADIO</title>
 <description>MMwebREDIO</description>
 <media:content url="http://136.243.156.30:1541/stream/2/">
@@ -175,13 +167,6 @@
 </media:content>
 </item>
 
-<item>
-<title>Pool Mix 1990s - DJ Pool</title>
-<description>MMwebREDIO Mixes</description>
-<media:content url="https://archive.org/download/DJPoolPoolMix1990s/DJ%20Pool%20-%20Pool%20Mix%201990%27s.mp3">
-<media:thumbnail url="https://img.webme.com/pic/m/mmtvcenter/pool99.jpg" />
-</media:content>
-</item>
 
 </channel>
 </rss>

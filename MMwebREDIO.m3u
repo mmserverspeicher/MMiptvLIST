@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMwebREDIOintro.png" group-title="MMwebREDIO Video", MMwebREDIO
-https://files.catbox.moe/f93vqj.mp4
-
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s259239q.png" group-title="MMwebREDIO", Classic-Videogames RADIO
 http://136.243.156.30:1541/stream/2/
 
@@ -17,7 +14,7 @@ http://radio.nolife-radio.com:8000/
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s25260/images/logoq.jpg" group-title="MMwebREDIO", WDR 1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 
-#EXTINF:0 tvg-logo="https://images.radio7.de/files/streams/r7_stream_mixshow.png" group-title="MMwebREDIO", Radio7 - Mix Show
+#EXTINF:0 tvg-logo="https://images.radio7.de/files/streams/r7_stream_mixshow.png" group-title="MMwebREDIO", Radio7 - MixShow
 https://frontend01.lb.streamonkey.net/radio7-mixshow
 
 #EXTINF:0 tvg-logo="https://images.radio7.de/files/streams/r7_stream_90er.png" group-title="MMwebREDIO", Radio7 - Die 90er
@@ -64,6 +61,3 @@ https://archive.org/download/Studio38BackToThe90s/Studio%2038%20-%20Back%20to%20
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-GCO1LImbgMA/Wdyjt4dUuYI/AAAAAAAAC-8/WFlgwfcdnWY5dO6pwrT-MGU7R-TeHmKwACLcBGAs/s280/Cover.jpg" group-title="MMwebREDIO Mixes", DJ Devil - Back To The 90's Part IV
 https://archive.org/download/DJDevilBackToThe90sPartIV/DJ%20Devil%20-%20Back%20To%20The%2090%27s%20Part%20IV.mp3
-
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/pool99.jpg" group-title="MMwebREDIO Mixes", Pool Mix 1990s - DJ Pool
-https://archive.org/download/DJPoolPoolMix1990s/DJ%20Pool%20-%20Pool%20Mix%201990%27s.mp3
