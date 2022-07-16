@@ -167,6 +167,29 @@
 </media:content>
 </item>
 
+<item>
+<title>DJ Crisbros - The Space Of Trance Kollektiv Yearmix 2017</title>
+<description>MMwebREDIO Mixes</description>
+<media:content url="https://archive.org/download/TheSpaceOfTranceKollektivYearmix2017/TheSpaceOfTranceKollektivYearmix2017.mp3">
+<media:thumbnail url="https://1.bp.blogspot.com/-zaOgQBE7EqA/WqJ247OSjCI/AAAAAAAADBM/H5aHweC5h4EGaXWCtXr9hI4hGufEuxmHACLcBGAs/s1600/Cover.png" />
+</media:content>
+</item>
+
+<item>
+<title>Pool Mix 1990s - DJ Pool</title>
+<description>MMwebREDIO Mixes</description>
+<media:content url="https://archive.org/download/DJPoolPoolMix1990s/DJ%20Pool%20-%20Pool%20Mix%201990%27s.mp3">
+<media:thumbnail url="https://img.webme.com/pic/m/mmtvcenter/pool99.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>MMwebREDIO</title>
+<description>MMwebREDIO Video</description>
+<media:content url="https://files.catbox.moe/f93vqj.mp4">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMwebREDIOintro.png" />
+</media:content>
+</item>
 
 </channel>
 </rss>
