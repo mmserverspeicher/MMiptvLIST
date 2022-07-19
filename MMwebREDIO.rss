@@ -22,7 +22,7 @@
 </item>
 
 <item>
-<title>Nerds and Geeks - THE STATION</title>
+<title>THE STATION - Nerds and Geeks</title>
 <description>MMwebREDIO</description>
 <media:content url="http://136.243.156.30:2808/stream/2/">
 <media:thumbnail url="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9f/c6/108753/1/c175.png" />
@@ -184,10 +184,18 @@
 </item>
 
 <item>
+<title>Dreamtime - Turrican 2 Main Title (Dosk Mix)</title>
+<description>MMwebREDIO Mixes</description>
+<media:content url="https://amigaremix.com/listen/2271/Turrican%202%20Main%20Title%20(Dosk%20Mix).mp3">
+<media:thumbnail url="https://img.webme.com/pic/m/mmtvcenter/Dreamtime.jpg" />
+</media:content>
+</item>
+
+<item>
 <title>MMwebREDIO</title>
 <description>MMwebREDIO Video</description>
 <media:content url="https://files.catbox.moe/f93vqj.mp4">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMwebREDIOintro.png" />
+<media:thumbnail url="https://img.webme.com/pic/m/mmtvcenter/MMwebREDIOintro.png" />
 </media:content>
 </item>
 
