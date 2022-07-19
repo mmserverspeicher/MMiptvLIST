@@ -35,7 +35,7 @@ https://stream.bigfm.de/deutschland/mp3-128/
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s24933/images/logoq.png" group-title="MMwebREDIO", Antenne Vorarlberg
 https://web.radio.antennevorarlberg.at/av-live
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Radio-Seefunk.png" group-title="MMwebREDIO", Das neue Radio Seefunk
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Radio-Seefunk.png" group-title="MMwebREDIO", Das neue Radio Seefunk
 https://webradio.radio-seefunk.de/live
 
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s103802/images/logoq.png" group-title="MMwebREDIO", Radio ROKS Ukraine
