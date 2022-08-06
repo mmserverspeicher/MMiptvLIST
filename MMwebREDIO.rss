@@ -22,7 +22,7 @@
 </item>
 
 <item>
-<title>THE STATION - Nerds and Geeks</title>
+<title>Nerds and Geeks - THE STATION</title>
 <description>MMwebREDIO</description>
 <media:content url="http://136.243.156.30:2808/stream/2/">
 <media:thumbnail url="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9f/c6/108753/1/c175.png" />
@@ -178,8 +178,16 @@
 <item>
 <title>Mr. G - Smash Mix</title>
 <description>MMwebREDIO Mixes</description>
-<media:content url="http://archive.org/download/Mr.GSmashMix/Mr.%20G%20-%20SmashMix.mp3">
+<media:content url="https://archive.org/download/Mr.GSmashMix/Mr.%20G%20-%20SmashMix.mp3">
 <media:thumbnail url="https://1.bp.blogspot.com/-7D4__jS22TE/WfMFic0R5GI/AAAAAAAAC_8/l50ud0z7vZ8wWbQeZpyFJQct-hKwSP9_QCLcBGAs/s280/Smash-front.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>InTheMixRadio - 21st.Century Dance Mix 2000 - 2015</title>
+<description>MMwebREDIO Mixes</description>
+<media:content url="https://archive.org/download/InTheMixRadio21st.CenturyDanceMix20002015WithoutBonus/InTheMixRadio%20-%2021st.%20Century%20Dance%20Mix%202000%20-%202015%20without%20Bonus.mp3">
+<media:thumbnail url="https://2.bp.blogspot.com/-kSHQGc1bbps/VT9mmczWMrI/AAAAAAAAC0M/hQhs4zgIE7A/s280/InTheMixRadio%2B%2B-%2B%2B21st.%2BCentury%2BDance%2BMix%2B%2B%2B2000%2B-%2B2015%2BFront.jpg" />
 </media:content>
 </item>
 
