@@ -336,7 +336,10 @@ https://player.odycdn.com/api/v4/streams/free/s115de/64188732aedbd006431b5d93828
 https://player.odycdn.com/api/v4/streams/free/s116de/e460ed1d6fe35b9b0ce29d009c7ae371169085bc/99b7df.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 117 - Was Unternehmen
-https://livestream.gettr.com/subtitle/56524428/00Cp01Al01TKy0127gkQl200VhY4Phu7OPfXUJ3iPYNXA9e00/xj6kiAMMZJJxStOqNKFZVEiV5yn26Zy3fOyXVXgQhJg/master.m3u8
+https://player.odycdn.com/api/v4/streams/free/s117de/54fa4b5522bcdaf0d10c49f215d1bdf9b62a4f1b/39b8e0.mp4
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 118 - Pakt für die Wahrhei
+https://livestream.gettr.com/subtitle/56524428/00Cp01Al01TKy0127gkQl200VhY4Phu7OPfXUJ3iPYNXA9e00/s54bpBt6em1tR9wm5aqFszJS7znxVd00w552Q00OXADh8/master.m3u8
 
 #EXTINF:0,Grand Jury - Tag 1
 https://player.odycdn.com/api/v4/streams/free/Grand-Jury-1-DE/a9793234ec56f63f6db83971680c02bef18b5435/d21ec9.mp4
