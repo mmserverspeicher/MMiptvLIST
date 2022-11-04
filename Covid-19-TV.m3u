@@ -2,6 +2,9 @@
 #EXTINF:0,Covid-19-TV
 https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/C-TV.mp4?raw=true
 
+#EXTINF:0,Impfpflicht - Der einzige Weg aus der Pandemie
+https://arte-cmafhls.akamaized.net/am/cmaf/091000/091000/091092-000-A/221017123307/medias/091092-000-A_v720.mp4
+
 #EXTINF:0,Viviane Fischer nimmt Stellung zu den Vorgängen im Corona Ausschuss
 https://player.odycdn.com/api/v4/streams/free/Viviane-zu-Reiner/f455d9e8b59e70e2290ab5daacdac2cfa09b684f/bc7a95.mp4
 
@@ -369,10 +372,16 @@ https://player.odycdn.com/api/v4/streams/free/s124de/727413486fec9fb805d5044bd6b
 https://player.odycdn.com/api/v4/streams/free/s125de/6e4bc3224691faa6dd840433ab7899a76fd5db91/b3a02a.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 126 - Die Sonne bringt es an den Tag
-https://player.odycdn.com/api/v4/streams/free/s126de/856e7d54dc2838130302ee12614dc78abd53fe3a/9563af.mp4
+https://player.odycdn.com/api/v4/streams/free/s126de/856e7d54dc2838130302ee12614dc78abd53fe3a/9563af.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 127 - Die Trickkiste
-https://livestream.gettr.com/subtitle/56524428/00Cp01Al01TKy0127gkQl200VhY4Phu7OPfXUJ3iPYNXA9e00/6oWcYLGokLARYL89ZZpNirl6KDpI6GM59r4N2VKN02bE/master.m3u8
+https://player.odycdn.com/api/v4/streams/free/s127de/3a8d5e7c566592a9b36a0bf9533defed7d45b8ed/70c889.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 128 - Orchestrierung einer Krise
+https://player.odycdn.com/api/v4/streams/free/s128de/81b749570c0c20687a9f3ac1ef5b3dc9b4e9e934/1a3a19.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 129 - Weggabelung
+https://livestream.gettr.com/subtitle/56524428/00Cp01Al01TKy0127gkQl200VhY4Phu7OPfXUJ3iPYNXA9e00/2OYf3p8PMha2i02NiLMox8DWplS5dqPbFH02k5gay8o004/master.m3u8
 
 #EXTINF:0,EMPTY - Der weiße Schatten des schwarzen Schwans - Teil 1
 https://tube.kai-stuht.com/download/videos/6fc5b1c0-b57e-44f6-82f4-f989d2e3f145-720.mp4
