@@ -111,13 +111,13 @@ https://player.odycdn.com/api/v4/streams/free/sitzung08/b3c7e2b354366b124cd15046
 https://player.odycdn.com/api/v4/streams/free/sitzung09/032bbde3f09a699fa55335e08cae5505970aa8b8/fc7daa.mp4
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 10 - Gefährlichkeit des Virus Behandlungen der Krankheit Impfen als Ausweg
-https://player.odycdn.com/api/v4/streams/free/sitzung10/32e3d39501516590225c1f4a92e277b04c759eff/8235ae.mp4
+https://player.odycdn.com/api/v4/streams/free/sitzung10/32e3d39501516590225c1f4a92e277b04c759eff/8235ae.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 11 - Datenschutz 1 Million Genoms Gesundheits-ID Tracking-App
-https://archive.org/download/stiftung_corona_ausschuss_sitzung_11/Termin%2011.mp4
+https://player.odycdn.com/api/v4/streams/free/Termin-11-Datenschutz-1-Million-Genoms,-Gesundheits-ID,-Tracking-App/f64dcdf8fdd7f30d9afb30a57301decaef0b723a/2dfff3.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 12 - Fehlanreize im System - Die Rolle der Medien II
-https://player.odycdn.com/api/v4/streams/free/sitzung12/3cbcd847e3ca179800c46df208c2835d89da3ab9/5c9fc2.mp4
+https://player.odycdn.com/api/v4/streams/free/sitzung12/3cbcd847e3ca179800c46df208c2835d89da3ab9/5c9fc2.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 13 - Mittelstand in der Krise Staatsverschuldung Pandemiegewinnler
 https://player.odycdn.com/api/v4/streams/free/sitzung13/b9486667738ec77a9d6dd90e292255fa426890db/b4ab42.mp4
@@ -385,6 +385,9 @@ https://player.odycdn.com/api/v4/streams/free/s129de/7e554170f619d38e125364cce56
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 130 - Sie wussten was sie tun
 https://player.odycdn.com/api/v4/streams/free/Sitzung-130-Odysee-final/701fe4a5a87caaf27aee080984fab8ee056dec71/090764.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 131 - Schuld und Sühne
+https://player.odycdn.com/api/v4/streams/free/Sitzung-131_-Schuld-und-S%C3%BChne/1e760c5f31f6bcbe17f689cb994b7acd67891980/baab25.m3u8
 
 #EXTINF:0,EMPTY - Der weiße Schatten des schwarzen Schwans - Teil 1
 https://tube.kai-stuht.com/download/videos/6fc5b1c0-b57e-44f6-82f4-f989d2e3f145-720.mp4
