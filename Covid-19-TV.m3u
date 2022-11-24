@@ -384,10 +384,19 @@ https://player.odycdn.com/api/v4/streams/free/s128de/81b749570c0c20687a9f3ac1ef5
 https://player.odycdn.com/api/v4/streams/free/s129de/7e554170f619d38e125364cce569f4ed3377559b/d20315.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 130 - Sie wussten was sie tun
-https://player.odycdn.com/api/v4/streams/free/Sitzung-130-Odysee-final/701fe4a5a87caaf27aee080984fab8ee056dec71/090764.m3u8
+https://player.odycdn.com/api/v4/streams/free/s130de/5a6001da0889538a24ae4759ee3422a0b7de482b/2c7964.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 131 - Schuld und Sühne
 https://player.odycdn.com/api/v4/streams/free/Sitzung-131_-Schuld-und-S%C3%BChne/1e760c5f31f6bcbe17f689cb994b7acd67891980/baab25.m3u8
+
+#EXTINF:0,Ankündigung zum neuen Format ICIC
+https://video.icic-net.com/static/streaming-playlists/hls/3a12765c-c0f8-4913-ad65-2e3149865e55/345a89f1-454b-4c1e-bc03-93d93532b2aa-720-fragmented.mp4
+
+#EXTINF:0,ICIC - SITZUNG 1 - Persönlichkeitsveränderung nach mRNA-Injektion
+https://player.odycdn.com/api/v4/streams/free/datenarche-2022-11-14-icic-sitzung-1/0b3a01916f5390243bb2b456728e51ef2f7a9d16/df405b.m3u8
+
+#EXTINF:0,ICIC - SITZUNG 2 - Feindliche Übernahme durch Korporatismus?
+https://player.odycdn.com/api/v4/streams/free/daternarche-2022-11-20-icic-sitzung-2/668b500321edd8e2a78c7d37af90eb1aabd38f1a/f69d4d.m3u8
 
 #EXTINF:0,EMPTY - Der weiße Schatten des schwarzen Schwans - Teil 1
 https://tube.kai-stuht.com/download/videos/6fc5b1c0-b57e-44f6-82f4-f989d2e3f145-720.mp4
