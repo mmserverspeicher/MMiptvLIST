@@ -2,12 +2,6 @@
 #EXTINF:0,Covid-19-TV
 https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/C-TV.mp4?raw=true
 
-#EXTINF:0,Impfpflicht - Der einzige Weg aus der Pandemie
-https://arte-cmafhls.akamaized.net/am/cmaf/091000/091000/091092-000-A/221017123307/medias/091092-000-A_v720.mp4
-
-#EXTINF:0,Viviane Fischer nimmt Stellung zu den Vorgängen im Corona Ausschuss
-https://player.odycdn.com/api/v4/streams/free/Viviane-zu-Reiner/f455d9e8b59e70e2290ab5daacdac2cfa09b684f/bc7a95.mp4
-
 #EXTINF:0,Corona Film - Prologue
 https://www.unzensiert.info/media/download/ovalmedia/20210324_corona-film.mp4
 
@@ -45,13 +39,13 @@ https://files.catbox.moe/n3d2u3.mp4
 https://cdn.lbryplayer.xyz/api/v4/streams/free/Ad-hoc_Chest_Unit_Pfleger/63c589f72023d3313a16120aabf5b70cb805c57b/fc4ea8.mp4
 
 #EXTINF:0,Pathologie - Konferenz - Tod durch Impfung Undeklarierte Bestandteile der COVID-19 Impfstoffe Teil 1/2
-https://player.odycdn.com/api/v4/streams/free/Pathologie_Konferenz_Reutlingen_Teil_1_fixed/c900a8c7f2121b51acd6b97240076c7df4862a8c/ef2e9e.mp4
+https://player.odycdn.com/api/v4/streams/free/Pathologie_Konferenz_Reutlingen_Teil_1_fixed/c900a8c7f2121b51acd6b97240076c7df4862a8c/ef2e9e.m3u8
 
 #EXTINF:0,Pathologie - Konferenz - Tod durch Impfung Undeklarierte Bestandteile der COVID-19 Impfstoffe Teil 2/2
-https://player.odycdn.com/api/v4/streams/free/Pathologie_Konferenz_Reutlingen_Teil_2/1610cba62ea99c49ec96aeb33f0688d2cbe9d185/8b05da.mp4
+https://player.odycdn.com/api/v4/streams/free/Pathologie_Konferenz_Reutlingen_Teil_2/1610cba62ea99c49ec96aeb33f0688d2cbe9d185/8b05da.m3u8
 
 #EXTINF:0,2. Pathologie Konferenz - STEHEN TODESFÄLLE UND GESUNDHEITLICHE SCHÄDEN NACH IMPFUNGEN GEGEN COVID-19
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Pathologie-Konferenz-2-de/d6660373bceee44c7d5ecb656d42a0c89d6da370/d23100.mp4
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Pathologie-Konferenz-2-de/d6660373bceee44c7d5ecb656d42a0c89d6da370/d23100.m3u8
 
 #EXTINF:0,Pressekonferenz Vorstellung MWGFD-Corona-Ausstiegskonzept
 https://stream.video.gettr.com/6jqqTFkfFRRzaSYJbfOeYmYWJ5vBPJisJiN4a8gqH00w.m3u8
@@ -60,7 +54,7 @@ https://stream.video.gettr.com/6jqqTFkfFRRzaSYJbfOeYmYWJ5vBPJisJiN4a8gqH00w.m3u8
 https://files.catbox.moe/mlgwza.mp4
 
 #EXTINF:0,Reiner Fuellmich fasst die bisherigen Erkenntnisse des Corona Ausschusses zusammen und zieht Zwischenbilanz
-https://player.odycdn.com/api/v4/streams/free/Reiner-Fuellmich-Introduction-Deutsch_BestCut/c16bea96707916e599b6f4606f3bea68ce488979/e20444.mp4
+https://player.odycdn.com/api/v4/streams/free/Reiner-Fuellmich-Introduction-Deutsch_BestCut/c16bea96707916e599b6f4606f3bea68ce488979/e20444.m3u8
 
 #EXTINF:0,basiscamp.live
 https://fra-cdn.livepeer.com:443/recordings/b8618ffa-4acf-4f5e-9601-c97758dfbb1e/source.m3u8
