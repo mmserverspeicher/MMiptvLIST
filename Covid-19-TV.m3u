@@ -6,7 +6,19 @@ https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/C-TV.mp4?raw=
 https://www.unzensiert.info/media/download/ovalmedia/20210324_corona-film.mp4
 
 #EXTINF:0,geimpft - Jetzt reden wir
-https://player.odycdn.com/api/v4/streams/free/Teaser_geimpft_Version3/1b63f673e32db35a9cc1ecf191639c5ce1fd8172/e2d767.mp4
+https://player.odycdn.com/api/v4/streams/free/Teaser_geimpft_Version3/1b63f673e32db35a9cc1ecf191639c5ce1fd8172/e2d767.m3u8
+
+#EXTINF:0,klickblick
+https://live.prd.dlive.tv/hls/live/klickblick.m3u8
+
+#EXTINF:0,OVALmedia in Englisch ---Live---
+https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
+
+#EXTINF:0,OVALmedia in Deutsch ---Live---
+https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
+
+#EXTINF:0,BITTEL TV - EINFACH ANDERS ---Live---
+https://live.prd.dlive.tv/hls/live/bitteltv.m3u8
 
 #EXTINF:0,Der Gesundheitsminister Betrüger sagt zum ersten Mal die Wahrheit
 https://files.catbox.moe/yj2m6w.mp4
@@ -65,29 +77,17 @@ https://files.catbox.moe/jbrrvd.mp4
 #EXTINF:0,NUMBERS - 10 Impfungen und Übersterblichkeit
 https://media.gettr.com/group23/origin/2022/01/20/20/c61e51ab-23b4-e8c9-c50e-4e0c06147ec0/out.m3u8
 
-#EXTINF:0,OVALmedia in Englisch ---Live---
-https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
-
-#EXTINF:0,OVALmedia in Deutsch ---Live---
-https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
-
-#EXTINF:0,BITTEL TV - EINFACH ANDERS ---Live---
-https://live.prd.dlive.tv/hls/live/bitteltv.m3u8
-
-#EXTINF:0,So funktioniert der Corona Impfstoff und ist der Corona Impfung sicher
-https://cdn.lbryplayer.xyz/api/v4/streams/free/So-funktioniert-der-Corona-Impfstoff-und-ist-der-Corona-Impfung-sicher-/921d28f34361d5f736f77b840b5d0d7681478f83/6d57c2.mp4
-
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 1 - Lernen vom Untersuchungsausschuss Schweinegrippe
-https://player.odycdn.com/api/v4/streams/free/sitzung01/585c830129d66c18450e025f8fbce4e1a1f077ce/e58469.mp4
+https://player.odycdn.com/api/v4/streams/free/sitzung01/585c830129d66c18450e025f8fbce4e1a1f077ce/e58469.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 2 - Die Lage der Menschen in den Pflegeheimen
-https://player.odycdn.com/api/v4/streams/free/sitzung02/ac00bbf7177bafd025ff09e825e47908240578e9/1bc2d3.mp4
+https://player.odycdn.com/api/v4/streams/free/sitzung02/ac00bbf7177bafd025ff09e825e47908240578e9/1bc2d3.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 3 - Bergamo - was war da los
-https://player.odycdn.com/api/v4/streams/free/sitzung03/727fcd5eeda0dacb0869908c1b2c73ca4ea48635/534e66.mp4
+https://player.odycdn.com/api/v4/streams/free/sitzung03/727fcd5eeda0dacb0869908c1b2c73ca4ea48635/534e66.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 4 - Der Drosten-Test die Immunität und die zweite Welle
-https://player.odycdn.com/api/v4/streams/free/sitzung04/aa1587b2b003ecc611b0a97db3541d17a5713323/712bf7.mp4
+https://player.odycdn.com/api/v4/streams/free/sitzung04/aa1587b2b003ecc611b0a97db3541d17a5713323/712bf7.m3u8
 
 #EXTINF:0,Stiftung Corona Ausschuss - Sitzung 5 - Die Lage der kleinen Unternehmer und Selbstständigen
 https://player.odycdn.com/api/v4/streams/free/sitzung05/6f58d919c518700d3fbcf70f76bef24cb605c696/896f27.mp4
