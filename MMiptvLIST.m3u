@@ -2,9 +2,6 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMiptvLIST.png" group-title="TVprogramme", MMiptvLIST
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
-https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/klickblick.png" group-title="TVprogramme", klickblick
 https://live.prd.dlive.tv/hls/live/klickblick.m3u8
 
@@ -15,7 +12,7 @@ https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
 https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deluxe-Music.png" group-title="TVprogramme", Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com:443/13456/26412680270_2201_123528video_720.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Das-Erste.png" group-title="TVprogramme", ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -30,10 +27,13 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/tagesschau24.png" group-title="TVprogramme", tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020116/tagesschau/tagesschau_2/master_720.m3u8
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ARD-alpha.png" group-title="TVprogramme", ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/WeLT.png" group-title="TVprogramme", WeLT
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
+https://welt.personalstream.tv/v1/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/KiKA.png" group-title="TVprogramme", KiKA
 https://kikageohls.akamaized.net:443/hls/live/2022693/livetvkika_de/master-720p-3328.m3u8
@@ -60,28 +60,25 @@ https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MTV.png" group-title="TVprogramme", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SWR.png" group-title="TVprogramme", SWR
 https://swrbwd-hls.akamaized.net/hls/live/2018672-b/swrbwd/master-720p-3328.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ARD-alpha.png" group-title="TVprogramme", ARD-alpha
-https://mcdn.br.de:443/br/fs/ard_alpha/hls/de/master_1280p_3328.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/WDR.png" group-title="TVprogramme", WDR
-https://mcdn.wdr.de:443/wdr/wdrfs/de/master_3328.m3u8
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/rbb.png" group-title="TVprogramme", rbb
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BR.png" group-title="TVprogramme", BR
-https://mcdn.br.de:443/br/fs/bfs_sued/hls/de/master_1280p_3328.m3u8
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/hr.png" group-title="TVprogramme", hr
-https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master-720.m3u8
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SR.png" group-title="TVprogramme", SR
-https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/mdr.png" group-title="TVprogramme", mdr
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
@@ -122,6 +119,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-Sanctuary.png" group-title="TVprogramme", pluto.tv - Sanctuary
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7de99bc5200300072e971a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5e7de99bc5200300072e971a&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
+https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
@@ -157,12 +157,6 @@ https://files.catbox.moe/9e2sa9.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/HANNA.png" group-title="Video-on-Demand", HANNA
 https://files.catbox.moe/r6ko67.mp4
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MJUNIK.png" group-title="Video-on-Demand", MJUNIK - HOME OF YOU
-http://youvodfree-vh.akamaihd.net/i/delivery/9f/05/9f05ebe0-2d19-4f8b-a219-9aa36fedbb5b/01SU2HS125T11WVT_,3850,250,1350,650,1000,2350,65,k.mp4.csmil/index_5_av.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BERLYN.png" group-title="Video-on-Demand", BERLYN
-http://youvodfree-vh.akamaihd.net/i/delivery/a6/3a/a63ad9ea-d99b-4264-8c22-75bfd46373af/01SU2HR334T11WVN_,650,1350,2350,250,65,1000,3850,k.mp4.csmil/index_6_av.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/StreetFighter6.png" group-title="Intros", Street Fighter 6
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/StreetFighter6.mp4?raw=true
