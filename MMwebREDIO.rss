@@ -76,7 +76,7 @@
 <item>
 <title>SUNSHINE LIVE</title>
 <description>MMwebREDIO</description>
-<media:content url="https://stream.sunshine-live.de/live/mp3-192/tunein/">
+<media:content url="https://stream.sunshine-live.de/live/mp3-192">
 <media:thumbnail url="https://cdn-profiles.tunein.com/s10637/images/logoq.png" />
 </media:content>
 </item>
