@@ -82,18 +82,18 @@
 </item>
 
 <item>
-<title>SUNSHINE LIVE - Die 90er</title>
-<description>MMwebREDIO</description>
-<media:content url="https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq">
-<media:thumbnail url="https://cdn-radiotime-logos.tunein.com/s237962q.png" />
-</media:content>
-</item>
-
-<item>
 <title>SUNSHINE LIVE - classics</title>
 <description>MMwebREDIO</description>
 <media:content url="https://stream.sunshine-live.de/classics/mp3-192">
 <media:thumbnail url="https://cdn-radiotime-logos.tunein.com/s237965q.png" />
+</media:content>
+</item>
+
+<item>
+<title>1A 90er Hits</title>
+<description>MMwebREDIO</description>
+<media:content url="https://stream.1a-webradio.de/saw-90er/mp3-192/stream.mp3">
+<media:thumbnail url="https://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-90er.png" />
 </media:content>
 </item>
 
