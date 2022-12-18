@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s259239q.png" group-title="MMwebREDIO", Classic-Videogames RADIO
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/ClassicVideogamesRADIO.jpg" group-title="MMwebREDIO", Classic-Videogames RADIO
 http://136.243.156.30:1541/stream/2/
 
-#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s79360/images/logoq.jpg" group-title="MMwebREDIO", Radio PARALAX
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Radio-PARALAX.jpg" group-title="MMwebREDIO", Radio PARALAX
 http://radio-paralax.de:8000/;
 
 #EXTINF:0 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9f/c6/108753/1/c175.png" group-title="MMwebREDIO", Nerds and Geeks - THE STATION
@@ -40,6 +40,12 @@ https://webradio.radio-seefunk.de/live
 
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s103802/images/logoq.png" group-title="MMwebREDIO", Radio ROKS Ukraine
 http://online.radioroks.ua/RadioROKS
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/radioTOP40Clubsound.jpg" group-title="MMwebREDIO", radio TOP 40 Clubsound
+https://stream.radiotop40.de/electro/mp3-192/
+
+#EXTINF:0 tvg-logo="https://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-90er.png" group-title="MMwebREDIO", 1A 90er Hits
+https://stream.1a-webradio.de/saw-90er/mp3-192/stream.mp3
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-tgX4Vdp20bU/WxcIiBqr_nI/AAAAAAAADBs/jt4UHDftdPINEyHNX4hOQ-fSxPieiVKDACLcBGAs/s1600/Cover.jpg" group-title="MMwebREDIO Mixes", DJ Kosta - The 80s MegaMix
 https://archive.org/download/DJKostaThe80sMegaMix/DJ%20Kosta%20-%20The%2080s%20MegaMix.mp3
