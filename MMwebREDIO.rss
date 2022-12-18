@@ -76,7 +76,7 @@
 <item>
 <title>SUNSHINE LIVE</title>
 <description>MMwebREDIO</description>
-<media:content url="https://stream.sunshine-live.de/live/mp3-192">
+<media:content url="https://stream.sunshine-live.de/live/mp3-192/radioplayer.de/">
 <media:thumbnail url="https://cdn-profiles.tunein.com/s10637/images/logoq.png" />
 </media:content>
 </item>
@@ -84,7 +84,7 @@
 <item>
 <title>SUNSHINE LIVE - Die 90er</title>
 <description>MMwebREDIO</description>
-<media:content url="https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq">
+<media:content url="https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq/radioplayer.de/">
 <media:thumbnail url="https://cdn-radiotime-logos.tunein.com/s237962q.png" />
 </media:content>
 </item>
