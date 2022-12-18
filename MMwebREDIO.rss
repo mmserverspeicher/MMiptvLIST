@@ -98,6 +98,14 @@
 </item>
 
 <item>
+<title>radio TOP 40 Clubsound</title>
+<description>MMwebREDIO</description>
+<media:content url="https://stream.radiotop40.de/electro/mp3-192/">
+<media:thumbnail url="https://assets.radioplayer.de/stationimages/55_programme_image.png" />
+</media:content>
+</item>
+
+<item>
 <title>bigFM - Deutschlands biggste Beats</title>
 <description>MMwebREDIO</description>
 <media:content url="https://stream.bigfm.de/deutschland/mp3-128/">
