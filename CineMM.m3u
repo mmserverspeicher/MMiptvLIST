@@ -2,8 +2,14 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/rubikon.jpg" group-title="CineMM", Rubikon
+https://dl.streamcloud.club/files/movies/720p/63a7c04eaedc648469cc17c0.mp4
+
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/vesper-chronicles.jpg" group-title="CineMM", Vesper Chronicles
 https://dl.streamcloud.club/files/movies/720p/63a7c046aedc648469cc178d.mp4
+
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/multiverse-parallele-dimensionen.jpg" group-title="CineMM", Multiverse - Parallele Dimensionen
+https://dl.streamcloud.club/files/movies/720p/639b9ccaa573603799c2fd53.mp4
 
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/rot.jpg" group-title="CineMM", ROT
 https://dl.streamcloud.club/files/movies/720p/622b4b7647cfba07dabb5825.mp4

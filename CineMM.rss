@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>CineMM</title>
-  
+ 
 <item>
 <title>CineMM</title>
 <description>CineMM Intro</description>
@@ -12,10 +12,26 @@
 </item>
 
 <item>
+<title>Rubikon</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/720p/63a7c04eaedc648469cc17c0.mp4">
+<media:thumbnail url="https://filmpalast.to/files/movies/450/rubikon.jpg" />
+</media:content>
+</item>
+ 
+<item>
 <title>Vesper Chronicles</title>
 <description>CineMM Film</description>
 <media:content url="https://dl.streamcloud.club/files/movies/720p/63a7c046aedc648469cc178d.mp4">
 <media:thumbnail url="https://filmpalast.to/files/movies/450/vesper-chronicles.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Multiverse - Parallele Dimensionen</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/720p/639b9ccaa573603799c2fd53.mp4">
+<media:thumbnail url="https://filmpalast.to/files/movies/450/multiverse-parallele-dimensionen.jpg" />
 </media:content>
 </item>
 
