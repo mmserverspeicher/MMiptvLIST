@@ -2,6 +2,12 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/strange-world.jpg" group-title="CineMM", Strange World
+https://dl.streamcloud.club/files/movies/720p/63a7c04eaedc648469cc17ce.mp4
+
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/nachts-im-museum-kahmunrah-kehrt-zuruck.jpg" group-title="CineMM", Nachts im Museum - Kahmunrah kehrt zurück
+https://dl.streamcloud.club/files/movies/720p/6393f9d2a573603799b48c21.mp4
+
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/secret-headquarters-das-geheime-hauptquartier.jpg" group-title="CineMM", Secret Headquarters - Das geheime Hauptquartier
 https://dl.streamcloud.club/files/movies/720p/63a7c04daedc648469cc17a5.mp4
 
@@ -13,6 +19,12 @@ https://dl.streamcloud.club/files/movies/720p/63a7c046aedc648469cc178d.mp4
 
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/multiverse-parallele-dimensionen.jpg" group-title="CineMM", Multiverse - Parallele Dimensionen
 https://dl.streamcloud.club/files/movies/720p/639b9ccaa573603799c2fd53.mp4
+
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/troll-2022.jpg" group-title="CineMM", Troll
+https://dl.streamcloud.club/files/movies/720p/63896dd73973aeb98c2833fd.mp4
+
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/schlummerland.jpg" group-title="CineMM", Schlummerland
+https://dl.streamcloud.club/files/movies/720p/63784a5f3973aeb98c087aa5.mp4
 
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/smile-siehst-du-es-auch.jpg" group-title="CineMM", Smile - Siehst du es auch
 https://dl.streamcloud.club/files/movies/720p/633ca27a40b3d875307923d8.mp4
