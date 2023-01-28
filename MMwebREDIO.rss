@@ -138,6 +138,14 @@
 </item>
 
 <item>
+<title>LOHRO</title>
+<description>MMwebREDIO</description>
+<media:content url="http://stream.lohro.de:8000/lohro.mp3">
+<media:thumbnail url="https://img.webme.com/pic/m/mmtvcenter/lohro.png" />
+</media:content>
+</item>
+
+<item>
 <title>DJ Kosta - The 80s MegaMix</title>
 <description>MMwebREDIO Mixes</description>
 <media:content url="http://archive.org/download/DJKostaThe80sMegaMix/DJ%20Kosta%20-%20The%2080s%20MegaMix.mp3">
