@@ -2,20 +2,29 @@
 #EXTINF:0,Covid-19-TV
 https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/C-TV.mp4?raw=true
 
+#EXTINF:0,klickblick
+https://live.prd.dlive.tv/hls/live/klickblick.m3u8
+
+#EXTINF:0,OVALmedia ---Live---
+https://cdn1.oval.media:5443/LiveApp/streams/795315116833829148419603.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss Englisch ---Live---
+https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
+
+#EXTINF:0,Stiftung Corona Ausschuss Deutsch ---Live---
+https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
+
+#EXTINF:0,BITTEL TV - EINFACH ANDERS ---Live---
+https://live.prd.dlive.tv/hls/live/bitteltv.m3u8
+
 #EXTINF:0,Prof. Dr. Sucharit Bhakdi - Die Doku - Können 100 Ärzte Lügen
 https://archive.org/download/resource.uisounds.mm.sounds/S-B-Die-Doku.mp4
-
-#EXTINF:0,AUF1 - Vertuschung Lüge Gesetzesbruch Tom Lausen zeigt Beweise zur Impf-Kampagne
-https://player.odycdn.com/api/v4/streams/free/Vertuschung,-L%C3%BCge,-Gesetzesbruch_-Tom-Lausen-zeigt-Beweise-zur-Impf-Kampagne-1080p/9d5ade91a36596501a2a476a604acda5fe4a715c/c07169.m3u8
 
 #EXTINF:0,Corona Film - Prologue
 https://www.unzensiert.info/media/download/ovalmedia/20210324_corona-film.mp4
 
 #EXTINF:0,AUF1 - Bill Gates und WHO veranstalten neues Planspiel: Catastrophic Contagion
 https://files.catbox.moe/hodvm3.mp4
-
-#EXTINF:0,Univ.-Prof. Dr. med. Sucharit Bhakdi - QUANTUM - 2.12.2022 - TTV Dialog - Die ganze Impf-Industrie ist ein Riesenbetrug
-https://player.odycdn.com/api/v4/streams/free/datenarche-2022-12-02-Sucharit-Bhakdi-ttv-dialog/364f0613e4961e194a06d50a4494eab0315591b2/d1ab36.m3u8
 
 #EXTINF:0,VETO 26 - Wie gefährlich sind Viren am 3. März 2020 zu Gast Dr. Claus Köhnlein
 https://files.catbox.moe/gceo3y.mp4
@@ -56,20 +65,11 @@ https://files.catbox.moe/29ilrr.mp4
 #EXTINF:0,IhrHabtMitgemacht - Episode 12 - Herdenimmunität
 https://archive.org/download/resource.uisounds.mm.sounds/Z-IHM-E12.mp4
 
-#EXTINF:0,geimpft - Jetzt reden wir
-https://player.odycdn.com/api/v4/streams/free/Teaser_geimpft_Version3/1b63f673e32db35a9cc1ecf191639c5ce1fd8172/e2d767.m3u8
+#EXTINF:0,IhrHabtMitgemacht - Episode 13 - Oster Armageddon
+https://archive.org/download/resource.uisounds.mm.sounds/Z-IHM-E13.mp4
 
-#EXTINF:0,klickblick
-https://live.prd.dlive.tv/hls/live/klickblick.m3u8
-
-#EXTINF:0,OVALmedia in Englisch ---Live---
-https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
-
-#EXTINF:0,OVALmedia in Deutsch ---Live---
-https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
-
-#EXTINF:0,BITTEL TV - EINFACH ANDERS ---Live---
-https://live.prd.dlive.tv/hls/live/bitteltv.m3u8
+#EXTINF:0,IhrHabtMitgemacht - Episode 14 Finale - Wir werden einander viel verzeihen müssen
+https://archive.org/download/resource.uisounds.mm.sounds/Z-IHM-E14.mp4
 
 #EXTINF:0,Der Gesundheitsminister Betrüger sagt zum ersten Mal die Wahrheit
 https://files.catbox.moe/yj2m6w.mp4
@@ -98,398 +98,44 @@ https://seed151.bitchute.com/hZckbWIRQyH5/klnLePKJXSgK.mp4
 #EXTINF:0,Profiteure der Angst - Das Geschäft mit der Schweinegrippe - Impfstoff-Marketing mit erfundenen Pandemien - arte - NDR 2009
 https://files.catbox.moe/n3d2u3.mp4
 
-#EXTINF:0,Whistleblower - Pfleger einer Chest-Pain Unit
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Ad-hoc_Chest_Unit_Pfleger/63c589f72023d3313a16120aabf5b70cb805c57b/fc4ea8.mp4
-
-#EXTINF:0,Pathologie - Konferenz - Tod durch Impfung Undeklarierte Bestandteile der COVID-19 Impfstoffe Teil 1/2
-https://player.odycdn.com/api/v4/streams/free/Pathologie_Konferenz_Reutlingen_Teil_1_fixed/c900a8c7f2121b51acd6b97240076c7df4862a8c/ef2e9e.m3u8
-
-#EXTINF:0,Pathologie - Konferenz - Tod durch Impfung Undeklarierte Bestandteile der COVID-19 Impfstoffe Teil 2/2
-https://player.odycdn.com/api/v4/streams/free/Pathologie_Konferenz_Reutlingen_Teil_2/1610cba62ea99c49ec96aeb33f0688d2cbe9d185/8b05da.m3u8
-
-#EXTINF:0,2. Pathologie Konferenz - STEHEN TODESFÄLLE UND GESUNDHEITLICHE SCHÄDEN NACH IMPFUNGEN GEGEN COVID-19
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Pathologie-Konferenz-2-de/d6660373bceee44c7d5ecb656d42a0c89d6da370/d23100.m3u8
-
-#EXTINF:0,Pressekonferenz Vorstellung MWGFD-Corona-Ausstiegskonzept
-https://stream.video.gettr.com/6jqqTFkfFRRzaSYJbfOeYmYWJ5vBPJisJiN4a8gqH00w.m3u8
-
 #EXTINF:0,Spätschicht - Lisa Fitz vs. Jens Spahn - SWR
 https://files.catbox.moe/mlgwza.mp4
-
-#EXTINF:0,Reiner Fuellmich fasst die bisherigen Erkenntnisse des Corona Ausschusses zusammen und zieht Zwischenbilanz
-https://player.odycdn.com/api/v4/streams/free/Reiner-Fuellmich-Introduction-Deutsch_BestCut/c16bea96707916e599b6f4606f3bea68ce488979/e20444.m3u8
-
-#EXTINF:0,basiscamp.live
-https://fra-cdn.livepeer.com:443/recordings/b8618ffa-4acf-4f5e-9601-c97758dfbb1e/source.m3u8
 
 #EXTINF:0,MONOPOLY - Wer regiert unsere Welt
 https://files.catbox.moe/jbrrvd.mp4
 
-#EXTINF:0,NUMBERS - 10 Impfungen und Übersterblichkeit
-https://media.gettr.com/group23/origin/2022/01/20/20/c61e51ab-23b4-e8c9-c50e-4e0c06147ec0/out.m3u8
+#EXTINF:0,Sitzung 1 - Lernen vom Untersuchungsausschuss Schweinegrippe - Stiftung Corona Ausschuss
+https://archive.org/download/resource.uisounds.mm.sounds/z-sca-001.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 1 - Lernen vom Untersuchungsausschuss Schweinegrippe
-https://player.odycdn.com/api/v4/streams/free/sitzung01/585c830129d66c18450e025f8fbce4e1a1f077ce/e58469.m3u8
+#EXTINF:0,Sitzung 10 - Gefährlichkeit des Virus Behandlung der Krankheit Impfen als Ausweg - Stiftung Corona Ausschuss
+https://archive.org/download/resource.uisounds.mm.sounds/z-sca-010.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 2 - Die Lage der Menschen in den Pflegeheimen
-https://player.odycdn.com/api/v4/streams/free/sitzung02/ac00bbf7177bafd025ff09e825e47908240578e9/1bc2d3.m3u8
+#EXTINF:0,Sitzung 52 - Zuckerbrot und Peitsche - Stiftung Corona Ausschuss
+https://seed125.bitchute.com/hYAwjR83sVSl/rvKeXiJd14KR.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 3 - Bergamo - was war da los
-https://player.odycdn.com/api/v4/streams/free/sitzung03/727fcd5eeda0dacb0869908c1b2c73ca4ea48635/534e66.m3u8
+#EXTINF:0,Sitzung 117 - Was Unternehmen - Stiftung Corona Ausschuss
+https://archive.org/download/stiftung_corona_ausschuss_sitzung_117/Termin%20117%20%5Bde%5D.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 4 - Der Drosten-Test die Immunität und die zweite Welle
-https://player.odycdn.com/api/v4/streams/free/sitzung04/aa1587b2b003ecc611b0a97db3541d17a5713323/712bf7.m3u8
+#EXTINF:0,Sitzung 140 - Resolution 53/144 (DE) - Stiftung Corona Ausschuss
+https://archive.org/download/resource.uisounds.mm.sounds/z-sca-140.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 5 - Die Lage der kleinen Unternehmer und Selbstständigen
-https://player.odycdn.com/api/v4/streams/free/sitzung05/6f58d919c518700d3fbcf70f76bef24cb605c696/896f27.mp4
+#EXTINF:0,Sitzung 141 - Es ist nicht vorbei - Stiftung Corona Ausschuss
+https://archive.org/download/resource.uisounds.mm.sounds/z-sca-141.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 6 - Die Lage der Kinder
-https://player.odycdn.com/api/v4/streams/free/sitzung06/3dd8e4d3ca3f237066dbc98552362f9a7a0eecc8/3be12c.mp4
+#EXTINF:0,Sitzung 142 - Drawing Dead (DE) - Stiftung Corona Ausschuss
+https://archive.org/download/resource.uisounds.mm.sounds/z-sca-142.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 7 - Schützen die Masken oder schaden sie
-https://archive.org/download/stiftung_corona_ausschuss_sitzung_7/Termin%2007.mp4
+#EXTINF:0,Sitzung 143 - Die Stolpersteine - Stiftung Corona Ausschuss
+https://archive.org/download/resource.uisounds.mm.sounds/z-sca-143.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 8 - USA - der Blick von innen Aktuelle Lage in Schweden Frankreich Italien etc
-https://player.odycdn.com/api/v4/streams/free/sitzung08/b3c7e2b354366b124cd15046f690ac0de044181d/14a9b5.mp4
+#EXTINF:0,Sitzung 144 - Kopfgeburten - Stiftung Corona Ausschuss
+https://archive.org/download/resource.uisounds.mm.sounds/z-sca-144.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 9 - Die Rolle der Medien
-https://player.odycdn.com/api/v4/streams/free/sitzung09/032bbde3f09a699fa55335e08cae5505970aa8b8/fc7daa.mp4
+#EXTINF:0,Sitzung 145 - Grade der Verstrickung - Stiftung Corona Ausschuss
+https://archive.org/download/resource.uisounds.mm.sounds/z-sca-145.mp4
 
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 10 - Gefährlichkeit des Virus Behandlungen der Krankheit Impfen als Ausweg
-https://player.odycdn.com/api/v4/streams/free/sitzung10/32e3d39501516590225c1f4a92e277b04c759eff/8235ae.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 11 - Datenschutz 1 Million Genoms Gesundheits-ID Tracking-App
-https://player.odycdn.com/api/v4/streams/free/Termin-11-Datenschutz-1-Million-Genoms,-Gesundheits-ID,-Tracking-App/f64dcdf8fdd7f30d9afb30a57301decaef0b723a/2dfff3.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 12 - Fehlanreize im System - Die Rolle der Medien II
-https://player.odycdn.com/api/v4/streams/free/sitzung12/3cbcd847e3ca179800c46df208c2835d89da3ab9/5c9fc2.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 13 - Mittelstand in der Krise Staatsverschuldung Pandemiegewinnler
-https://player.odycdn.com/api/v4/streams/free/sitzung13/b9486667738ec77a9d6dd90e292255fa426890db/b4ab42.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 14 - Der Rechtsstaat und die Berliner Demonstrationen
-https://player.odycdn.com/api/v4/streams/free/sitzung14/b534b24a4c783c259443eb87d97384ee7c8e6ea5/dfb9ea.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 15 - Hypnose Rituale Angst und Wege raus aus der Traumakrise
-https://player.odycdn.com/api/v4/streams/free/sitzung15/a231ac5082ca5694e175ee05ec7e53a822d16e34/e430a5.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 16 - Die Corona-Sprechstunde - Hilfe zur Selbsthilfe bei Masken Tests Quarantäne
-https://player.odycdn.com/api/v4/streams/free/sitzung16/2b609ab4386a2c63f031e921acf3e8be135edafd/c6396b.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 17 - Die Volkswirtschaft im Griff der Pandemie
-https://player.odycdn.com/api/v4/streams/free/sitzung17/451c9ad28210f20ca181adff5a9df335caba4e19/790723.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 49 - Der Offenbarungseid
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-49-Der-Offenbarungseid/fdd9ed8ebbbb43f53e3b7d933b16c72fc6805501/7e703a.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 50 - Solidarität
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-50-Solidaritaet/318f0194bb47ae645a4d8109d1964a0993fe65b8/d07f74.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 51 - Der Realitätscheck
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-51-Der-Realit%C3%A4tscheck_online/359f7783f10b71b458d1c5936649c033a5e64dcc/77ef8b.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 52 - Zuckerbrot und Peitsche
-https://eu-p3.lbryplayer.xyz:443/api/v4/streams/tc/Sitzung-52-Zuckerbrot-und-Peitsche_online/baec24ae53df92bf9dcac58eabe5a2dbf84854a0/9179bb8916bf2f44a04f8ba0a1ebfc7e88e4aac8cba20353cdb5d6520ed4c531ad71955659953f2c6f0af546d83af7f9/stream_0.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 53 - Selbst bestimmen
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-53-Selbst-bestimmen_online/8fb7d9fe974a5b1c5ed3301d038002387b890a4a/819a44.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 54 - Zwischen Nudging und Nebenwirkungen
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-54-Zwischen-Nudging-und-Nebenwirkungen_online/cfee31f1a90c4ef8f90600068d53a62c983f8144/dae06f.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 55 - Investigationen
-https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/Sitzung-55-Investigationen_org_online/da54a702066ca0022f3732108b1405f43e86f626/031c019e191f9d42c11aead6c752869676319f68fb30af146817b8df67993316fe8f2ff08202c14c6dadb941e5732b8d/stream_0.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 56 - Mit höllischen Latwergen
-https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/Sitzung-56-Mit-h%c3%b6llischen-Latwergen-online/9a519e92c72da02d3f3d57cc242a24dcc71339c8/ef58353c20aff536c3187174b6b0a215f53ce6f5f8c9bff8b88b8def40326cf182954d177c2bfd3cea3c565ebeb17def/stream_0.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 57 - Unter Druck
-https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/sca57_converted_720p_german/f89dd78d002393b9378054ed37dfe3b77945724d/c7aad3ff225f9678e81cf3fcf370dca90b7bef0126a1ab6f74aeee3cdcedd33e14470b202cd643ff0b6950a9e55de39c/stream_0.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 58 - Bitte weitergehen hier gibt es nichts zu sehen
-https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/Sitzung-58-Bitte-weitergehen,-hier-gibt-es-nichts-zu-sehen-online/fc3d541fa5551047c35c3d965db2666ce4cd1ea5/a6c7701fd07eb237cd7bc43a86ca1370c1bc4d6fcb790b5534c64baacb572705b6d4e62f44a36c058866fbcf7fac491b/stream_0.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 59 - Der Teufel steckt im Detail
-https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/Sitzung-59-Der-Teufel-steckt-im-Detail-online/f04a83535248a6aaae19de3216fcaf1020a79e5f/319abab6bfacaaf01e1be0d0d581f5d7e24510ee965c288438a00a7603899dbedd28129f4f7c4bbc29b4f15c840f3ef4/stream_0.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 60 - Die Zeit ist kein flacher Kreis
-https://eu-p6.lbryplayer.xyz:443/api/v4/streams/tc/sca61_converted_720p_german_version/1c8418c0284c4bcb5eecf1efb40b84d2cae555b7/0971617ecaee056378ca0c21f3fe78233344152cd36ae711f1820a7746c8e994758e5c8db454d645cfa295d857cd340f/stream_0.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 60 - Die Zeit ist kein flacher Kreis in Deutsch von Dr. David E. Martin
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Ausschuss60_Part5_Martin_Wodarg_Schwab_german_translation/3977390491236fdbcaacab6037451a87e18c89c1/55d4b2.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 61 - We'll catch you 'cause we can in Deutsch
-https://cdn.lbryplayer.xyz/api/v4/streams/free/sca61_converted_720p_german_version/1c8418c0284c4bcb5eecf1efb40b84d2cae555b7/097161.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 62 - Die Welle
-https://fra-cdn.livepeer.com:443/recordings/b861517b-c617-45ad-81ed-71eb65ab77c3/720p0.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 63 - Im Auge des Sturms
-https://cdn.lbryplayer.xyz/api/v4/streams/free/sca63_converted_720p/0bf543b8f9d5061694b417a16d5d1f2c4f523664/010481.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 64 - Medienkritik war gestern
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-64-Medienkritik-war-gestern/cf90876bbe5868d835c47d8e14f7bde51461c288/25048e.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 65 - Internationale Solidarität
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-65-Internationale-Solidarit%C3%A4t/a4937cc4b9b988211be9016dda9de18ddfb0f0fb/5031bd.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 66 - Kettenreaktion
-https://fra-cdn.livepeer.com:443/recordings/b8615513-7934-48d8-a014-77b30216ad46/720p0.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 67 - Die Drücker
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-67-Die-Dr%C3%BCcker-online/b45b4426736f894329a301fd104cd31da540caff/1c7cff.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 68 - Wirksamer Widerstand
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-68-Wirksamer-Widerstand_online/ffdd4c4950f901ff523a9594cdaefb95e31307d9/77f224.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 69 - Be water my friend
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-69-Be-water,-my-friend_online/5552a06540ae99e3d9fceb2c681de3461d5a6e7d/97a626.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 70 - Wer wenn nicht wir
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-70_-Wer,-wenn-nicht-wir_online/490f2f9deb324219db5d87527e1434fedf33ec13/2218c1.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 71 - Wann wenn nicht jetzt
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-71-Wann,-wenn-nicht-jetzt-online/aee7c76fa5475e578fb7fcee40f9ffb5a1379e73/09c408.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 72 - Das Kühlwasser kocht
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-72-Das-K%C3%BChlwasser-kocht/5d56770006de33a980b777a5ff29fdbbe1a16c91/66ff8c.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 73 - Ich bin also denke ich
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-73-Ich-bin,-also-denke-ich_online/f0fa7142c761e4e2ed8c7a08cd04c41170af422d/9f051c.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 74 - So wahr mir Gott helfe
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-74-So-wahr-mir-Gott-helfe-online/10a237a34a2ef1ae2a557dd50ee50bdd6bc54fe8/6dc163.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 75 - Hinter tausend Stäben keine Welt
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-75---Hinter-tausend-Staeben-keine-Welt---online/a9ab6e17801cbcfec58fda2ecdf9a4a743bd8719/056ac5.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 76 - Kolumbus´ faule Eier
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-76-de/be8f3fd0b50d73c8b5d2663b609eb15df81455bb/8302fb.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 77 - Schrödingers Impfkatze
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-77-de/31515ba5fec96c74943efbabc632abcdb30f24fa/7f8316.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 78 - Neue Wege aus dem Trauma
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-78---DE---Neue-Wege-aus-dem-Trauma/ed7b09e1c2ff479c9140e0d973d1d7732c4799ca/8b267e.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 79 - Wildgewordene Technokratie
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-79-de/224afb0079da40687960390af58114ae23b3bc5f/238a24.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 80 - 3G am Arbeitsplatz und Impfpflicht in Österreich
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-80-de/fd49bf47c85e33546d3f345e6b4b5b9cebef4b35/f99a36.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 81 - Augen auf und durch
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-81-de/c7691e357a676c3199ee004ce401683c497bb63d/19dd7c.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 82 - Es gibt kein kostenloses Mittagessen
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-82-de/4e3bfed062d927ee459a6b5a319e1f8108bfb73f/a7e75a.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 83 - Rückgrat beweisen
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-83-de/602c7253e1f7320ceb43672eb14ac20f7b6daa40/a09424.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 84 - Einer trage des anderen Last
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Session-84-de_-Bear-One-Another%C2%B4s-Burden_2/c7b24e695b3f39810393673fd99db4aa612cb40e/f0072f.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 85 - Neudenken
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-85-de/af64e31ef864c9a106c9530d497c642e76042de6/7eaa6d.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 86 - Der Nebel lichtet sich
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-86-de/4fdcdaf40c99f9e418adac45e59eb9d06bd21f9d/380bfe.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 87 - Wir sind alle David
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-87-de/8b73ab68b5b2e18d3ece1ebda78d3046bb0a6998/d175a9.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 88 - Den Atem im Nacken
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-88-de-online/08bf3084dcadede526d7f5fb6438c0ee67b33f13/c6d8b5.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 89 - Schachzüge
-https://cdn.lbryplayer.xyz/api/v4/streams/free/Sitzung-89-de/24213be58fbc7ae8417acaa600ecdc82ab23fd34/5eff51.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 90 - Das Virus der Macht
-https://player.odycdn.com/api/v4/streams/free/sitzung-90-de_1/3c2130cc118affa1400e477c72ab25d77f4b9054/47cf2a.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 91 - Anfangsgründe
-https://player.odycdn.com/api/v4/streams/free/Sitzung-91-de/0c1b6c10d34e7c9a9a2dd6b5d3c678a6c5dbd9f0/70e89d.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 92 - Vom Großen und vom Kleinen
-https://player.odycdn.com/api/v4/streams/free/Sitzung-92-de-online/8b1400ae05b0ee1a100b0cb58f83333027ca49e2/2efdb5.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 93 - Konzentrische Kreise
-https://player.odycdn.com/api/v4/streams/free/Sitzung-93-de-online/947d78a482eb1b2ab55dd46faa8d5d9a84b62646/03e657.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 94 - Ihnen auf die Füße treten
-https://player.odycdn.com/api/v4/streams/free/s94de/fc080cf0dd78c772f27ca3d2a2a79780d7bd5559/ec96b4.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 95 - Hinter dem Vorhang
-https://player.odycdn.com/api/v4/streams/free/s95de/85de84b35259f3e3e7a2a17c1511ef425d740119/77f212.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 96 - Alle geht alles an
-https://player.odycdn.com/api/v4/streams/free/s96de/d0e61513d2a0c1ef509889d7053f34f8be11f479/521249.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 97 - Offene Geheimnisse
-https://player.odycdn.com/api/v4/streams/free/s97de/f55dba6eaa60c1e6de1ec175dcccd3da57c59d52/df5fff.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 98 - Vexierbilder
-https://player.odycdn.com/api/v4/streams/free/2022-04-01-sca-sitzung98-fixed/5d3b31594813aacc071ef0edac64672fd076a951/09b360.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 99 - Etappensiege
-https://player.odycdn.com/api/v4/streams/free/Sitzung-99-Odysee-final/91234081bb01279b12de20deecb9cd6d184fecd5/9d862d.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 100 - Endstation Gerechtigkeit
-https://player.odycdn.com/api/v4/streams/free/Sitzung-100-DE-Odysee/d12fde4c7e5eb63bff045f4e73e9b21e200b9488/7116c3.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 101 - Konstruktive Interferenz
-https://player.odycdn.com/api/v4/streams/free/Sitzung-101-DE-Odysee-final/9962ec0ccefecc7f6c90414d191419c8df33a534/d844c8.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 102 - Undercover
-https://player.odycdn.com/api/v4/streams/free/s102de/d8ddbbb9ffa50d1e41c962340fac8d2881bfe1f5/7566db.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 103 - Schwerter zu Pflugscharen
-https://player.odycdn.com/api/v4/streams/free/s103de/f2d570a6b45a142ed6fae8ad49f42591ca3eb210/a47045.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 104 - Die blaue Blume
-https://player.odycdn.com/api/v4/streams/free/s104de/ea9f977ef030e198f352bb28ae80bd876c786d47/fc1ee4.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 105 - Vorfühlen
-https://player.odycdn.com/api/v4/streams/free/s105de/0fd7bd8969ce8665abe46ebfc5e61b6d0a3ef9d4/718295.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 106 - Kartographie des Elefanten
-https://player.odycdn.com/api/v4/streams/free/s106de/bed37ecdfdafa1bead9c7c355a09927a0559373d/62c30c.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 107 - Cancel Unculture
-https://player.odycdn.com/api/v4/streams/free/s107de/61622c9e54cb871de596823fb319fe23836e1098/c25a54.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 108 - fiat iustitia
-https://player.odycdn.com/api/v4/streams/free/s108de/96cf1881e7a3f9bad6512e2d4699a75de2992ccf/2380ba.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 109 - Atemzüge eines Sommertags
-https://player.odycdn.com/api/v4/streams/free/s109de/edda01843d7741e65bac2bf0f6b2a5dc8cd1b5de/104b20.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 110 - Revisiting
-https://player.odycdn.com/api/v4/streams/free/s110de/03574e969a69b21fd09f2ddf919c97b8befae1a2/3a9bb0.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 111 - Neukonstellierung
-https://player.odycdn.com/api/v4/streams/free/s111de/b9bd81f0cb743e7f3f8aacef644775f3fc43fb35/bc8a31.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 112 - Die Schande
-https://player.odycdn.com/api/v4/streams/free/s112de/5a1520c561960489d3918b48e47d53c70fd746e7/de721a.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 113 - Das Myzel
-https://player.odycdn.com/api/v4/streams/free/s113de/681096134ade3e4c034c7c55c460f302bb87bd42/1371b9.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 114 - Das Umkehrprinzip
-https://player.odycdn.com/api/v4/streams/free/s114de/d90ebc4f2bdad0dcca61a09df3775af2d332a8ab/3fb7fc.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Nachlese - Sitzung 114 - Das Umkehrprinzip
-https://player.odycdn.com/api/v4/streams/free/n114de/875e7668270cebaf7a98f307f2d3e2134163924c/ecd7d8.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 115 - Selbstständig
-https://player.odycdn.com/api/v4/streams/free/s115de/64188732aedbd006431b5d93828c533034ce8706/4d849c.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 116 - Schau alle Wirkenskraft
-https://player.odycdn.com/api/v4/streams/free/s116de/e460ed1d6fe35b9b0ce29d009c7ae371169085bc/99b7df.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 117 - Was Unternehmen
-https://player.odycdn.com/api/v4/streams/free/s117de/54fa4b5522bcdaf0d10c49f215d1bdf9b62a4f1b/39b8e0.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 118 - Pakt für die Wahrhei
-https://player.odycdn.com/api/v4/streams/free/s118de/4557bedb678892eae9f92d82b4184b0c0d87198d/3bbda6.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 119 - Recht und Gesetz
-https://player.odycdn.com/api/v4/streams/free/s119de/ebf56da2067c30002e7d7436902dbf53ba404700/3e27ed.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 120 - Morphose
-https://player.odycdn.com/api/v4/streams/free/s120de/b301a19152e83f068f49d7d7c1a6ff7a7ec074b6/6f48d0.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 121 - Ausschuss goes Vienna
-https://player.odycdn.com/api/v4/streams/free/s121de/cc09afc859bb222b540a565106084ea4fbaeea3a/0e5eb9.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 122 - Der Kongress tanzt
-https://player.odycdn.com/api/v4/streams/free/s122de/fdbd4b0a74d579755e35b04078b0c0a01d3a534a/b766ba.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 123 - Brutale Tatsachen
-https://player.odycdn.com/api/v4/streams/free/s123de/5af0fbda973cc60b214f03f10b287abbc14ba78f/b00c5a.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 124 - In den Kaninchenbau
-https://player.odycdn.com/api/v4/streams/free/s124de/727413486fec9fb805d5044bd6b3a0054857b38d/c39068.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 125 - Eine unbequeme Wahrheit
-https://player.odycdn.com/api/v4/streams/free/s125de/6e4bc3224691faa6dd840433ab7899a76fd5db91/b3a02a.mp4
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 126 - Die Sonne bringt es an den Tag
-https://player.odycdn.com/api/v4/streams/free/s126de/856e7d54dc2838130302ee12614dc78abd53fe3a/9563af.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 127 - Die Trickkiste
-https://player.odycdn.com/api/v4/streams/free/s127de/3a8d5e7c566592a9b36a0bf9533defed7d45b8ed/70c889.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 128 - Orchestrierung einer Krise
-https://player.odycdn.com/api/v4/streams/free/s128de/81b749570c0c20687a9f3ac1ef5b3dc9b4e9e934/1a3a19.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 129 - Weggabelung
-https://player.odycdn.com/api/v4/streams/free/s129de/7e554170f619d38e125364cce569f4ed3377559b/d20315.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 130 - Sie wussten was sie tun
-https://player.odycdn.com/api/v4/streams/free/s130de/5a6001da0889538a24ae4759ee3422a0b7de482b/2c7964.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 131 - Schuld und Sühne
-https://player.odycdn.com/api/v4/streams/free/Sitzung-131_-Schuld-und-S%C3%BChne/1e760c5f31f6bcbe17f689cb994b7acd67891980/baab25.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 132 - Feuerwerk
-https://player.odycdn.com/api/v4/streams/free/s132de/ecad042647a70707b4b5991c145d9edac6702d9e/393692.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 133 - Controlled Demolition
-https://player.odycdn.com/api/v4/streams/free/133_Controlled_Demolition/f89a2a9f9e8eeca18aa101623848f4921929da11/e64e45.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 134 - Begleitumstände
-https://player.odycdn.com/api/v4/streams/free/s134de/61c25612342c4be1649dbb55e12d80056e91e72d/14a8b2.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 135 - Der Kreis schließt sich
-https://player.odycdn.com/api/v4/streams/free/s135de/f191a7441d4302734e0124e1d142b171ca165766/c5ea19.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 136 - Black Box
-https://player.odycdn.com/api/v4/streams/free/s136de/f414a79efd5f7a89692282c4baa529764c8f6b03/61886f.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 137 - Vom Gleichnis des Dorian Gray
-https://player.odycdn.com/api/v4/streams/free/s137de/1faa1e6f13d84f736eefb2ef774eebe19ac06eed/fb7ecc.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 138 - Panta Rhei
-https://player.odycdn.com/api/v4/streams/free/s138de/c37a7c24a3a78d31d45b3fd3cdb067dd2ac3dcde/80fc69.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 139 - The Baseline (DE)
-https://player.odycdn.com/api/v4/streams/free/s139de/810e83a8e2a4a28de8f8850f5c0e25b87f55a8ae/e4e0a4.m3u8
-
-#EXTINF:0,Stiftung Corona Ausschuss - Sitzung 140 - Resolution 53/144 (DE)
-https://player.odycdn.com/api/v4/streams/free/s140de/1c149c7d1563b89be87b9074974835b5b06e8dfd/c306c5.m3u8
-
-#EXTINF:0,Ankündigung zum neuen Format ICIC
-https://player.odycdn.com/api/v4/streams/free/datenarche-icic-promo/4ecac17841a7fa8d5b3ca36a0a7ac128587a416f/670375.m3u8
-
-#EXTINF:0,ICIC - SITZUNG 1 - Persönlichkeitsveränderung nach mRNA-Injektion
-https://player.odycdn.com/api/v4/streams/free/datenarche-2022-11-14-icic-sitzung-1/0b3a01916f5390243bb2b456728e51ef2f7a9d16/df405b.m3u8
-
-#EXTINF:0,ICIC - SITZUNG 2 - Feindliche Übernahme durch Korporatismus?
-https://player.odycdn.com/api/v4/streams/free/daternarche-2022-11-20-icic-sitzung-2/668b500321edd8e2a78c7d37af90eb1aabd38f1a/f69d4d.m3u8
-
-#EXTINF:0,ICIC - SITZUNG 3 - Nanotechnologie - Selbstorganisierende Strukturen in mRNA Injektionen
-https://player.odycdn.com/api/v4/streams/free/datenarche-2022-11-27-icic-sitzung-3/70395590ce7299c1a01c3d6cb6ad82c073927b8a/b960e2.m3u8
-
-#EXTINF:0,ICIC - SITZUNG 4 - Selbstorganisierende Strukturen in mRNA Injektionen: natürlich oder doch kreiert
-https://player.odycdn.com/api/v4/streams/free/datenarche-2022-12-04-icic-sitzung-4/b6ce93c82e49a31d508f1e0243ff35ef82228130/fc1e74.m3u8
-
-#EXTINF:0,ICIC - SITZUNG 5 - Frauen und Kinder zuerst schützen
-https://player.odycdn.com/api/v4/streams/free/datenarche-2022-12-18-icic-sitzung-5-frauen-und-kinder-zuerst/1749795d8a818294b4c8a784773d61df3ccfd349/9cec2c.m3u8
-
-#EXTINF:0,ICIC - SITZUNG 6 - Oligarchen besitzen die U.N.
-https://player.odycdn.com/api/v4/streams/free/22-12-25-ICIC---Oligarchen-besitzen-die-U.N./fd0ab029b677efe868a9dd6c375dee08d47cf4cb/58323d.m3u8
-
-#EXTINF:0,ICIC - SITZUNG 7 - Keine Angst
-https://player.odycdn.com/api/v4/streams/free/2023-01-01-icic-sitzung-7-Keine-Angst_fixed/89f8b59682af9da8f2827c806bac0aff07c7e9e8/7a7ae0.m3u8
-
-#EXTINF:0,ICIC - SITZUNG 8 - Virus - Isolat vs. Aufreinigung
-https://player.odycdn.com/api/v4/streams/free/datenarche-2023-01-08-icic-sitzung-8-Isolierung-vs.-Aufreinigung/c2c6df25a7b9d0120d65ae3521c6191781610a5e/b87635.m3u8
-
-#EXTINF:0,ICIC - SITZUNG 9 - Angst und Schrecken vor des Kaisers neuen Kleidern
-https://player.odycdn.com/api/v4/streams/free/Angst_und_Schrecken_vor_des_Kaisers_neuen_Kleidern/3e77a78cd5d7d0626e7814b17762514f871bb5b0/7c39a4.m3u8
+#EXTINF:0,ICIC - SITZUNG 11 - Zustand der Justiz in Deutschland
+https://archive.org/download/resource.uisounds.mm.sounds/z-icic-011.mp4
 
 #EXTINF:0,EMPTY - Der weiße Schatten des schwarzen Schwans - Teil 1
 https://tube.kai-stuht.com/download/videos/6fc5b1c0-b57e-44f6-82f4-f989d2e3f145-720.mp4
