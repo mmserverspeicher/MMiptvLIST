@@ -36,7 +36,7 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 https://welt.personalstream.tv/v1/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/KiKA.png" group-title="TVprogramme", KiKA
-https://kikageohls.akamaized.net:443/hls/live/2022693/livetvkika_de/master-720p-3328.m3u8
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/k-tv.png" group-title="TVprogramme", k-tv
 http://ec2-52-57-41-34.eu-central-1.compute.amazonaws.com/p/101/sp/10100/playManifest/entryId/0_0rfgbtwj/format/applehttp/protocol/http/uiConfId/23448323/a.m3u8
@@ -54,7 +54,7 @@ https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3
 https://varoe24live.sf.apa.at:443/oe24-live1/oe24.smil/chunklist_b946000.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/VIVA.png" group-title="TVprogramme", VIVA
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+https://hls.goodgame.ru/manifest/180805_master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/KronehitTV.png" group-title="TVprogramme", Kronehit TV
 https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b1628000.m3u8
@@ -104,11 +104,11 @@ https://regiotv.iptv-playoutcenter.de/regiotv/regiotv.stream_1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MegaRadio.png" group-title="TVprogramme", MegaRadio
 https://live.prd.dlive.tv/hls/live/megaradio.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/DeineMATRIX.png" group-title="TVprogramme", DeineMATRIX
+https://live.prd.dlive.tv/hls/live/deinematrix.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BITTEL-TV-LIVE.png" group-title="TVprogramme", BITTEL TV - EINFACH ANDERS ---LIVE---
 https://live.prd.dlive.tv/hls/live/bitteltv.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/The-petCollective.png" group-title="TVprogramme", The petCollective
-https://the-pet-collective-international-us.ono.wurl.tv:443/3000.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-ThePetCollective.png" group-title="TVprogramme", pluto.tv - The Pet Collective
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5b4f5a07694c027be6ed1417&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1.m3u8
