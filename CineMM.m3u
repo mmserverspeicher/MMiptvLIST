@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/einer-muss-sterben.jpg" group-title="CineMM", Einer muss sterben
+https://dl.streamcloud.club/files/movies/720p/6455b8473b4a11f6a063aa4c/6455b8473b4a11f6a063aa4c.m3u8
+
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/two-witches-zwei-hexen.jpg" group-title="CineMM", Two Witches - Zwei Hexen
 https://dl.streamcloud.club/files/movies/720p/63c0873daedc648469fa3b5e.mp4
 
@@ -113,14 +116,17 @@ https://dl.streamcloud.club/files/movies/720p/6200620085821f447d114714.mp4
 #EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s9082c043fe13dab9/image/iafee647b9467c25e/version/1643060853/image.jpg" group-title="CineMM", Resident Evil - Welcome to Raccoon City
 https://dl.streamcloud.club/files/movies/720p/61c2989103858102bb812dc3.mp4
 
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/wonder-woman-1984.jpg" group-title="CineMM", Wonder Woman 1984
+https://dl.streamcloud.club/files/movies/720p/6195193358607cdfb9fb5c22.mp4
+
 #EXTINF:0 tvg-logo="https://www.filmpalast.to/files/movies/315/zack-snyders-justice-league.jpg" group-title="CineMM", Zack Snyders Justice League
 https://dl.streamcloud.club/files/movies/720p/6195193358607cdfb9fb6147.mp4
 
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/shazam.jpg" group-title="CineMM", Shazam
 https://dl.streamcloud.club/files/movies/720p/6195193358607cdfb9fb0307.mp4
 
-#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/wonder-woman-1984.jpg" group-title="CineMM", Wonder Woman 1984
-https://dl.streamcloud.club/files/movies/720p/6195193358607cdfb9fb5c22.mp4
+#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/the-suicide-squad-2021.jpg" group-title="CineMM", The Suicide Squad
+https://dl.streamcloud.club/files/movies/720p/6195193258607cdfb9fa9792.mp4
 
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/birds-of-prey-the-emancipation-of-harley-quinn.jpg" group-title="CineMM", Birds Of Prey - The Emancipation Of Harley Quinn
 https://dl.streamcloud.club/files/movies/720p/6195193258607cdfb9f9f129.mp4
