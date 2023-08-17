@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>MMiptvLIST</title>
+
+<item>
+<title>MMiptvLIST</title>
+<description>MMiptvLIST</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMiptvLIST.png" />
+</media:content>
+</item>
+
+<item>
+<title>AUF1</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://gegenstimme.tv/static/webseed/f811e8d6-ef0b-4c64-964f-d3c8bc616a75-1080.mp4">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/AUF1.png" />
+</media:content>
+</item>
+
+<item>
+<title>klickblick</title>
+<description>MMiptvLIST</description>
+<media:content url="https://live.prd.dlive.tv/hls/live/klickblick.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/klickblick.png" />
+</media:content>
+</item>
+
+<item>
+<title>Stiftung Corona Ausschuss ENGLISCH ---LIVE---</title>
+<description>MMiptvLIST</description>
+<media:content url="https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/scae.png" />
+</media:content>
+</item>
+
+<item>
+<title>Stiftung Corona Ausschuss DEUTSCH ---LIVE---</title>
+<description>MMiptvLIST</description>
+<media:content url="https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/scad.png" />
+</media:content>
+</item>
+
+<item>
+<title>Deluxe Music</title>
+<description>MMiptvLIST</description>
+<media:content url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deluxe-Music.png" />
+</media:content>
+</item>
+
+<item>
+<title>ARD</title>
+<description>MMiptvLIST</description>
+<media:content url="https://mcdn.daserste.de/daserste/de/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Das-Erste.png" />
+</media:content>
+</item>
+
+<item>
+<title>ZDF</title>
+<description>MMiptvLIST</description>
+<media:content url="https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ZDF.png" />
+</media:content>
+</item>
+
+<item>
+<title>zdf info</title>
+<description>MMiptvLIST</description>
+<media:content url="https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/zdf-info.png" />
+</media:content>
+</item>
+
+<item>
+<title>zdf neo</title>
+<description>MMiptvLIST</description>
+<media:content url="https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/zdf-neo.png" />
+</media:content>
+</item>
+
+<item>
+<title>tagesschau24</title>
+<description>MMiptvLIST</description>
+<media:content url="https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/tagesschau24.png" />
+</media:content>
+</item>
+
+<item>
+<title>ARD-alpha</title>
+<description>MMiptvLIST</description>
+<media:content url="https://mcdn.daserste.de/daserste/de/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ARD-alpha.png" />
+</media:content>
+</item>
+
+<item>
+<title>WeLT</title>
+<description>MMiptvLIST</description>
+<media:content url="https://welt.personalstream.tv/v1/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/WeLT.png" />
+</media:content>
+</item>
+
+<item>
+<title>KiKA</title>
+<description>MMiptvLIST</description>
+<media:content url="https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/KiKA.png" />
+</media:content>
+</item>
+
+<item>
+<title>k-tv</title>
+<description>MMiptvLIST</description>
+<media:content url="https://ec2-52-57-41-34.eu-central-1.compute.amazonaws.com/p/101/sp/10100/playManifest/entryId/0_0rfgbtwj/format/applehttp/protocol/http/uiConfId/23448323/a.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/k-tv.png" />
+</media:content>
+</item>
+
+<item>
+<title>arte</title>
+<description>MMiptvLIST</description>
+<media:content url="https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/arte.png" />
+</media:content>
+</item>
+
+<item>
+<title>3sat</title>
+<description>MMiptvLIST</description>
+<media:content url="https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/3sat.png" />
+</media:content>
+</item>
+
+<item>
+<title>ServusTV</title>
+<description>MMiptvLIST</description>
+<media:content url="https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ServusTV.png" />
+</media:content>
+</item>
+
+<item>
+<title>oe24.TV</title>
+<description>MMiptvLIST</description>
+<media:content url="https://varoe24live.sf.apa.at:443/oe24-live1/oe24.smil/chunklist_b946000.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" />
+</media:content>
+</item>
+
+<item>
+<title>Kronehit TV</title>
+<description>MMiptvLIST</description>
+<media:content url="https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b1628000.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/KronehitTV.png" />
+</media:content>
+</item>
+
+<item>
+<title>MTV</title>
+<description>MMiptvLIST</description>
+<media:content url="https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MTV.png" />
+</media:content>
+</item>
+
+<item>
+<title>SWR</title>
+<description>MMiptvLIST</description>
+<media:content url="https://swrbwd-hls.akamaized.net/hls/live/2018672-b/swrbwd/master-720p-3328.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SWR.png" />
+</media:content>
+</item>
+
+<item>
+<title>WDR</title>
+<description>MMiptvLIST</description>
+<media:content url="https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/WDR.png" />
+</media:content>
+</item>
+
+<item>
+<title>rbb</title>
+<description>MMiptvLIST</description>
+<media:content url="https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/rbb.png" />
+</media:content>
+</item>
+
+<item>
+<title>BR</title>
+<description>MMiptvLIST</description>
+<media:content url="https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BR.png" />
+</media:content>
+</item>
+
+<item>
+<title>hr</title>
+<description>MMiptvLIST</description>
+<media:content url="https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/hr.png" />
+</media:content>
+</item>
+
+<item>
+<title>SR</title>
+<description>MMiptvLIST</description>
+<media:content url="https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SR.png" />
+</media:content>
+</item>
+
+<item>
+<title>mdr</title>
+<description>MMiptvLIST</description>
+<media:content url="https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/mdr.png" />
+</media:content>
+</item>
+
+<item>
+<title>one</title>
+<description>MMiptvLIST</description>
+<media:content url="https://mcdn.one.ard.de/ardone/hls/master.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/one.png" />
+</media:content>
+</item>
+
+<item>
+<title>TVAktuell</title>
+<description>MMiptvLIST</description>
+<media:content url="https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/TVAktuell.png" />
+</media:content>
+</item>
+
+<item>
+<title>TV Oberfranken</title>
+<description>MMiptvLIST</description>
+<media:content url="https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/playlist.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/TVO.png" />
+</media:content>
+</item>
+
+<item>
+<title>regioTV Stuttgart</title>
+<description>MMiptvLIST</description>
+<media:content url="https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/regioTV-Stuttgart.png" />
+</media:content>
+</item>
+
+<item>
+<title>regioTV Bodensee</title>
+<description>MMiptvLIST</description>
+<media:content url="https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/regioTV-Bodensee.png" />
+</media:content>
+</item>
+
+<item>
+<title>regioTV Schwaben</title>
+<description>MMiptvLIST</description>
+<media:content url="https://regiotv.iptv-playoutcenter.de/regiotv/regiotv.stream_1/playlist.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/regioTV-Schwaben.png" />
+</media:content>
+</item>
+
+<item>
+<title>MegaRadio</title>
+<description>MMiptvLIST</description>
+<media:content url="https://live.prd.dlive.tv/hls/live/megaradio.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MegaRadio.png" />
+</media:content>
+</item>
+
+<item>
+<title>DeineMATRIX</title>
+<description>MMiptvLIST</description>
+<media:content url="https://live.prd.dlive.tv/hls/live/deinematrix.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/DeineMATRIX.png" />
+</media:content>
+</item>
+
+<item>
+<title>VIVA RUSSIA</title>
+<description>MMiptvLIST</description>
+<media:content url="https://live.prd.dlive.tv/hls/live/viva-russia.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/VIVA-RUSSIA.png" />
+</media:content>
+</item>
+
+<item>
+<title>MMgamePLAYING</title>
+<description>MMiptvLIST</description>
+<media:content url="https://live.prd.dlive.tv/hls/live/mmgameplaying.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMgamePLAYING-LOGO.png" />
+</media:content>
+</item>
+
+<item>
+<title>BITTEL TV - EINFACH ANDERS ---LIVE---</title>
+<description>MMiptvLIST</description>
+<media:content url="https://live.prd.dlive.tv/hls/live/bitteltv.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BITTEL-TV-LIVE.png" />
+</media:content>
+</item>
+
+<item>
+<title>pluto.tv - The Pet Collective</title>
+<description>MMiptvLIST</description>
+<media:content url="https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5b4f5a07694c027be6ed1417&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-ThePetCollective.png" />
+</media:content>
+</item>
+
+<item>
+<title>pluto.tv - Turtles</title>
+<description>MMiptvLIST</description>
+<media:content url="https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5d6792bd6be2998ad0ccce30&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-Turtles.png" />
+</media:content>
+</item>
+
+<item>
+<title>Stiftung Corona Ausschuss</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM DELUXE</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMMdeluxe.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Deluxe.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM MOVIEs</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-MOVIEs.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Movies.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM SUPER COMEDY</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-SUPER-COMEDY.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Super-Comedy.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM POWER ACTION</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-POWER-ACTION.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-POWER-ACTION.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM TERROR HORROR</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-TERROR-HORROR.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Terror-Horror.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM Classic Science Fiction</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-ClassicScienceFiction.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-ClassicScienceFiction.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM CartoonTRICKs</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-CartoonTRICKs.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-CartoonTRICKs.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM MOVIEkiDs</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-MOVIEkiDs.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" />
+</media:content>
+</item>
+
+<item>
+<title>Best of MR.M.M.</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Best-of-MR.M.M.png" />
+</media:content>
+</item>
+
+<item>
+<title>AIDA</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://files.catbox.moe/9e2sa9.mp4">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/AIDA.png" />
+</media:content>
+</item>
+
+<item>
+<title>HANNA</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://files.catbox.moe/r6ko67.mp4">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/HANNA.png" />
+</media:content>
+</item>
+
+<item>
+<title>Street Fighter 6</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/StreetFighter6.mp4?raw=true">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/StreetFighter6.png" />
+</media:content>
+</item>
+
+</channel>
+</rss>
