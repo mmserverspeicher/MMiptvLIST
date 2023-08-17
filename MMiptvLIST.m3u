@@ -53,9 +53,6 @@ https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" group-title="TVprogramme", oe24.TV
 https://varoe24live.sf.apa.at:443/oe24-live1/oe24.smil/chunklist_b946000.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/VIVA.png" group-title="TVprogramme", VIVA RUSSIA
-https://hls.goodgame.ru/manifest/180805_master.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/KronehitTV.png" group-title="TVprogramme", Kronehit TV
 https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b1628000.m3u8
 
