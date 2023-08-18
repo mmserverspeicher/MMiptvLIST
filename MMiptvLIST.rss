@@ -340,6 +340,14 @@
 </item>
 
 <item>
+<title>premiere</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://archive.org/download/resource.uisounds.mm.sounds/z-p-alt.mp4">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/premiere.png" />
+</media:content>
+</item>
+
+<item>
 <title>CineMM</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true">
