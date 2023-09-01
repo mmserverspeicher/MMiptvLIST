@@ -149,7 +149,7 @@ https://dl.streamcloud.club/files/movies/720p/61c2989103858102bb812dc3.mp4
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/wonder-woman-1984.jpg" group-title="CineMM", Wonder Woman 1984
 https://dl.streamcloud.club/files/movies/720p/6195193358607cdfb9fb5c22.mp4
 
-#EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/man-of-steel.jpg" group-title="CineMM", Man of Steel
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C002.jpg" group-title="CineMM", Man of Steel
 https://dl.streamcloud.club/files/movies/1080p/648fba2cf9952f608714341b.mp4
 
 #EXTINF:0 tvg-logo="https://www.filmpalast.to/files/movies/315/zack-snyders-justice-league.jpg" group-title="CineMM", Zack Snyders Justice League
@@ -166,6 +166,9 @@ https://dl.streamcloud.club/files/movies/720p/6195193258607cdfb9f9f129.mp4
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C001.jpg" group-title="CineMM", Black Adam
 https://dl.streamcloud.club/files/movies/720p/635924f93973aeb98ccc6f2f.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C003.jpg" group-title="CineMM", Shazam! Fury of the Gods
+https://dl.tmdb.club/files/movies/720p/64152cd76dc1d5bdbdace08d/64152cd76dc1d5bdbdace08d.m3u8
 
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/tucker-dale-vs-evil.jpg" group-title="CineMM", Tucker and Dale vs Evil
 https://dl.streamcloud.club/files/movies/720p/621fec8baa684c228f471aa4.mp4

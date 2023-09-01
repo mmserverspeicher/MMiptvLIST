@@ -415,7 +415,7 @@
 <title>Man of Steel</title>
 <description>CineMM Film</description>
 <media:content url="https://dl.streamcloud.club/files/movies/1080p/648fba2cf9952f608714341b.mp4">
-<media:thumbnail url="https://filmpalast.to/files/movies/450/man-of-steel.jpg" />
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C002.jpg" />
 </media:content>
 </item>
 
@@ -440,6 +440,14 @@
 <description>CineMM Film</description>
 <media:content url="https://dl.streamcloud.club/files/movies/720p/635924f93973aeb98ccc6f2f.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C001.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Shazam! Fury of the Gods</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.tmdb.club/files/movies/720p/64152cd76dc1d5bdbdace08d/64152cd76dc1d5bdbdace08d.m3u8">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C003.jpg" />
 </media:content>
 </item>
 
