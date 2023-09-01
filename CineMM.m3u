@@ -5,9 +5,6 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/saint-seiya-krieger-des-zodiac.jpg" group-title="CineMM", Saint Seiya: Die Krieger des Zodiac - Der Film
 https://dl.streamcloud.club/files/movies/720p/649b97c31b5a09c3b882fd10.mp4
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/1693557537081.jpg" group-title="CineMM", Manta Manta - Zwoter Teil
-https://dl.tmdb.club/files/movies/720p/64337145c503f08683f55097/64337145c503f08683f55097.m3u8
-
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/the-seed-2021.jpg" group-title="CineMM", The Seed
 https://dl.streamcloud.club/files/movies/720p/649ce9463ee6dbc57676551d.mp4
 
@@ -166,6 +163,9 @@ https://dl.streamcloud.club/files/movies/720p/6195193258607cdfb9fa9792.mp4
 
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/birds-of-prey-the-emancipation-of-harley-quinn.jpg" group-title="CineMM", Birds Of Prey - The Emancipation Of Harley Quinn
 https://dl.streamcloud.club/files/movies/720p/6195193258607cdfb9f9f129.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C001.jpg" group-title="CineMM", Black Adam
+https://dl.streamcloud.club/files/movies/720p/635924f93973aeb98ccc6f2f.mp4
 
 #EXTINF:0 tvg-logo="https://filmpalast.to/files/movies/450/tucker-dale-vs-evil.jpg" group-title="CineMM", Tucker and Dale vs Evil
 https://dl.streamcloud.club/files/movies/720p/621fec8baa684c228f471aa4.mp4
