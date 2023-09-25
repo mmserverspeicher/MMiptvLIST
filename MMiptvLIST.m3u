@@ -8,10 +8,7 @@ https://live.prd.dlive.tv/hls/live/klickblick.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" group-title="TVprogramme", SRGT
 https://live.prd.dlive.tv/hls/live/dlive-ngvdstsyvw.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaENGLISCH-LIVE.png" group-title="TVprogramme", OVALmedia ENGLISCH ---LIVE---
-https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/OVALmediaDEUTSCH-LIVE.png" group-title="TVprogramme", OVALmedia DEUTSCH ---LIVE---
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/scad.png" group-title="TVprogramme", Stiftung Corona Ausschuss DEUTSCH ---LIVE---
 https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deluxe-Music.png" group-title="TVprogramme", Deluxe Music
