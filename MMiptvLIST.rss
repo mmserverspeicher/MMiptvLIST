@@ -12,14 +12,6 @@
 </item>
 
 <item>
-<title>AUF1</title>
-<description>MMiptvLIST VIDEO</description>
-<media:content url="https://gegenstimme.tv/static/webseed/7962aca2-ff7d-43e7-8061-889aefa8db46-1080.mp4">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/AUF1.png" />
-</media:content>
-</item>
-
-<item>
 <title>klickblick</title>
 <description>MMiptvLIST</description>
 <media:content url="https://live.prd.dlive.tv/hls/live/klickblick.m3u8">
@@ -28,10 +20,10 @@
 </item>
 
 <item>
-<title>Stiftung Corona Ausschuss ENGLISCH ---LIVE---</title>
+<title>AFD BLUE</title>
 <description>MMiptvLIST</description>
-<media:content url="https://live.prd.dlive.tv/hls/live/coronainvestigative.m3u8">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/scae.png" />
+<media:content url="https://live.prd.dlive.tv/hls/live/dlive-ngvdstsyvw.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/AFDblue.png" />
 </media:content>
 </item>
 
