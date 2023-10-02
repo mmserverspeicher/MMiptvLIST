@@ -22,7 +22,7 @@
 <item>
 <title>SRGT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://live.prd.dlive.tv/hls/live/dlive-ngvdstsyvw.m3u8">
+<media:content url="https://live.prd.dlive.tv/hls/live/afd-blue.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" />
 </media:content>
 </item>
