@@ -2,20 +2,32 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMiptvLIST.png" group-title="TVprogramme", MMiptvLIST
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/klickblick.png" group-title="TVprogramme", klickblick
-https://live.prd.dlive.tv/hls/live/klickblick.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
+https://stream.video.gettr.com/gxOCSpc64902bAdVo8E57zsH3nJHbNtK4FJ00EE3qYTKk.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" group-title="TVprogramme", SRGT
-https://live.prd.dlive.tv/hls/live/dlive-ngvdstsyvw.m3u8
+https://rumble.com/live-hls/41t52z/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/LichtderWahrheit.png" group-title="TVprogramme", Licht der Wahrheit
-https://live.prd.dlive.tv/hls/live/lichtderwahrheit.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/scad.png" group-title="TVprogramme", Stiftung Corona Ausschuss DEUTSCH ---LIVE---
-https://live.prd.dlive.tv/hls/live/dlive-mybfprkjzk.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deluxe-Music.png" group-title="TVprogramme", Deluxe Music
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-MUSIC.png" group-title="TVprogramme", DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-DANCE-BY-KONTOR.png" group-title="TVprogramme", DELUXE DANCE BY KONTOR
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-RAP.png" group-title="TVprogramme", DELUXE RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-ROCK.png" group-title="TVprogramme", DELUXE ROCK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-FLASHBACK.png" group-title="TVprogramme", DELUXE FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SCHLAGER-DELUXE.png" group-title="TVprogramme", SCHLAGER DELUXE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DF1-Genau-deins.png" group-title="TVprogramme", DF1 - Genau deins
+https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Das-Erste.png" group-title="TVprogramme", ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -50,14 +62,8 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/3sat.png" group-title="TVprogramme", 3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ServusTV.png" group-title="TVprogramme", ServusTV
-https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" group-title="TVprogramme", oe24.TV
-https://varoe24live.sf.apa.at:443/oe24-live1/oe24.smil/chunklist_b946000.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/KronehitTV.png" group-title="TVprogramme", Kronehit TV
-https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b1628000.m3u8
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MTV.png" group-title="TVprogramme", MTV
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
@@ -81,7 +87,7 @@ https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/mdr.png" group-title="TVprogramme", mdr
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/one.png" group-title="TVprogramme", one
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
@@ -101,37 +107,142 @@ https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/regioTV-Schwaben.png" group-title="TVprogramme", regioTV Schwaben
 https://regiotv.iptv-playoutcenter.de/regiotv/regiotv.stream_1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MegaRadio.png" group-title="TVprogramme", MegaRadio
-https://live.prd.dlive.tv/hls/live/megaradio.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-TOP-FILME.png" group-title="TVprogramme", Rakuten TV - TOP FILME
+https://a6fa08d757884cf9994344c24b948fc6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_TopFree/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/DeineMATRIX.png" group-title="TVprogramme", DeineMATRIX
-https://live.prd.dlive.tv/hls/live/deinematrix.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-ACTION.png" group-title="TVprogramme", Rakuten TV - ACTION
+https://d35b7cc78d1349babeb4c5f015699464.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenActionMovies/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/DonMirjanyDjDance.png" group-title="TVprogramme", Don M DeeJay Dance
-https://live.prd.dlive.tv/hls/live/donmirjanydj.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-KOMOEDIEN.png" group-title="TVprogramme", Rakuten TV - KOMÖDIEN
+https://ef43576fea7e4475bafdedc078f5738b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenComedyMovies/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ChilledCat.png" group-title="TVprogramme", ChilledCat
-https://live.prd.dlive.tv/hls/live/chilledcat.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-THRILLER.png" group-title="TVprogramme", Rakuten TV - THRILLER
+https://5bcd094bbfe94b3390cab03bef63bee5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_RakutenThriller/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/VIVA-RUSSIA.png" group-title="TVprogramme", VIVA-RUSSIA
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-DRAMA.png" group-title="TVprogramme", Rakuten TV - DRAMA
+https://67d66914daeb4e91ae8564deea8ce2af.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenTVShows/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/AFDblue.png" group-title="TVprogramme", AFD BLUE
-https://live.prd.dlive.tv/hls/live/afd-blue.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Romance.png" group-title="TVprogramme", Rakuten TV - Romance
+https://8bd243f0856747b4aa9ae0716bc2c79e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_RakutenRomance/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMgamePLAYING-LOGO.png" group-title="TVprogramme", MMgamePLAYING
-https://live.prd.dlive.tv/hls/live/mmgameplaying.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Starke-Frauen.png" group-title="TVprogramme", Rakuten TV - STARKE FRAUEN
+https://mainstreamstarkefrauen-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreamstarkefrauen-rakuten/CDN/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BITTEL-TV-LIVE.png" group-title="TVprogramme", BITTEL TV - EINFACH ANDERS ---LIVE---
-https://live.prd.dlive.tv/hls/live/bitteltv.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-RocketBeansTV.png" group-title="TVprogramme", Rakuten TV - Rocket Beans TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f46fb880-c5fe-11ec-967f-401ac48a6867/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=12&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0039&ads%3Alanguage=deu&ads%3Amarket=de&ads%3Aos_language=&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4195&ads%3Astreaming_id=74896899-bf25-41ce-b90e-e4592187d96f&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=de&optout=0&uid=5b57016e-d47a-4c13-bec2-40b6f8dc8a56&vendor=rakuten
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-ThePetCollective.png" group-title="TVprogramme", pluto.tv - The Pet Collective
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5b4f5a07694c027be6ed1417&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Craction.png" group-title="TVprogramme", Rakuten TV - CRACTION
+https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-Turtles.png" group-title="TVprogramme", pluto.tv - Turtles
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5d6792bd6be2998ad0ccce30&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-ZEE-ONE.png" group-title="TVprogramme", Rakuten TV - ZEE ONE
+https://9b00e8486e794b8b909a5c51df54002e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ZeeOne/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="Video-on-Demand", Stiftung Corona Ausschuss
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Freitag-Nacht-News.png" group-title="TVprogramme", Rakuten TV - Freitag Nacht News
+https://9e6fa42d5ba6420aa6b82e6e0069b903.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_FreitagNachtNews/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Weihnachten.png" group-title="TVprogramme", Rakuten TV - 100% Weihnachten
+https://25355b9a6c3d470c85a0d52372ba20cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenFamily/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Kino-Filme.png" group-title="TVprogramme", pluto tv - KINO FILME
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c9430af13a9b000786422a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0659&deviceLon=9.6557&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-MOVIES.png" group-title="TVprogramme", pluto tv - MOVIES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0872&deviceLon=9.2275&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-MOVIEDOME.png" group-title="TVprogramme", pluto tv - MOVIEDOME
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.1700&deviceLon=9.5700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-The-Asylum-Channel.png" group-title="TVprogramme", pluto tv - The Asylum Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cc81e793798650e4f7d9fd3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.1700&deviceLon=9.5700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Sci-Fi.png" group-title="TVprogramme", pluto tv - SCI-FI
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0287&deviceLon=9.7828&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-SITCOMS.png" group-title="TVprogramme", pluto tv - SITCOMS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0872&deviceLon=9.2275&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-SERIE.png" group-title="TVprogramme", pluto tv - SERIE
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0872&deviceLon=9.2275&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Knallhart.png" group-title="TVprogramme", pluto tv - KNALLHART
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004605110545000842035d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Pluto.tv-HORROR.png" group-title="TVprogramme", pluto tv - HORROR
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-KULTFILME.png" group-title="TVprogramme", pluto tv - KULTFILME
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-INDIES.png" group-title="TVprogramme", pluto tv - INDIES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce40e59246a395e9758923e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.1700&deviceLon=9.5700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Sabrina-total-verhext.png" group-title="TVprogramme", pluto tv - Sabrina - total verhext
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f40c901d4b70007ad7609/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Voll-Vergeistert.png" group-title="TVprogramme", pluto tv - Voll Vergeistert
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63905bf62892fc0007b5ba7b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Parker-Lewis.png" group-title="TVprogramme", pluto tv - Parker Lewis - Der Coole von der Schule
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adbe0473a54000846ca0c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/vorschau/m/mmdigitalworld/PlutoTV-Star-Trek.png" group-title="TVprogramme", pluto tv - Star Trek
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-MacGyver.png" group-title="TVprogramme", pluto tv - MacGyver
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a2ac283595c000817e39c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-X-Factor-Das-Unfassbare.png" group-title="TVprogramme", pluto tv - X-Factor - Das Unfassbare
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d7e029189ce0008958af5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.1700&deviceLon=9.5700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-90210.png" group-title="TVprogramme", pluto tv - Beverly Hills 90210
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb576053df900076fa2f0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0287&deviceLon=9.7828&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Melrose-Place.png" group-title="TVprogramme", pluto tv - Melrose Place
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be745340962900080b55e7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0872&deviceLon=9.2275&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-VIP-Bodyguards.png" group-title="TVprogramme", pluto tv - V.I.P. - Die Bodyguards
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adc0ba1217e00091a3f4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0872&deviceLon=9.2275&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Bewegte-Maenner.png" group-title="TVprogramme", pluto tv - Bewegte Männer
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64105834925bd50008f5cde5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0287&deviceLon=9.7828&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-The-Twilight-Zone.png" group-title="TVprogramme", pluto tv - The Twilight Zone
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c8dd94e4391c0008eb4742/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0287&deviceLon=9.7828&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Hausmeister-Kause.png" group-title="TVprogramme", pluto tv - Hausmeister Krause
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f6faf65be650007f57aab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Teenage-Mutant-Ninja-Turtles.png" group-title="TVprogramme", pluto tv - Nickelodeon - Teenage Mutant Ninja Turtles
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Transformers-TV.png" group-title="TVprogramme", pluto tv - Transformers TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643683519b32b400094e0a40/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0872&deviceLon=9.2275&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Freitag-Nacht-News.png" group-title="TVprogramme", pluto tv - Freitag Nacht News
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64070e086a0009d7b028/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Germany-Shore.png" group-title="TVprogramme", pluto tv - MTV Germany Shore
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447dea7e94c380008dba94c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Dating.png" group-title="TVprogramme", pluto tv - Dating Naked
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be826b0e086a0009d95779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Clubbing-TV.png" group-title="TVprogramme", pluto tv - Clubbing TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0000&deviceLon=9.3500&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-ThePetCollective.png" group-title="TVprogramme", pluto tv - The Pet Collective
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/adult-swim-PRIMAL---TV---.png" group-title="TVprogramme", adult swim - PRIMAL ---TV---
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Adult-Swim-Rick-and-Morty---TV---.png" group-title="TVprogramme", adult swim - Rick and Morty ---TV---
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Adult-Swim-ROBOT-CHICKEN---TV---.png" group-title="TVprogramme", adult swim - ROBOT CHICKEN ---TV---
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/sca-Ad-hoc6.png" group-title="Video-on-Demand", Stiftung Corona Ausschuss - Ad-hoc 6 - Impftod in Berliner Altenheim
 https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/premiere.png" group-title="Video-on-Demand", premiere
