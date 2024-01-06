@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/ClassicVideogamesRADIO.jpg" group-title="MMwebREDIO", Classic-Videogames RADIO
-http://136.243.156.30:1541/stream/2/
+http://195.201.9.210:1541/stream/2/
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Radio-PARALAX.jpg" group-title="MMwebREDIO", Radio PARALAX
 http://radio-paralax.de:8000/;
 
 #EXTINF:0 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9f/c6/108753/1/c175.png" group-title="MMwebREDIO", Nerds and Geeks - THE STATION
-http://136.243.156.30:2808/stream/2/
+https://nerdsandgeeks.de:2874/stream/2/
 
 #EXTINF:0 tvg-logo="http://static.radio.de/images/broadcasts/4b/b9/4386/c175.png" group-title="MMwebREDIO", NoLife-radio
 https://listen.nolife-radio.com/stream
@@ -14,11 +14,14 @@ https://listen.nolife-radio.com/stream
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s25260/images/logoq.jpg" group-title="MMwebREDIO", WDR 1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 
-#EXTINF:0 tvg-logo="https://images.radio7.de/files/streams/r7_stream_mixshow.png" group-title="MMwebREDIO", Radio7 - Mix Show
-https://frontend01.lb.streamonkey.net/radio7-mixshow
+#EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/TPsaQmhLY3.png" group-title="MMwebREDIO", Radio7
+https://streams.radio7.de/dab/mp3-192/mytuner/
+
+#EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/MRDWhFTCX6.png" group-title="MMwebREDIO", Radio7 - Ravensburg
+https://streams.radio7.de/rv/mp3-192/mytuner/
 
 #EXTINF:0 tvg-logo="https://images.radio7.de/files/streams/r7_stream_90er.png" group-title="MMwebREDIO", Radio7 - Die 90er
-https://frontend01.lb.streamonkey.net/radio7-90er
+https://streams.radio7.de/90ereudance/mp3-192/mytuner/
 
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s237962q.png" group-title="MMwebREDIO", SUNSHINE LIVE  - Die 90er
 https://stream.sunshine-live.de/90er/mp3-192/

@@ -6,7 +6,7 @@
 <item>
 <title>Classic-Videogames RADIO</title>
 <description>MMwebREDIO</description>
-<media:content url="http://136.243.156.30:1541/stream/2/">
+<media:content url="http://195.201.9.210:1541/stream/2/">
 <media:thumbnail url="https://img.webme.com/pic/m/mmtvcenter/ClassicVideogamesRADIO.jpg" />
 </media:content>
 </item>
@@ -14,8 +14,6 @@
 <item>
 <title>Radio PARALAX</title>
 <description></description>
-<pubDate>Tue, 13 Oct 2015 18:17:54 -0000</pubDate>
-<guid isPermaLink="false">97F9YZac</guid>
 <media:content url="http://radio-paralax.de:8000/;">
 <media:thumbnail url="https://img.webme.com/pic/m/mmtvcenter/Radio-PARALAX.jpg" />
 </media:content>
@@ -24,7 +22,7 @@
 <item>
 <title>Nerds and Geeks - THE STATION</title>
 <description>MMwebREDIO</description>
-<media:content url="http://136.243.156.30:2808/stream/2/">
+<media:content url="https://nerdsandgeeks.de:2874/stream/2/">
 <media:thumbnail url="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9f/c6/108753/1/c175.png" />
 </media:content>
 </item>
@@ -58,17 +56,25 @@
 </item>
 
 <item>
-<title>Radio7 - Mix Show</title>
+<title>Radio7</title>
 <description>MMwebREDIO</description>
-<media:content url="https://frontend01.lb.streamonkey.net/radio7-mixshow">
-<media:thumbnail url="https://images.radio7.de/files/streams/r7_stream_mixshow.png" />
+<media:content url="https://streams.radio7.de/dab/mp3-192/mytuner/">
+<media:thumbnail url="https://static.mytuner.mobi/media/tvos_radios/TPsaQmhLY3.png" />
+</media:content>
+</item>
+
+<item>
+<title>Radio7 - Ravensburg</title>
+<description>MMwebREDIO</description>
+<media:content url="https://streams.radio7.de/rv/mp3-192/mytuner/">
+<media:thumbnail url="https://static.mytuner.mobi/media/tvos_radios/MRDWhFTCX6.png" />
 </media:content>
 </item>
 
 <item>
 <title>Radio7 - Die 90er</title>
 <description>MMwebREDIO</description>
-<media:content url="https://frontend01.lb.streamonkey.net/radio7-90er">
+<media:content url="https://streams.radio7.de/90ereudance/mp3-192/mytuner/">
 <media:thumbnail url="https://images.radio7.de/files/streams/r7_stream_90er.png" />
 </media:content>
 </item>
