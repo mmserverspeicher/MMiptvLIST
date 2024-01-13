@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>Bittel TV - Einfach Anders</title>
+<description>MMiptvLIST</description>
+<media:content url="https://stream.video.gettr.com/kaAhmdedVxwY3mPzCDqTKdHrnJaiJRIvlBoIDkrYlx00.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/BITTEL-TV-LIVE.png" />
+</media:content>
+</item>
+
+<item>
 <title>DELUXE MUSIC</title>
 <description>MMiptvLIST</description>
 <media:content url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8">
