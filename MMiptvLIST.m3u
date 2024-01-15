@@ -12,7 +12,7 @@ https://rumble.com/live-hls/43g01h/playlist.m3u8
 https://stream.video.gettr.com/q3r02VDnHkgbXtHuRvjYp8i01I01YU3RRxw3uvdXC5VkBU.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" group-title="TVprogramme", Bittel TV - Einfach Anders
-https://stream.video.gettr.com/r4ckVdmiXo615oCNur5cUYgZrZG7UfiXqUp02bnZw9OA.m3u8
+https://stream.video.gettr.com/h5xVsHpojr2hmG8nICJq2iA702eNL010000HLaBPTUJ3Wrk.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-MUSIC.png" group-title="TVprogramme", DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -34,9 +34,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/CLUBBING-TV.png" group-title="TVprogramme", CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/VIVA-RUSSIA.png" group-title="TVprogramme", VIVA Russia
-https://hls.goodgame.ru/manifest/180805_master.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DF1-Genau-deins.png" group-title="TVprogramme", DF1 - Genau deins
 https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
