@@ -766,7 +766,7 @@
 <item>
 <title>CineMM MOVIEkiDs</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-MOVIEkiDs.mp4?raw=true">
+<media:content url="https://cdnx.crabdance.com/video/hls/FykyW2uSPp0E-R_W6BpDWg/1705435239/b25lbWFzdGVycGFuZ2Vy/MovieMixKids/index.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" />
 </media:content>
 </item>
