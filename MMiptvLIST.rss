@@ -772,6 +772,14 @@
 </item>
 
 <item>
+<title>MacGyver ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://cdnx.crabdance.com/video/hls/q2gZ_BVbjsc9bCoAabOa8Q/1705434209/b25lbWFzdGVycGFuZ2Vy/ClassicMacGyver/index.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MacGyver---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Best of MR.M.M.</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4">

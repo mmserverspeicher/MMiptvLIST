@@ -284,6 +284,9 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-CartoonTRICKs.mp
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" group-title="CineMM", CineMM MOVIEkiDs
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-MOVIEkiDs.mp4?raw=true
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MacGyver---TV---.png" group-title="CineMM", MacGyver ---TV---
+https://cdnx.crabdance.com/video/hls/q2gZ_BVbjsc9bCoAabOa8Q/1705434209/b25lbWFzdGVycGFuZ2Vy/ClassicMacGyver/index.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Best-of-MR.M.M.png" group-title="Video-on-Demand", Best of MR.M.M.
 https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4
 
