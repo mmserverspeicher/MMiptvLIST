@@ -282,7 +282,10 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-ClassicScienceFi
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-CartoonTRICKs.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" group-title="CineMM", CineMM MOVIEkiDs
-https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-MOVIEkiDs.mp4?raw=true
+https://wagasworld.com/get_m3u8_link.php?channel=MovieMixKids&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Eine-schrecklich-nette-Familie---TV---.png" group-title="CineMM", Eine schrecklich nette Familie ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Best-of-MR.M.M.png" group-title="Video-on-Demand", Best of MR.M.M.
 https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4

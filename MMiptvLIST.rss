@@ -766,8 +766,16 @@
 <item>
 <title>CineMM MOVIEkiDs</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-MOVIEkiDs.mp4?raw=true">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixKids&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" />
+</media:content>
+</item>
+
+<item>
+<title>Eine schrecklich nette Familie ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Eine-schrecklich-nette-Familie---TV---.png" />
 </media:content>
 </item>
 
