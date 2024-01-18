@@ -30,7 +30,7 @@
 <item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/o02e6h0100pyJMx5pf02MCe3s400M00CGxkt2jrzTwFsBfGxo.m3u8">
+<media:content url="https://stream.video.gettr.com/r4ZW9AumoCFYbb00zxgXed5Jzihdt7T2Y01Bp4qrGK3Rg.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" />
 </media:content>
 </item>
@@ -788,6 +788,22 @@
 </item>
 
 <item>
+<title>Eine schrecklich nette Familie ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Eine-schrecklich-nette-Familie---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Star Trek - Enterprise ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-nextenterprise&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Enterprise---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Star Trek - Discovery ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-discovery&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -796,10 +812,26 @@
 </item>
 
 <item>
-<title>Eine schrecklich nette Familie ---TV---</title>
+<title>Star Trek - The Next Generation ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Eine-schrecklich-nette-Familie---TV---.png" />
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=next-generation&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-The-Next-Generation---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Star Trek - Deep Space Nine ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ds9&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deep-Space-Nine--TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Star Trek - Voyager ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=voyager&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Voyager---TV---.png" />
 </media:content>
 </item>
 
