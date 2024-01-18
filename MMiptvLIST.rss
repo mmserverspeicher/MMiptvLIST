@@ -828,6 +828,14 @@
 </item>
 
 <item>
+<title>Doctor Who ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=doctor-who&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Doctor-Who---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Star Trek - The Next Generation ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=next-generation&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
