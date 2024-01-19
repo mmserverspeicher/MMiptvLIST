@@ -299,6 +299,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-scrubs&apikey=a734e4c8
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/2-Broke-Girls---TV---.png" group-title="CineMM", 2 Broke Girls ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=2.Broke.Girls&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/King-of-Queens---TV---.png" group-title="CineMM", King of Queens ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-koq&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Eine-schrecklich-nette-Familie---TV---.png" group-title="CineMM", Eine schrecklich nette Familie ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
