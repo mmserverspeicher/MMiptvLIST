@@ -299,6 +299,12 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-scrubs&apikey=a734e4c8
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/2-Broke-Girls---TV---.png" group-title="CineMM", 2 Broke Girls ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=2.Broke.Girls&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Two-and-a-Half-Men---TV---.png" group-title="CineMM", Two and a Half Men ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-taahm&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Sex-Education---TV---.png" group-title="CineMM", Sex Education ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Sex.Education&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/King-of-Queens---TV---.png" group-title="CineMM", King of Queens ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-koq&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
