@@ -353,6 +353,18 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-babylon5&apikey=a734e4
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SeaQuestDSV---TV---.png" group-title="CineMM", SeaQuest DSV ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=seaquestdsv&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Twilight.png" group-title="CineMM", Twilight ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Twilight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stirb-langsam---TV---.png" group-title="CineMM", Stirb Langsam ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jackie-Chan---TV---.png" group-title="CineMM", Jackie Chan ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=jackie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Nightmare-On-Elm-Street---TV---.png" group-title="CineMM", Nightmare on Elm Street ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Nightmare.on.Elm.Street&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Best-of-MR.M.M.png" group-title="Video-on-Demand", Best of MR.M.M.
 https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4
 
