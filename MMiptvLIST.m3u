@@ -317,6 +317,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&ap
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Didi-Hallervorden---TV---.png" group-title="CineMM", Didi Hallervorden ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=didihallervorden&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Police-Academy---TV---.png" group-title="CineMM", Police Academy ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-policeakademy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Doctor-Who---TV---.png" group-title="CineMM", Doctor Who ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=doctor-who&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
@@ -361,6 +364,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=a734e4c866
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jackie-Chan---TV---.png" group-title="CineMM", Jackie Chan ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=jackie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Species---TV---.png" group-title="CineMM", Species ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Species&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Nightmare-On-Elm-Street---TV---.png" group-title="CineMM", Nightmare on Elm Street ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Nightmare.on.Elm.Street&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
