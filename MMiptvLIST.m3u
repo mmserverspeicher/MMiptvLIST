@@ -323,6 +323,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&ap
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Didi-Hallervorden---TV---.png" group-title="CineMM", Didi Hallervorden ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=didihallervorden&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Herbie---TV---.png" group-title="CineMM", Herbie ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Herbie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Bud-Spencer-und-Terence-Hill---TV---.png" group-title="CineMM", Bud Spencer und Terence Hill ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-buddyterence&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
@@ -341,7 +344,7 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-discovery&apikey=a734e
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-The-Next-Generation---TV---.png" group-title="CineMM", Star Trek - The Next Generation ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=next-generation&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deep-Space-Nine--TV---.png" group-title="CineMM", Star Trek - Deep Space Nine ---TV---
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Deep-Space-Nine---TV---.png" group-title="CineMM", Star Trek - Deep Space Nine ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=ds9&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Voyager---TV---.png" group-title="CineMM", Star Trek - Voyager ---TV---
@@ -367,6 +370,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=seaquestdsv&apikey=a734e4c866ce
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Twilight.png" group-title="CineMM", Twilight ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Twilight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Fluch-der-Karibik---TV---.png" group-title="CineMM", Fluch der Karibik ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-carribean&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stirb-langsam---TV---.png" group-title="CineMM", Stirb Langsam ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e

@@ -652,7 +652,7 @@
 </item>
 
 <item>
-<title>[adult swim] PRIMAL ---TV---</title>
+<title>[adult swim] - PRIMAL ---TV---</title>
 <description>MMiptvLIST</description>
 <media:content url="https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/adult-swim-PRIMAL---TV---.png" />
@@ -660,7 +660,7 @@
 </item>
 
 <item>
-<title>[adult swim] Rick and Morty ---TV---</title>
+<title>[adult swim] - Rick and Morty ---TV---</title>
 <description>MMiptvLIST</description>
 <media:content url="https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Adult-Swim-Rick-and-Morty---TV---.png" />
@@ -668,7 +668,7 @@
 </item>
 
 <item>
-<title>[adult swim] ROBOT CHICKEN ---TV---</title>
+<title>[adult swim] - ROBOT CHICKEN ---TV---</title>
 <description>MMiptvLIST</description>
 <media:content url="https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Adult-Swim-ROBOT-CHICKEN---TV---.png" />
@@ -860,6 +860,14 @@
 </item>
 
 <item>
+<title>Herbie ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Herbie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Herbie---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Bud Spencer und Terence Hill ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-buddyterence&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -911,7 +919,7 @@
 <title>Star Trek - Deep Space Nine ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ds9&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Deep-Space-Nine--TV---.png" />
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Deep-Space-Nine---TV---.png" />
 </media:content>
 </item>
 
@@ -980,6 +988,14 @@
 </item>
 
 <item>
+<title>Fluch der Karibik ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-carribean&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Fluch-der-Karibik---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Stirb Langsam ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -988,7 +1004,7 @@
 </item>
 
 <item>
-<title>Jackie-Chan ---TV---</title>
+<title>Jackie Chan ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jackie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jackie-Chan---TV---.png" />
