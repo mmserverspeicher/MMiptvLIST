@@ -329,6 +329,12 @@ https://wagasworld.com/get_m3u8_link.php?channel=Herbie&apikey=a734e4c866ce62cdc
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Bud-Spencer-und-Terence-Hill---TV---.png" group-title="CineMM", Bud Spencer und Terence Hill ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-buddyterence&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Louis-de-Funes---TV---.png" group-title="CineMM", Louis de Funès ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Louis.de.Funes&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Miss.Marple---TV---.png" group-title="CineMM", Miss. Marple ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Miss.Marple&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Police-Academy---TV---.png" group-title="CineMM", Police Academy ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-policeakademy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
