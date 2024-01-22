@@ -30,7 +30,7 @@
 <item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/7DyNe0059rOxt3XHWkJ2dSbGlbjybMlzb00O1nR16MaVQ.m3u8">
+<media:content url="https://stream.video.gettr.com/sd9eaAdwtdaMU9U4A2fetMdUpIIkz6yc5Od9u8ncito.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" />
 </media:content>
 </item>
@@ -768,6 +768,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=simpsons&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Simpsons---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Die Gummibärenbande ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-gummibaerenbande&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Gummibaerenbande---TV---.png" />
 </media:content>
 </item>
 
