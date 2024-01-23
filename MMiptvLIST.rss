@@ -612,6 +612,14 @@
 </item>
 
 <item>
+<title>pluto tv - Heiße Nächte</title>
+<description>MMiptvLIST</description>
+<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Freitag-Nacht-News.png" />
+</media:content>
+</item>
+
+<item>
 <title>pluto tv - Nickelodeon - Teenage Mutant Ninja Turtles</title>
 <description>MMiptvLIST</description>
 <media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
@@ -772,7 +780,7 @@
 </item>
 
 <item>
-<title>Die Gummibärenbande ---TV---</title>
+<title>Gummibärenbande ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-gummibaerenbande&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Gummibaerenbande---TV---.png" />
@@ -792,6 +800,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Tom.und.Jerry&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Tom-und-Jerry---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Captain Future ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=captainfuture&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Captain-Future---TV---.png" />
 </media:content>
 </item>
 

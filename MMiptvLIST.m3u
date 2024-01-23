@@ -233,6 +233,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Freitag-Nacht-News.png" group-title="TVprogramme", pluto tv - Freitag Nacht News
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64070e086a0009d7b028/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Heisse-Naechte.png" group-title="TVprogramme", pluto tv - Heiße Nächte
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Germany-Shore.png" group-title="TVprogramme", pluto tv - MTV Germany Shore
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447dea7e94c380008dba94c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
 
@@ -290,7 +293,7 @@ https://wagasworld.com/get_m3u8_link.php?channel=MovieMixKids&apikey=a734e4c866c
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Simpsons---TV---.png" group-title="CineMM", Simpsons ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=simpsons&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Gummibaerenbande---TV---.png" group-title="CineMM", Die Gummibärenbande ---TV---
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Gummibaerenbande---TV---.png" group-title="CineMM", Gummibärenbande ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-gummibaerenbande&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Asterix-und-Obelix---TV---.png" group-title="CineMM", Asterix und Obelix ---TV---
@@ -298,6 +301,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=Asterix.der.Gallier&apikey=a734
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Tom-und-Jerry---TV---.png" group-title="CineMM", Tom und Jerry ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Tom.und.Jerry&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Captain-Future---TV---.png" group-title="CineMM", Captain Future ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=captainfuture&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/He-Man---TV---.png" group-title="CineMM", He-Man ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-heman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
