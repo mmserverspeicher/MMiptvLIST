@@ -836,10 +836,26 @@
 </item>
 
 <item>
+<title>Star Trek -The Animated Series ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkieanimated&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Star-Trek-The-Animated-Series---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>He-Man ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-heman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/He-Man---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Miraculous ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Miraculous&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Miraculous---TV---.png" />
 </media:content>
 </item>
 
@@ -904,6 +920,38 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=didihallervorden&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Didi-Hallervorden---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>THE A-TEAM ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-ateam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/THE-A-TEAM---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Miami Vice ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Miami.Vice&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Miami-Vice---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>MacGyver ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ClassicMacGyver&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MacGyver---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Airwolf ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Airwolf&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Airwolf---TV---.png" />
 </media:content>
 </item>
 
@@ -1112,6 +1160,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jackie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jackie-Chan---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Grimm ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-grimm&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Grimm---TV---.png" />
 </media:content>
 </item>
 

@@ -314,8 +314,14 @@ https://wagasworld.com/get_m3u8_link.php?channel=Tom.und.Jerry&apikey=a734e4c866
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Captain-Future---TV---.png" group-title="CineMM", Captain Future ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=captainfuture&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Star-Trek-The-Animated-Series---TV---.png" group-title="CineMM", Star Trek - The Animated Series ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkieanimated&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/He-Man---TV---.png" group-title="CineMM", He-Man ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-heman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Miraculous---TV---.png" group-title="CineMM", Miraculous ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Miraculous&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Scrubs---TV---.png" group-title="CineMM", Scrubs ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-scrubs&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
@@ -340,6 +346,18 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&ap
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Didi-Hallervorden---TV---.png" group-title="CineMM", Didi Hallervorden ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=didihallervorden&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/THE-A-TEAM---TV---.png" group-title="CineMM", THE A-TEAM ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-ateam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Miami-Vice---TV---.png" group-title="CineMM", Miami Vice ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Miami.Vice&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MacGyver---TV---.png" group-title="CineMM", MacGyver ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=ClassicMacGyver&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Airwolf---TV---.png" group-title="CineMM", Airwolf ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Airwolf&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Herbie---TV---.png" group-title="CineMM", Herbie ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Herbie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
@@ -418,6 +436,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=brucelee&apikey=a734e4c866ce62c
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jackie-Chan---TV---.png" group-title="CineMM", Jackie Chan ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=jackie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Grimm---TV---.png" group-title="CineMM", Grimm ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-grimm&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Species---TV---.png" group-title="CineMM", Species ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Species&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
