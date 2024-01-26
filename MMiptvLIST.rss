@@ -836,7 +836,7 @@
 </item>
 
 <item>
-<title>Star Trek -The Animated Series ---TV---</title>
+<title>Star Trek - The Animated Series ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkieanimated&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Star-Trek-The-Animated-Series---TV---.png" />
@@ -1160,6 +1160,22 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jackie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jackie-Chan---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Chuck ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ChuckSerie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Chuck---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Charmed ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-charmed&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Charmed---TV---.png" />
 </media:content>
 </item>
 

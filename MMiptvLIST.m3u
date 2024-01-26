@@ -437,6 +437,12 @@ https://wagasworld.com/get_m3u8_link.php?channel=brucelee&apikey=a734e4c866ce62c
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jackie-Chan---TV---.png" group-title="CineMM", Jackie Chan ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=jackie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Chuck---TV---.png" group-title="CineMM", Chuck ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=ChuckSerie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Charmed---TV---.png" group-title="CineMM", Charmed ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-charmed&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Grimm---TV---.png" group-title="CineMM", Grimm ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-grimm&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
