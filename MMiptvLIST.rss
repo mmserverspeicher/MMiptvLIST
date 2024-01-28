@@ -852,6 +852,22 @@
 </item>
 
 <item>
+<title>Paw Patrol ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=pawpatrol&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Paw-Patrol---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>New Spiderman ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=newspiderman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/New-Spiderman---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Miraculous ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Miraculous&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">

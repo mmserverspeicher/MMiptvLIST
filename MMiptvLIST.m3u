@@ -251,7 +251,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Dating.png" group-title="TVprogramme", pluto tv - Dating Naked
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be826b0e086a0009d95779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Clubbing-TV.png" group-title="TVprogramme", pluto tv - Clubbing TV
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Clubbing-TV.png" group-title="TVprogramme", pluto tv - CLUBBING TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0000&deviceLon=9.3500&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/pluto.tv-ThePetCollective.png" group-title="TVprogramme", pluto tv - The Pet Collective
@@ -319,6 +319,12 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkieanimated&apikey
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/He-Man---TV---.png" group-title="CineMM", He-Man ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-heman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Paw-Patrol---TV---.png" group-title="CineMM", PawPatrol ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=pawpatrol&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/New-Spiderman---TV---.png" group-title="CineMM", New Spiderman ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=newspiderman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Miraculous---TV---.png" group-title="CineMM", Miraculous ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Miraculous&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
