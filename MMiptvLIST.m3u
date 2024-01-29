@@ -425,6 +425,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-eureka&apikey=a734e4c8
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Warehouse-13---TV---.png" group-title="CineMM", Warehouse 13 ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-warehouse&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Under-the-Dome---TV---.png" group-title="CineMM", Under the Dome ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Under.the.Dome&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Die-unendliche-Geschichte---TV---.png" group-title="CineMM", Die unendliche Geschichte ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=dieunendlichegeschichte&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
