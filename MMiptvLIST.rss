@@ -932,6 +932,22 @@
 </item>
 
 <item>
+<title>ALF ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-alf&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Alf---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Bezaubernde Jeannie ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=bezauberndejeannie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bezaubernde-Jeannie---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Didi Hallervorden ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=didihallervorden&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
