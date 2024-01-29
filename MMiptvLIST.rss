@@ -860,7 +860,7 @@
 </item>
 
 <item>
-<title>New Spiderman ---TV---</title>
+<title>NEW SPIDER-MAN ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=newspiderman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/NewSpiderman---TV---.png" />
@@ -1112,6 +1112,22 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=seaquestdsv&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/SeaQuestDSV---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Eureka - Die geheime Stadt ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-eureka&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Eureka-Die-geheime-Stadt---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Warehouse 13 ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-warehouse&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Warehouse-13---TV---.png" />
 </media:content>
 </item>
 
