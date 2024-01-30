@@ -344,6 +344,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=2.Broke.Girls&apikey=a734e4c866
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Two-and-a-Half-Men---TV---.png" group-title="CineMM", Two and a Half Men ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-taahm&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/The-Big-Bang-Theory---TV---.png" group-title="CineMM", The Big Bang Theory ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-tbbt&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Sex-Education---TV---.png" group-title="CineMM", Sex Education ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Sex.Education&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
