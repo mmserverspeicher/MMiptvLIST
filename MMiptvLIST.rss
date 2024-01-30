@@ -30,7 +30,7 @@
 <item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/nC7sfq1c02CXW6ypxOB6lYKwpTA1Ykp02PSJaEALlM834.m3u8">
+<media:content url="https://stream.video.gettr.com/YN001ZqDPZV9x5IQlTin64BH015yOj00gIFFPnwEubo00ec.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" />
 </media:content>
 </item>
@@ -38,7 +38,7 @@
 <item>
 <title>Bittel TV - Einfach Anders</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/hr0278Yq02HEOErOMiUdh19OusjAT99uzNz5HCnb2T02JI.m3u8">
+<media:content url="https://stream.video.gettr.com/JRfnC66Kfdq57pI5PR00ckU34EtEFhcEGPx7obXhnDlU.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" />
 </media:content>
 </item>
@@ -1144,6 +1144,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-babylon5&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Babylon-5---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Buck Rogers ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=buckrogers&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Buck-Rogers---TV---.png" />
 </media:content>
 </item>
 
