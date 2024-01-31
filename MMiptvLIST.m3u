@@ -377,6 +377,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=Miami.Vice&apikey=a734e4c866ce6
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MacGyver---TV---.png" group-title="CineMM", MacGyver ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=ClassicMacGyver&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Mad-Mission---TV---.png" group-title="CineMM", Mad Mission ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=MadMission&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Airwolf---TV---.png" group-title="CineMM", Airwolf ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Airwolf&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
@@ -442,6 +445,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-eureka&apikey=a734e4c8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Warehouse-13---TV---.png" group-title="CineMM", Warehouse 13 ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-warehouse&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Supernatural---TV---.png" group-title="CineMM", Supernatural ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-spn&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Under-the-Dome---TV---.png" group-title="CineMM", Under the Dome ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Under.the.Dome&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
