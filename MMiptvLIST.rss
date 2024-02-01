@@ -804,6 +804,14 @@
 </item>
 
 <item>
+<title>Futurama ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=futurama&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Futurama---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Die Jetsons ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-diejetsons&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -1152,6 +1160,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-babylon5&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Babylon-5---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Firefly ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=firefly&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Firefly---TV---.png" />
 </media:content>
 </item>
 
