@@ -89,6 +89,9 @@ https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SWR.png" group-title="TVprogramme", SWR
 https://swrbwd-hls.akamaized.net/hls/live/2018672-b/swrbwd/master-720p-3328.m3u8
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/NDR.png" group-title="TVprogramme", NDR Fernsehen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/WDR.png" group-title="TVprogramme", WDR
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 

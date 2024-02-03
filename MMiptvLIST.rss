@@ -244,6 +244,14 @@
 </item>
 
 <item>
+<title>NDR Fernsehen</title>
+<description>MMiptvLIST</description>
+<media:content url="https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/NDR.png" />
+</media:content>
+</item>
+
+<item>
 <title>rbb</title>
 <description>MMiptvLIST</description>
 <media:content url="https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8">
