@@ -32,8 +32,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SCHLAGER-DELUXE.png" group-title="TVprogramme", SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ONE-MUSIC-TELEVISION.png" group-title="TVprogramme", ONE MUSIC TELEVISION
-https://folxplay-t.b-cdn.net/streams/ch-6/master.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/FOLX-MUSIC-TELEVISION.png" group-title="TVprogramme", FOLX MUSIC TELEVISION
+https://folxplay-t.b-cdn.net/streams/ch-4/master.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Zwei-Music-Television.png" group-title="TVprogramme", ZWEI MUSIC TELEVISION
 https://folxplay-t.b-cdn.net/streams/ch-2/master.m3u8
