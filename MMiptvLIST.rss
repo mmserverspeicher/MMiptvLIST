@@ -38,7 +38,7 @@
 <item>
 <title>Bittel TV - Einfach Anders</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/g9FBFR02mS69500mzJsb02700ORF1jFVKqOKhnPu02a3Rv8Y.m3u8">
+<media:content url="https://stream.video.gettr.com/6n3Ta7qCv5KuO84zUpfC81fgKNnISutrDYbFLiLM4gY.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" />
 </media:content>
 </item>
@@ -912,6 +912,22 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=AttackonTitan&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Attack-on-Titan---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Castlevania ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Castlevania&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Castlevania---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>That Time I Got Reincarnated as a Slime ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=T.T.I.G.R.A.A.Slime&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/That.Time.I.Got.Reincarnated.as.a.Slime---TV---.png" />
 </media:content>
 </item>
 
