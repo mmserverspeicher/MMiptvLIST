@@ -30,7 +30,7 @@
 <item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/u5OBcqAHGtAYyraFHoT6QyLHxUYxW008bjK1GX2uumXg.m3u8">
+<media:content url="https://stream.video.gettr.com/l6Pr3KWVitfOxXVQU01jJ5V02RUHWm1iGuw02ryqCLI1600.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" />
 </media:content>
 </item>
@@ -46,7 +46,7 @@
 <item>
 <title>ET Video & Content</title>
 <description>MMiptvLIST</description>
-<media:content url="https://rumble.com/live-hls-dvr/4b68xe/playlist.m3u8">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/l/x/1/Y/lx1Yp.aaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ETVideoContent.png" />
 </media:content>
 </item>
