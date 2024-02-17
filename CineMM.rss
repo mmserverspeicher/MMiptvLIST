@@ -6,7 +6,7 @@
 <item>
 <title>CineMM</title>
 <description>CineMM Intro</description>
-<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true">
+<media:content url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.mp4?raw=true">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" />
 </media:content>
 </item>
@@ -36,26 +36,26 @@
 </item>
 
 <item>
-<title>Der Super Mario Bros. Film</title>
+<title>Die Winzlinge - Operation Zuckerdose</title>
 <description>CineMM Film</description>
-<media:content url="https://dl.streamcloud.club/files/movies/720p/643009acc503f08683ef18b2/643009acc503f08683ef18b2.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C007.jpg" />
+<media:content url="https://dl.streamcloud.club/files/movies/1080p/6195193358607cdfb9faec01.mp4">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C014.jpg" />
 </media:content>
 </item>
 
 <item>
-<title>The Lair</title>
+<title>Auf Teufel Komm Raus: Die Wilde Welt Des John McAfee</title>
 <description>CineMM Film</description>
-<media:content url="https://dl.streamcloud.club/files/movies/720p/645da13de3d5c1d510867e68/645da13de3d5c1d510867e68.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C009.jpg" />
+<media:content url="https://dl.streamcloud.club/files/movies/720p/630695bacf220838f9967573.mp4">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C006.jpg" />
 </media:content>
 </item>
 
 <item>
-<title>Einer muss sterben</title>
+<title>Crouching Tiger, Hidden Dragon: Sword of Destiny</title>
 <description>CineMM Film</description>
-<media:content url="https://dl.streamcloud.club/files/movies/720p/6455b8473b4a11f6a063aa4c/6455b8473b4a11f6a063aa4c.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C013.jpg" />
+<media:content url="https://dl.streamcloud.club/files/movies/480p/6195193258607cdfb9fa5e29.mp4">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C015.jpg" />
 </media:content>
 </item>
 
