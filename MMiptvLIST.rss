@@ -806,7 +806,7 @@
 <item>
 <title>CineMM Classic Science Fiction</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-ClassicScienceFiction.mp4?raw=true">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-vintagescifi&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-ClassicScienceFiction.png" />
 </media:content>
 </item>
@@ -814,7 +814,7 @@
 <item>
 <title>CineMM CartoonTRICKs</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-CartoonTRICKs.mp4?raw=true">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixAnime&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-CartoonTRICKs.png" />
 </media:content>
 </item>
@@ -1316,10 +1316,42 @@
 </item>
 
 <item>
+<title>James Bond 007 ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-bondjames&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/James-Bond007---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Stirb Langsam ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stirb-langsam---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Arnold Schwarzenegger ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ArnoldSchw&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Arnold-Schwarzenegger---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>ChuckNorris ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ChuckNorris&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Chuck-Norris---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Jean Claude van Damme ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jcvd&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jean-Claude-van-Damme---TV---.png" />
 </media:content>
 </item>
 

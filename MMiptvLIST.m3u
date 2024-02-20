@@ -303,10 +303,10 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-POWER-ACTION.mp4
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-TERROR-HORROR.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-ClassicScienceFiction.png" group-title="CineMM", CineMM Classic Science Fiction
-https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-ClassicScienceFiction.mp4?raw=true
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-vintagescifi&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-CartoonTRICKs.png" group-title="CineMM", CineMM CartoonTRICKs
-https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM-CartoonTRICKs.mp4?raw=true
+https://wagasworld.com/get_m3u8_link.php?channel=MovieMixAnime&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" group-title="CineMM", CineMM MOVIEkiDs
 https://wagasworld.com/get_m3u8_link.php?channel=MovieMixKids&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
@@ -494,8 +494,20 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-harrypotter&apikey=a73
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Fluch-der-Karibik---TV---.png" group-title="CineMM", Fluch der Karibik ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-carribean&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/James-Bond007---TV---.png" group-title="CineMM", James Bond 007 ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-bondjames&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stirb-langsam---TV---.png" group-title="CineMM", Stirb Langsam ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Arnold-Schwarzenegger---TV---.png" group-title="CineMM", Arnold Schwarzenegger ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=ArnoldSchw&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Chuck-Norris---TV---.png" group-title="CineMM", Chuck Norris ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=ChuckNorris&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jean-Claude-van-Damme---TV---.png" group-title="CineMM", Jean Claude van Damme ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=jcvd&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Bruce-Lee---TV---.png" group-title="CineMM", Bruce Lee ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=brucelee&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
