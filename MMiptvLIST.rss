@@ -22,7 +22,7 @@
 <item>
 <title>SRGT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://rumble.com/live-hls/4b4wh8/playlist.m3u8?">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/X/h/h/1/Xhh1p.oaa.rec.mp4">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" />
 </media:content>
 </item>
@@ -30,7 +30,7 @@
 <item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/HflAoz8XmAMIUdtQuewvPYtGeDRx9ZABVOya8OMD01i00.m3u8">
+<media:content url="https://stream.video.gettr.com/FT9CSPklv5i6ZJCYdgQnVzi02qlsT9D7i7t5OWsVxh00w.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" />
 </media:content>
 </item>
@@ -38,7 +38,7 @@
 <item>
 <title>Bittel TV - Einfach Anders</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/VnrZAAC3uFPEzHF6AW00ShRkXlEwNEkSq8VXbwGQm3ZM.m3u8">
+<media:content url="https://stream.video.gettr.com/GnkkF3ITtDUd6MgpKxaG5Qso94IsxOrS6oAJBTaTptY.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" />
 </media:content>
 </item>
@@ -46,7 +46,7 @@
 <item>
 <title>ET Video & Content</title>
 <description>MMiptvLIST</description>
-<media:content url="https://rumble.com/live-hls-dvr/4btnd9/playlist.m3u8?">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/2/2/_/2/22_2p.oaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ETVideoContent.png" />
 </media:content>
 </item>
