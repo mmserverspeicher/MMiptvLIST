@@ -1323,8 +1323,13 @@
 </media:content>
 </item>
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/olsenbande.png" group-title="CineMM", Die Olsenbande ---TV---
-https://wagasworld.com/get_m3u8_link.php?channel=Die.Olsenbande&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+<item>
+<title>Die Olsenbande ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Die.Olsenbande&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/olsenbande.png" />
+</media:content>
+</item>
 
 <item>
 <title>James Bond 007 ---TV---</title>
