@@ -15,7 +15,7 @@ https://stream.video.gettr.com/HflAoz8XmAMIUdtQuewvPYtGeDRx9ZABVOya8OMD01i00.m3u
 https://stream.video.gettr.com/VnrZAAC3uFPEzHF6AW00ShRkXlEwNEkSq8VXbwGQm3ZM.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ETVideoContent.png" group-title="TVprogramme", ET Video & Content
-https://hugh.cdn.rumble.cloud/video/s8/2/l/x/1/Y/lx1Yp.aaa.rec.mp4
+https://rumble.com/live-hls-dvr/4btnd9/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-MUSIC.png" group-title="TVprogramme", DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -494,6 +494,12 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-harrypotter&apikey=a73
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Fluch-der-Karibik---TV---.png" group-title="CineMM", Fluch der Karibik ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-carribean&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Planet-der-Affen---TV---.png" group-title="CineMM", Planet der Affen ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Planet.der.Affen&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/olsenbande.png" group-title="CineMM", Die Olsenbande ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Die.Olsenbande&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/James-Bond007---TV---.png" group-title="CineMM", James Bond 007 ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-bondjames&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
@@ -521,6 +527,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=ChuckSerie&apikey=a734e4c866ce6
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Charmed---TV---.png" group-title="CineMM", Charmed ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-charmed&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Game.of.Thrones---TV---.png" group-title="CineMM", Game of Thrones ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=GoT&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Grimm---TV---.png" group-title="CineMM", Grimm ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-grimm&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
@@ -529,6 +538,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=Species&apikey=a734e4c866ce62cd
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Nightmare-On-Elm-Street---TV---.png" group-title="CineMM", Nightmare on Elm Street ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Nightmare.on.Elm.Street&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Paranormal-Activity---TV---.png" group-title="CineMM", Paranormal Activity ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=ParanormalActivity&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Best-of-MR.M.M.png" group-title="Video-on-Demand", Best of MR.M.M.
 https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4

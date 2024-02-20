@@ -46,7 +46,7 @@
 <item>
 <title>ET Video & Content</title>
 <description>MMiptvLIST</description>
-<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/l/x/1/Y/lx1Yp.aaa.rec.mp4">
+<media:content url="https://rumble.com/live-hls-dvr/4btnd9/playlist.m3u8?">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ETVideoContent.png" />
 </media:content>
 </item>
@@ -1316,6 +1316,17 @@
 </item>
 
 <item>
+<title>Planet der Affen ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Planet.der.Affen&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Planet-der-Affen---TV---.png" />
+</media:content>
+</item>
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/olsenbande.png" group-title="CineMM", Die Olsenbande ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Die.Olsenbande&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+<item>
 <title>James Bond 007 ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-bondjames&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -1340,7 +1351,7 @@
 </item>
 
 <item>
-<title>ChuckNorris ---TV---</title>
+<title>Chuck Norris ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ChuckNorris&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Chuck-Norris---TV---.png" />
@@ -1388,6 +1399,14 @@
 </item>
 
 <item>
+<title>Game of Thrones ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=GoT&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Game.of.Thrones---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Grimm ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-grimm&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -1408,6 +1427,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Nightmare.on.Elm.Street&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Nightmare-On-Elm-Street---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Paranormal Activity ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ParanormalActivity&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Paranormal-Activity---TV---.png" />
 </media:content>
 </item>
 
