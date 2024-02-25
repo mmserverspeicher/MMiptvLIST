@@ -1486,7 +1486,7 @@
 <item>
 <title>Classic Videogames RADIO - Intro</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvglr.mp4?raw=true">
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvgr.mp4?raw=true">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Classic-Videogames-Radio.png" />
 </media:content>
 </item>
@@ -1494,7 +1494,7 @@
 <item>
 <title>Classic Videogames RADIO QC - Intro</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvglr-QC.mp4?raw=true">
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvgr-QC.mp4?raw=true">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Classic-Videogames-Radio-QC.png" />
 </media:content>
 </item>
