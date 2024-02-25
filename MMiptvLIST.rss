@@ -1468,10 +1468,34 @@
 </item>
 
 <item>
-<title>Street Fighter 6</title>
+<title>Street Fighter 6 - Intro</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/StreetFighter6.mp4?raw=true">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/StreetFighter6.png" />
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Street-Fighter-6.png" />
+</media:content>
+</item>
+
+<item>
+<title>Classic Videogames Live Interplay - Intro</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvgla.mp4?raw=true">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Classic-Videogames-Interplay.png" />
+</media:content>
+</item>
+
+<item>
+<title>Classic Videogames RADIO - Intro</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvglr.mp4?raw=true">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Classic-Videogames-Radio.png" />
+</media:content>
+</item>
+
+<item>
+<title>Classic Videogames RADIO QC - Intro</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvglr-QC.mp4?raw=true">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Classic-Videogames-Radio-QC.png" />
 </media:content>
 </item>
 

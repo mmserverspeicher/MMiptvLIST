@@ -551,6 +551,15 @@ https://files.catbox.moe/9e2sa9.mp4
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/HANNA.png" group-title="Video-on-Demand", HANNA
 https://files.catbox.moe/r6ko67.mp4
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/StreetFighter6.png" group-title="Intros", Street Fighter 6
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Street-Fighter-6.png" group-title="Intros", Street Fighter 6 - Intro
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/StreetFighter6.mp4?raw=true
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Classic-Videogames-Interplay.png" group-title="Intros", Classic Videogames Live Interplay - Intro
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvgla.mp4?raw=true
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Classic-Videogames-Radio.png" group-title="Intros", Classic Videogames RADIO - Intro
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvgr.mp4?raw=true
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Classic-Videogames-Radio-QC.png" group-title="Intros", Classic Videogames RADIO QC - Intro
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/cvgr-QC.mp4?raw=true
 
