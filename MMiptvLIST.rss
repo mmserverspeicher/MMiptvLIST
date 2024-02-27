@@ -30,7 +30,7 @@
 <item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/wW3JhUjMilX61wYmDvZola16R015Wt5loRq600yvaWoho.m3u8">
+<media:content url="https://stream.video.gettr.com/bZVkHXOI1ZLenHedaZisI00iX37I9ryjFDQrRxdDm6xI.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" />
 </media:content>
 </item>
@@ -688,14 +688,6 @@
 <description>MMiptvLIST</description>
 <media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447dea7e94c380008dba94c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Germany-Shore.png" />
-</media:content>
-</item>
-
-<item>
-<title>pluto tv - Dating Naked</title>
-<description>MMiptvLIST</description>
-<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be826b0e086a0009d95779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Dating.png" />
 </media:content>
 </item>
 
