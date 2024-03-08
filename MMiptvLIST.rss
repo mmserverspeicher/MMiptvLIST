@@ -100,18 +100,26 @@
 </item>
 
 <item>
-<title>FOLX MUSIC TELEVISION</title>
+<title>ONE 1 TELEVISION</title>
 <description>MMiptvLIST</description>
-<media:content url="https://folxplay-t.b-cdn.net/streams/ch-4/master.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/FOLX-MUSIC-TELEVISION.png" />
+<media:content url="https://cdne.folxplay.tv/fxt/streams/ch-6/master.m3u8">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ONE-MUSIC-TELEVISION.png" />
 </media:content>
 </item>
 
 <item>
 <title>ZWEI MUSIC TELEVISION</title>
 <description>MMiptvLIST</description>
-<media:content url="https://folxplay-t.b-cdn.net/streams/ch-2/master.m3u8">
+<media:content url="https://cdne.folxplay.tv/fxt/streams/ch-2/master.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Zwei-Music-Television.png" />
+</media:content>
+</item>
+
+<item>
+<title>FOLX MUSIC TELEVISION</title>
+<description>MMiptvLIST</description>
+<media:content url="https://cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/FOLX-MUSIC-TELEVISION.png" />
 </media:content>
 </item>
 
