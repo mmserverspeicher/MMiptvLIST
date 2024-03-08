@@ -132,6 +132,22 @@
 </item>
 
 <item>
+<title>DF1 - Genau deins</title>
+<description>MMiptvLIST</description>
+<media:content url="https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/DF1-Genau-deins.png" />
+</media:content>
+</item>
+
+<item>
+<title>OE24.TV</title>
+<description>MMiptvLIST</description>
+<media:content url="https://stream.video.gettr.com/ex6Oo01LUQfVQuFvar98HCpevFJkWO699GLwYMt37i2U.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" />
+</media:content>
+</item>
+
+<item>
 <title>ARD</title>
 <description>MMiptvLIST</description>
 <media:content url="https://mcdn.daserste.de/daserste/de/master.m3u8">
