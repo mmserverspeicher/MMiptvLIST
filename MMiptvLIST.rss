@@ -46,7 +46,7 @@
 <item>
 <title>ET Video & Content</title>
 <description>MMiptvLIST</description>
-<media:content url="https://rumble.com/live-hls-dvr/4f2bdb/playlist.m3u8">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/2/2/_/2/22_2p.caa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ETVideoContent.png" />
 </media:content>
 </item>
@@ -230,7 +230,7 @@
 <item>
 <title>arte</title>
 <description>MMiptvLIST</description>
-<media:content url="https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8">
+<media:content url="https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/arte.png" />
 </media:content>
 </item>
@@ -252,17 +252,9 @@
 </item>
 
 <item>
-<title>MTV</title>
-<description>MMiptvLIST</description>
-<media:content url="https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MTV.png" />
-</media:content>
-</item>
-
-<item>
 <title>SWR</title>
 <description>MMiptvLIST</description>
-<media:content url="https://swrbwd-hls.akamaized.net/hls/live/2018672-b/swrbwd/master-720p-3328.m3u8">
+<media:content url="https://mcdn.swr.de/swr/swrbwd/master.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SWR.png" />
 </media:content>
 </item>
