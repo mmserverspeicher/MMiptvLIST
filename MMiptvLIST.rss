@@ -100,7 +100,7 @@
 </item>
 
 <item>
-<title>ONE 1 ADRIA TELEVISION</title>
+<title>ONE 1 ADRIA</title>
 <description>MMiptvLIST</description>
 <media:content url="https://cdne.folxplay.tv/fxt/streams/ch-6/master.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ONE-1-ADRIA.png" />
@@ -150,7 +150,7 @@
 <item>
 <title>OE24.TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/PQa6sRJja7FJQRGnu8bzi02HJj133Wt9Mk99P4UnLYlE.m3u8">
+<media:content url="https://stream.video.gettr.com/rgN00lIkHNprpO3I018Bvv3Lyr69nigxiTRodJPDOVTlk.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" />
 </media:content>
 </item>

@@ -35,7 +35,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SCHLAGER-DELUXE.png" group-title="TVprogramme", SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ONE-1-ADRIA.png" group-title="TVprogramme", ONE 1 ADRIA TELEVISION
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ONE-1-ADRIA.png" group-title="TVprogramme", ONE 1 ADRIA
 https://cdne.folxplay.tv/fxt/streams/ch-6/master.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Zwei-Music-Television.png" group-title="TVprogramme", ZWEI MUSIC TELEVISION
@@ -54,7 +54,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
 https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" group-title="TVprogramme", OE24.TV
-https://stream.video.gettr.com/PQa6sRJja7FJQRGnu8bzi02HJj133Wt9Mk99P4UnLYlE.m3u8
+https://stream.video.gettr.com/rgN00lIkHNprpO3I018Bvv3Lyr69nigxiTRodJPDOVTlk.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Das-Erste.png" group-title="TVprogramme", ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
