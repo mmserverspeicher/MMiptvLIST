@@ -1044,6 +1044,14 @@
 </item>
 
 <item>
+<title>Die Dinos ---TV---</title> guldukat-diedinos
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-diedinos&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Die-Dinos---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Bezaubernde Jeannie ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=bezauberndejeannie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -1452,10 +1460,18 @@
 </item>
 
 <item>
-<title>Nightmare on Elm Street ---TV---</title>
+<title>Nightmare on Elm Street ---TV---</title> walkingdead
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Nightmare.on.Elm.Street&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Nightmare-On-Elm-Street---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>The Walking Dead ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=walkingdead&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The-Walking-Dead---TV---.png" />
 </media:content>
 </item>
 
