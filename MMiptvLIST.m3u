@@ -8,14 +8,14 @@ https://stream.video.gettr.com/gwNYwaO81raW6y01wKejp00e1Y008l99mp8aS54ypipn8w.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" group-title="TVprogramme", SRGT
 https://stream-cdn-iad2.vaughnsoft.net/play/live_srgt.flv
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/klickblick.png" group-title="TVprogramme", klickblick
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/klickblick.png" group-title="TVprogramme", klickblick
 https://live.prd.dlive.tv/hls/live/klickblick.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/LichtderWahrheit.png" group-title="TVprogramme", Licht der Wahrheit
 https://live.prd.dlive.tv/hls/live/lichtderwahrheit.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" group-title="TVprogramme", Ignaz Bearth TV
-https://stream.video.gettr.com/CxXV602pbWTifMPV00vtjIugHN3AWifokVX02tbAp3xmTA.m3u8
+https://stream.video.gettr.com/rbWsJNnPUuK01JjqwEV01wuPetzJNuCIa9Ggk8rYugrFM.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" group-title="TVprogramme", Bittel TV - Einfach Anders
 https://stream.video.gettr.com/02bAPEArnCmUvGIgUWMvXYLmm4plGX7DDL4uvjdAGWQk.m3u8
@@ -139,6 +139,9 @@ https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/regioTV-Schwaben.png" group-title="TVprogramme", regioTV Schwaben
 https://regiotv.iptv-playoutcenter.de/regiotv/regiotv.stream_1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/DonMirjanyDjDance.png" group-title="TVprogramme", Don Mirjany Dj Dance
+https://live.prd.dlive.tv/hls/live/donmirjanydj.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-TOP-FILME.png" group-title="TVprogramme", Rakuten TV - TOP FILME
 https://a6fa08d757884cf9994344c24b948fc6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_TopFree/playlist.m3u8
