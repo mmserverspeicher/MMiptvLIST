@@ -12,14 +12,6 @@
 </item>
 
 <item>
-<title>Stiftung Corona Ausschuss</title>
-<description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/gwNYwaO81raW6y01wKejp00e1Y008l99mp8aS54ypipn8w.m3u8">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" />
-</media:content>
-</item>
-
-<item>
 <title>SRGT</title>
 <description>MMiptvLIST</description>
 <media:content url="https://stream-cdn-iad2.vaughnsoft.net/play/live_srgt.flv">
@@ -72,6 +64,14 @@
 <description>MMiptvLIST</description>
 <media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/2/2/_/2/22_2p.caa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ETVideoContent.png" />
+</media:content>
+</item>
+
+<item>
+<title>Stiftung Corona Ausschuss</title>
+<description>MMiptvLIST</description>
+<media:content url="https://stream.video.gettr.com/NfDL4tQZKie3dfZmIRel00UuIcADPeVnizs9xl8B9bj8.m3u8">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" />
 </media:content>
 </item>
 
