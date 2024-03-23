@@ -515,5 +515,13 @@
 </media:content>
 </item>
 
+<item>
+<title>King Kong</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/360p/62b912c40d7fcc3b47ec9ca1.mp4">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C072.jpg" />
+</media:content>
+</item>
+
 </channel>
 </rss>
