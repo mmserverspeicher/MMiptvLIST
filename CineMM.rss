@@ -84,10 +84,18 @@
 </item>
 
 <item>
-<title>Jumanji: Welcome to the Jungle</title>
+<title>Jumanji - Willkommen im Dschungel</title>
 <description>CineMM Film</description>
-<media:content url="https://dl.streamcloud.club/files/movies/480p/6195193358607cdfb9fadcae.mp4">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C017.jpg" />
+<media:content url="https://dl.streamcloud.club/files/movies/720p/6195193258607cdfb9fa3ba4.mp4">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C070.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Jumanji - The Next Level</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/480p/6195193158607cdfb9f9a41f.mp4">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C071.jpg" />
 </media:content>
 </item>
 
