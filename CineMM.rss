@@ -539,5 +539,29 @@
 </media:content>
 </item>
 
+<item>
+<title>Ghostbusters</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/1080p/6195193358607cdfb9fb50f3.mp4">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C075.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Ghostbusters  II</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/360p/6195193258607cdfb9fa3462.mp4">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C076.jpg" />
+</media:content>
+</item>
+
+<item>
+<title>Ghostbusters - Legacy</title>
+<description>CineMM Film</description>
+<media:content url="https://dl.streamcloud.club/files/movies/720p/619cc25de6d8a7e29375d1c6.mp4">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/C077.jpg" />
+</media:content>
+</item>
+
 </channel>
 </rss>
