@@ -170,6 +170,9 @@ https://67d66914daeb4e91ae8564deea8ce2af.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Romance.png" group-title="TVprogramme", Rakuten TV - Romance
 https://8bd243f0856747b4aa9ae0716bc2c79e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_RakutenRomance/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Family.png" group-title="TVprogramme", Rakuten TV - FAMILY
+https://25355b9a6c3d470c85a0d52372ba20cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenFamily/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Starke-Frauen.png" group-title="TVprogramme", Rakuten TV - STARKE FRAUEN
 https://mainstreamstarkefrauen-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreamstarkefrauen-rakuten/CDN/playlist.m3u8
 
