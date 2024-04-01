@@ -2,8 +2,8 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMiptvLIST.png" group-title="TVprogramme", MMiptvLIST
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT-Sendeschluss.png" group-title="TVprogramme", SRGT Sendeschluss
-https://live.prd.dlive.tv/hls/live/srgt.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" group-title="TVprogramme", SRGT
+https://stream-cdn-iad2.vaughnsoft.net/play/live_srgt.flv
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SchlipsTV.png" group-title="TVprogramme", SchlipsTV
 https://live.prd.dlive.tv/hls/live/dlive-ngvdstsyvw.m3u8

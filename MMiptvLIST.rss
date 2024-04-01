@@ -12,10 +12,10 @@
 </item>
 
 <item>
-<title>SRGT Sendeschluss</title>
+<title>SRGT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://live.prd.dlive.tv/hls/live/srgt.m3u8">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT-Sendeschluss.png" />
+<media:content url="https://stream-cdn-iad2.vaughnsoft.net/play/live_srgt.flv">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" />
 </media:content>
 </item>
 
