@@ -90,7 +90,7 @@ https://welt.personalstream.tv/v1/master.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/k-tv.png" group-title="TVprogramme", k-tv
-https://ec2-52-57-41-34.eu-central-1.compute.amazonaws.com/p/101/sp/10100/playManifest/entryId/0_0rfgbtwj/format/applehttp/protocol/http/uiConfId/23448323/a.m3u8
+https://vod.k-tv.org:8443/ktvhls.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/arte.png" group-title="TVprogramme", arte
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8

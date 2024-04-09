@@ -246,7 +246,7 @@
 <item>
 <title>k-tv</title>
 <description>MMiptvLIST</description>
-<media:content url="https://ec2-52-57-41-34.eu-central-1.compute.amazonaws.com/p/101/sp/10100/playManifest/entryId/0_0rfgbtwj/format/applehttp/protocol/http/uiConfId/23448323/a.m3u8">
+<media:content url="https://vod.k-tv.org:8443/ktvhls.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/k-tv.png" />
 </media:content>
 </item>
