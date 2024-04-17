@@ -14,7 +14,7 @@
 <item>
 <title>SRGT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream-cdn-iad2.vaughnsoft.net/play/live_srgt.flv">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/n/A/b/U/nAbUq.caa.rec.mp4">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" />
 </media:content>
 </item>
@@ -54,7 +54,7 @@
 <item>
 <title>Bittel TV - Einfach Anders</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/6bth2g01HXQcrRIQV1FXD00vC02VWcfYGsXbzCxiDSwDFY.m3u8">
+<media:content url="https://stream.video.gettr.com/xYd001v02iXw3Cfp0102uyshaWSNtSAxX2kQcYloVz8I2hQ.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" />
 </media:content>
 </item>
