@@ -884,6 +884,14 @@
 </item>
 
 <item>
+<title>SRGT Sendeschluss</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://archive.org/download/resource.uisounds.mm.sounds/z-srgt-e.mp4">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT-Sendeschluss.png" />
+</media:content>
+</item>
+
+<item>
 <title>premiere</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://archive.org/download/resource.uisounds.mm.sounds/z-p-alt.mp4">

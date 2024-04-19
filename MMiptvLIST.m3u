@@ -329,6 +329,9 @@ https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/sca-Ad-hoc6.png" group-title="Video-on-Demand", Stiftung Corona Ausschuss - Ad-hoc 6 - Impftod in Berliner Altenheim
 https://2020news.de/videos/20210213_online_Ad-hoc_6_Impftod_in_Berliner_Altenheim_.mp4
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT-Sendeschluss.png" group-title="Video-on-Demand", SRGT Sendeschluss
+https://archive.org/download/resource.uisounds.mm.sounds/z-srgt-e.mp4
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/premiere.png" group-title="Video-on-Demand", premiere
 https://archive.org/download/resource.uisounds.mm.sounds/z-p-alt.mp4
 
