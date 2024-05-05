@@ -18,10 +18,10 @@ https://live.prd.dlive.tv/hls/live/lichtderwahrheit.m3u8
 https://stream.video.gettr.com/5rIcLW1expsInIakcF4TBHsI6fU01G3Qf4a8rgZuSmoU.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" group-title="TVprogramme", Bittel TV - Einfach Anders
-https://stream.video.gettr.com/UEXoCya8wLJPIucBjSsIardvU4u7gnfZTRptmdWO00j4.m3u8
+https://stream.video.gettr.com/khcXdt1FAEtJJu017uGoO00LKONdp007dKTrE01iF00UlyTg.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" group-title="TVprogramme", ET VIDEO & CONTENT
-https://hugh.cdn.rumble.cloud/video/fw/s8/2/2/p/m/v/2pmvr.aaa.rec.mp4
+https://rumble.com/live-hls/4qwhl9/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
 https://stream.video.gettr.com/L008R93AmSp701mzABWeOCD34ExzuzPI6TMMOd02a01s8ts.m3u8
@@ -57,7 +57,7 @@ https://cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/VIVA-RUSSIA.png" group-title="TVprogramme", VIVA RUSSIA
-https://hls.goodgame.ru/manifest/180805_master.m3u8
+http://autopilot.catcast.tv/content/39575/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DF1-Genau-deins.png" group-title="TVprogramme", DF1 - Genau deins
 https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
