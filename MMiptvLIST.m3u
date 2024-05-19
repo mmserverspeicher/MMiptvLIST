@@ -188,7 +188,7 @@ https://9b00e8486e794b8b909a5c51df54002e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Freitag-Nacht-News.png" group-title="TVprogramme", Rakuten TV - Freitag Nacht News
 https://9e6fa42d5ba6420aa6b82e6e0069b903.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_FreitagNachtNews/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Weihnachten.png" group-title="TVprogramme", Rakuten TV - 100% Weihnachten
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Weihnachten.png" group-title="TVprogramme", Rakuten TV - Weihnachten
 https://25355b9a6c3d470c85a0d52372ba20cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenFamily/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/plex-ARTFLIX-Filmklassiker.png" group-title="TVprogramme", plex - ARTFILX Filmklassiker
