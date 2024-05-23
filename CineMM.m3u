@@ -146,6 +146,12 @@ https://dl.streamcloud.club/files/movies/720p/620d3f52b9cb14f619d44a6d.mp4
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C060.jpg" group-title="CineMM", Encanto
 https://dl.streamcloud.club/files/movies/720p/61c710f748acbedea31f5d77.mp4
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C089.jpg" group-title="CineMM", Avengers - Infinity War
+https://dl.streamcloud.club/files/movies/720p/6195193258607cdfb9fac874.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C090.jpg" group-title="CineMM", Avengers - Endgame
+https://dl.streamcloud.club/files/movies/360p/6195193358607cdfb9faf9f0.mp4
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C039.jpg" group-title="CineMM", Eternals
 https://dl.streamcloud.club/files/movies/720p/61df53393710952b65d540a9.mp4
 
@@ -241,3 +247,9 @@ https://pmd.netzkino-seite.netzkino.de/Plaion/Paranormal_Activity_3000000.mp4
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C088.jpg" group-title="CineMM", Agent Null Null Nix
 https://pmd.netzkino-seite.netzkino.de/New_Regency_MG/Agent_Null_Null_Nix.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C091.jpg" group-title="CineMM", Menschenfresser
+https://pmd.netzkino-seite.netzkino.de/Schroeder_Media_flat/Menschenfresser.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/C092.jpg" group-title="CineMM", Dark Flight Ghosts on a Plane
+https://pmd.netzkino-seite.netzkino.de/Plaion/Dark_Flight_Ghosts_on_a_Plane.mp4
