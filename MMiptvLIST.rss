@@ -62,7 +62,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://rumble.com/live-hls/4vq88c/playlist.m3u8">
+<media:content url="https://rumble.com/live-hls-dvr/4wbumo/playlist.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
@@ -70,7 +70,7 @@
 <item>
 <title>Stiftung Corona Ausschuss</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/ukbny702315XiIjZraC9FqOnsu4AINMbePg7Jb7bm025s.m3u8">
+<media:content url="https://stream.video.gettr.com/Jl02dnrwnowB9D4c1SRjmSS5Xszq8VmJoECx01P9Xrt54.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" />
 </media:content>
 </item>
