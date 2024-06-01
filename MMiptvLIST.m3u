@@ -21,7 +21,7 @@ https://stream.video.gettr.com/OFphFXkcmYDuMn00I4B3YFN3029Dpy3V4y5rT8jB00TUwI.m3
 https://stream.video.gettr.com/76F58cSznR9A9OpzkleCCrNDq74Px13SUfQ02mbAioyk.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" group-title="TVprogramme", ET VIDEO & CONTENT
-https://hugh.cdn.rumble.cloud/video/fw/s8/2/Z/6/X/4/Z6X4r.aaa.rec.mp4
+https://rumble.com/live-hls-dvr/4wkxgw/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
 https://stream.video.gettr.com/Jl02dnrwnowB9D4c1SRjmSS5Xszq8VmJoECx01P9Xrt54.m3u8
@@ -57,7 +57,7 @@ https://cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/VIVA-RUSSIA.png" group-title="TVprogramme", VIVA RUSSIA
-http://autopilot.catcast.tv/content/39575/index.m3u8
+https://s.catcast.tv/content/39575/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DF1-Genau-deins.png" group-title="TVprogramme", DF1 - Genau deins
 https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
@@ -188,11 +188,11 @@ https://9b00e8486e794b8b909a5c51df54002e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Freitag-Nacht-News.png" group-title="TVprogramme", Rakuten TV - Freitag Nacht News
 https://9e6fa42d5ba6420aa6b82e6e0069b903.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_FreitagNachtNews/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Weihnachten.png" group-title="TVprogramme", Rakuten TV - Weihnachten
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Weihnachten.png" group-title="TVprogramme", Rakuten TV - 100% Weihnachten
 https://25355b9a6c3d470c85a0d52372ba20cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenFamily/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/plex-ARTFLIX-Filmklassiker.png" group-title="TVprogramme", plex - ARTFILX Filmklassiker
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6348a1fb90b96ef5e0eb3284.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=gsaCMbshxA-huwzTLF_q
+https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6348a1fb90b96ef5e0eb3284.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7kCsnvqvFT3VxSyDp-zb
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Kino-Filme.png" group-title="TVprogramme", pluto tv - KINO FILME
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c9430af13a9b000786422a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0659&deviceLon=9.6557&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
