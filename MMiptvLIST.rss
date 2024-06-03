@@ -62,7 +62,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://rumble.com/live-hls/4wt8gn/playlist.m3u8">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/g/5/3/7/g537r.aaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
