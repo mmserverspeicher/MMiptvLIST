@@ -15,13 +15,13 @@ https://live.prd.dlive.tv/hls/live/klickblick.m3u8
 https://live.prd.dlive.tv/hls/live/lichtderwahrheit.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" group-title="TVprogramme", Ignaz Bearth TV
-https://stream.video.gettr.com/7tqJh01iVbdF636yK66ZfW5rUiu3Dq8LmOKIMQGjzOoI.m3u8
+https://stream.video.gettr.com/kROQTeoJetyKIXblXE8CgUCtAYe02EpYfxCzbhVhHUyM.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" group-title="TVprogramme", Bittel TV - Einfach Anders
-https://stream.video.gettr.com/R01b6d9lpjeRq5sNriPWpdVyyV01iIzkDpqp2LNBPOFKI.m3u8
+https://stream.video.gettr.com/TXSQWgbmZBPsyjKuyX8NDFqb3Tpk3oFWlH4Prv5X3CA.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" group-title="TVprogramme", ET VIDEO & CONTENT
-https://hugh.cdn.rumble.cloud/video/s8/2/p/7/W/e/p7Wes.aaa.rec.mp4
+https://rumble.com/live-hls/4yfg3r/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
 https://stream.video.gettr.com/Jl02dnrwnowB9D4c1SRjmSS5Xszq8VmJoECx01P9Xrt54.m3u8
