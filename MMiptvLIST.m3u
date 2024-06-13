@@ -509,6 +509,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=voyager&apikey=a734e4c866ce62cd
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Picard---TV---.png" group-title="CineMM", Star Trek - Picard ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=startrekpicard&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-MOVIE---TV---.png" group-title="CineMM", Star Trek MOVIE ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkiemovies&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/The-Orville---TV---.png" group-title="CineMM", The Orville ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=theorville&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
@@ -577,6 +580,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=Die.Olsenbande&apikey=a734e4c86
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/James-Bond007---TV---.png" group-title="CineMM", James Bond 007 ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-bondjames&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Fast-and-Furious---TV---.png" group-title="CineMM", Fast and Furious ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=fastandfurious&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stirb-langsam---TV---.png" group-title="CineMM", Stirb Langsam ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e

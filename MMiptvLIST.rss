@@ -1364,6 +1364,14 @@
 </item>
 
 <item>
+<title>Star Trek MOVIE ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkiemovies&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-MOVIE---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Star Wars ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-starwars&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -1544,6 +1552,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-bondjames&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/James-Bond007---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Fast and Furious ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=fastandfurious&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Fast-and-Furious---TV---.png" />
 </media:content>
 </item>
 
