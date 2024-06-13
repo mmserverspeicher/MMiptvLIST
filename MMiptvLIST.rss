@@ -1356,6 +1356,30 @@
 </item>
 
 <item>
+<title>Star Trek - Picard ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=startrekpicard&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Picard---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Star Wars ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-starwars&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Wars---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Star Wars - The Mandalorian ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Mandalorian&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/The-Mandalorian---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>The Orville ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=theorville&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
