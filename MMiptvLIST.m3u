@@ -506,8 +506,17 @@ https://wagasworld.com/get_m3u8_link.php?channel=ds9&apikey=a734e4c866ce62cdcfbd
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Voyager---TV---.png" group-title="CineMM", Star Trek - Voyager ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=voyager&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Picard---TV---.png" group-title="CineMM", Star Trek - Picard ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=startrekpicard&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/The-Orville---TV---.png" group-title="CineMM", The Orville ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=theorville&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/The-Mandalorian---TV---.png" group-title="CineMM", Star Wars - The Mandalorian ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=The.Mandalorian&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Wars---TV---.png" group-title="CineMM", Star Wars ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-starwars&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stargate-SG1---TV---.png" group-title="CineMM", Stargate SG1 ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=stargate&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
