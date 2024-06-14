@@ -374,6 +374,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=MovieMixAnime&apikey=a734e4c866
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" group-title="CineMM", CineMM MOVIEkiDs
 https://wagasworld.com/get_m3u8_link.php?channel=MovieMixKids&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Asia---TV---.png" group-title="CineMM", Asia ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=MovieMixAsia&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Simpsons---TV---.png" group-title="CineMM", Simpsons ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=simpsons&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
@@ -595,6 +598,12 @@ https://wagasworld.com/get_m3u8_link.php?channel=ChuckNorris&apikey=a734e4c866ce
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jean-Claude-van-Damme---TV---.png" group-title="CineMM", Jean Claude van Damme ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=jcvd&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Sylvester-Stallone---TV---.png" group-title="CineMM", Sylvester Stallone ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=SlyStallone&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Rocky---TV---.png" group-title="CineMM", Rocky ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-rocky&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Bruce-Lee---TV---.png" group-title="CineMM", Bruce Lee ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=brucelee&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
