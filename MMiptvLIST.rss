@@ -958,7 +958,7 @@
 <item>
 <title>CineMM MOVIEs</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixFight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Thriller.Drama&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Movies.png" />
 </media:content>
 </item>
@@ -984,6 +984,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixHorror&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Terror-Horror.png" />
+</media:content>
+</item>
+
+<item>
+<title>CineMM SPACE FICTION</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Scifi.Fantasy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-SPACE-FICTION.png" />
 </media:content>
 </item>
 
@@ -1016,6 +1024,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-marvelvsdc&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SuperHEROES---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Street Fighter ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixFight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Street-Fighter---TV---.png" />
 </media:content>
 </item>
 

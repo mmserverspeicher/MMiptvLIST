@@ -357,7 +357,7 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMMdeluxe.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Movies.png" group-title="CineMM", CineMM MOVIEs
-https://wagasworld.com/get_m3u8_link.php?channel=MovieMixFight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Thriller.Drama&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Super-Comedy.png" group-title="CineMM", CineMM SUPER COMEDY
 https://wagasworld.com/get_m3u8_link.php?channel=MovieMixComedy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
@@ -367,6 +367,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Action&apikey=a734e4c8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Terror-Horror.png" group-title="CineMM", CineMM TERROR HORROR
 https://wagasworld.com/get_m3u8_link.php?channel=MovieMixHorror&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-SPACE-FICTION.png" group-title="CineMM", CineMM SPACE FICTION
+https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Scifi.Fantasy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-ClassicScienceFiction.png" group-title="CineMM", CineMM Classic Science Fiction
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-vintagescifi&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
@@ -379,6 +382,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=MovieMixKids&apikey=a734e4c866c
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SuperHEROES---TV---.png" group-title="CineMM", CineMM SuperHEROES ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-marvelvsdc&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Street-Fighter---TV---.png" group-title="CineMM", Street Fighter ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=MovieMixFight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Asia---TV---.png" group-title="CineMM", Asia ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=MovieMixAsia&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
