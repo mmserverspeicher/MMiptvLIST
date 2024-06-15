@@ -1668,6 +1668,14 @@
 </item>
 
 <item>
+<title>IpMan ---TV</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ipman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/IpMan---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Chuck ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ChuckSerie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
