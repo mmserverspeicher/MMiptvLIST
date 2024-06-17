@@ -174,7 +174,7 @@
 <item>
 <title>OE24.TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8">
+<media:content url="https://stream.video.gettr.com/IR003NJCp4QIugScn1rDEg021VvoUwfalK1d00FxGx9sm8.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" />
 </media:content>
 </item>
