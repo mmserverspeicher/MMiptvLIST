@@ -5,15 +5,6 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" group-title="TVprogramme", SRGT
 https://hugh.cdn.rumble.cloud/video/s8/2/n/A/b/U/nAbUq.caa.rec.mp4
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SchlipsTV.png" group-title="TVprogramme", Schlips TV
-https://live.prd.dlive.tv/hls/live/dlive-ngvdstsyvw.m3u8
-
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/klickblick.png" group-title="TVprogramme", klickblick
-https://live.prd.dlive.tv/hls/live/klickblick.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/LichtderWahrheit.png" group-title="TVprogramme", Licht der Wahrheit
-https://live.prd.dlive.tv/hls/live/lichtderwahrheit.m3u8
-
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" group-title="TVprogramme", Ignaz Bearth TV
 https://stream.video.gettr.com/sCZVo7iCueU00sUSbaMX4ZTiwGdODQODqnu7OgBDct00U.m3u8
 
