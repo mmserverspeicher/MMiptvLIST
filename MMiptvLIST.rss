@@ -62,7 +62,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://rumble.com/live-hls-dvr/4zm0ih/playlist.m3u8">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/U/K/Z/n/UKZns.aaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
@@ -510,7 +510,7 @@
 <item>
 <title>Rakuten TV - 100% Weihnachten</title>
 <description>MMiptvLIST</description>
-<media:content url="https://25355b9a6c3d470c85a0d52372ba20cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenFamily/playlist.m3u8">
+<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/RakutenTV-Weihnachten.mp4?raw=true">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Weihnachten.png" />
 </media:content>
 </item>
