@@ -6,13 +6,13 @@ https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 https://hugh.cdn.rumble.cloud/video/s8/2/n/A/b/U/nAbUq.caa.rec.mp4
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" group-title="TVprogramme", Ignaz Bearth TV
-https://stream.video.gettr.com/sCZVo7iCueU00sUSbaMX4ZTiwGdODQODqnu7OgBDct00U.m3u8
+https://stream.video.gettr.com/8a9d02DKW4fpFEEt1eSx2gfitc9wZ34001I02Swjweuum00.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" group-title="TVprogramme", Bittel TV - Einfach Anders
-https://stream.video.gettr.com/5P6sQjhgQjswmnT0200Vb1Bbch1dq01wGEhxh01LIuohJBQ.m3u8
+https://stream.video.gettr.com/7rbBfBQEMI01Daz8O68v1ECJjJ7hYa4zwNOZLgz4MugY.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" group-title="TVprogramme", ET VIDEO & CONTENT
-https://hugh.cdn.rumble.cloud/video/s8/2/U/K/Z/n/UKZns.aaa.rec.mp4
+https://hugh.cdn.rumble.cloud/video/s8/2/y/h/1/r/yh1rs.aaa.rec.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
 https://stream.video.gettr.com/L702L1JjZv8016Pm6lvvMDJxd1SRz01h00saiEC6MGpJjvw.m3u8
@@ -365,6 +365,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=MovieMixKids&apikey=a734e4c866c
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SuperHEROES---TV---.png" group-title="CineMM", SuperHEROES ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-marvelvsdc&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Power-Frauen---TV---.png" group-title="CineMM", POWER FRAUEN ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.She&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Street-Fighter---TV---.png" group-title="CineMM", Street Fighter ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=MovieMixFight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
@@ -562,6 +565,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=dieunendlichegeschichte&apikey=
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Twilight.png" group-title="CineMM", Twilight ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Twilight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/The-Witcher---TV---.png" group-title="CineMM", The Witcher ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=The.Witcher&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Der-Herr-der-Ringe---TV---.png" group-title="CineMM", Der Herr der Ringe ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hdr&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e

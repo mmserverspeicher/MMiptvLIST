@@ -46,7 +46,7 @@
 <item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/sCZVo7iCueU00sUSbaMX4ZTiwGdODQODqnu7OgBDct00U.m3u8">
+<media:content url="https://stream.video.gettr.com/8a9d02DKW4fpFEEt1eSx2gfitc9wZ34001I02Swjweuum00.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" />
 </media:content>
 </item>
@@ -54,7 +54,7 @@
 <item>
 <title>Bittel TV - Einfach Anders</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/5P6sQjhgQjswmnT0200Vb1Bbch1dq01wGEhxh01LIuohJBQ.m3u8">
+<media:content url="https://stream.video.gettr.com/7rbBfBQEMI01Daz8O68v1ECJjJ7hYa4zwNOZLgz4MugY.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" />
 </media:content>
 </item>
@@ -62,7 +62,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/U/K/Z/n/UKZns.aaa.rec.mp4">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/y/h/1/r/yh1rs.aaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
@@ -1028,6 +1028,14 @@
 </item>
 
 <item>
+<title>POWER FRAUEN ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.She&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Power-Frauen---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Street Fighter ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixFight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -1552,6 +1560,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Twilight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Twilight.png" />
+</media:content>
+</item>
+
+<item>
+<title>The Witcher ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Witcher&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The-Witcher---TV---.png" />
 </media:content>
 </item>
 
