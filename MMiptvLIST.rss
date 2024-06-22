@@ -62,7 +62,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/y/h/1/r/yh1rs.aaa.rec.mp4">
+<media:content url="https://rumble.com/live-hls/50r390/playlist.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
@@ -1572,6 +1572,14 @@
 </item>
 
 <item>
+<title>Salem ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Salem&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Salem---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Der Herr der Ringe ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hdr&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -1744,6 +1752,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Species&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Species---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Swamp Thing ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Swamp.Thing&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Swamp-Thing---TV---.png" />
 </media:content>
 </item>
 
