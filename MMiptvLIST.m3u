@@ -12,7 +12,7 @@ https://stream.video.gettr.com/Db8iB4N01X00BxlRt8MwP024Xxx601BIh1J7PtXGablW4Tg.m
 https://stream.video.gettr.com/7rbBfBQEMI01Daz8O68v1ECJjJ7hYa4zwNOZLgz4MugY.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" group-title="TVprogramme", ET VIDEO & CONTENT
-https://rumble.com/live-hls/50r390/playlist.m3u8
+https://hugh.cdn.rumble.cloud/video/s8/2/g/A/h/v/gAhvs.aaa.rec.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
 https://stream.video.gettr.com/01ZJ8z8hPrMTOCyXmgv02Ee02WQJkB74nkHOUuF4syr3RQ.m3u8
@@ -646,6 +646,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=Nightmare.on.Elm.Street&apikey=
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/The-Walking-Dead---TV---.png" group-title="CineMM", The Walking Dead ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=walkingdead&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Motherland-Fort-Salem---TV---.png" group-title="CineMM", Motherland Fort Salem ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Motherland.Fort.Salem&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/The-Boys---TV---.png" group-title="CineMM", The Boys ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=The.Boys&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e

@@ -62,7 +62,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://rumble.com/live-hls/50r390/playlist.m3u8">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/g/A/h/v/gAhvs.aaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
@@ -1776,6 +1776,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=walkingdead&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The-Walking-Dead---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Motherland Fort Salem ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Motherland.Fort.Salem&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Motherland-Fort-Salem---TV---.png" />
 </media:content>
 </item>
 
