@@ -12,7 +12,7 @@ https://stream.video.gettr.com/Db8iB4N01X00BxlRt8MwP024Xxx601BIh1J7PtXGablW4Tg.m
 https://stream.video.gettr.com/7rbBfBQEMI01Daz8O68v1ECJjJ7hYa4zwNOZLgz4MugY.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" group-title="TVprogramme", ET VIDEO & CONTENT
-https://hugh.cdn.rumble.cloud/video/s8/2/g/A/h/v/gAhvs.aaa.rec.mp4
+https://rumble.com/live-hls-dvr/51f1cw/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
 https://stream.video.gettr.com/01ZJ8z8hPrMTOCyXmgv02Ee02WQJkB74nkHOUuF4syr3RQ.m3u8
@@ -162,7 +162,7 @@ https://mainstreamstarkefrauen-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mai
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f46fb880-c5fe-11ec-967f-401ac48a6867/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=12&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0039&ads%3Alanguage=deu&ads%3Amarket=de&ads%3Aos_language=&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4195&ads%3Astreaming_id=74896899-bf25-41ce-b90e-e4592187d96f&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=de&optout=0&uid=5b57016e-d47a-4c13-bec2-40b6f8dc8a56&vendor=rakuten
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Craction.png" group-title="TVprogramme", Rakuten TV - CRACTION
-https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/RakutenTV-Craction.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-ZEE-ONE.png" group-title="TVprogramme", Rakuten TV - ZEE ONE
 https://9b00e8486e794b8b909a5c51df54002e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ZeeOne/playlist.m3u8
@@ -571,6 +571,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=The.Witcher&apikey=a734e4c866ce
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Salem---TV---.png" group-title="CineMM", Salem ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Salem&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Hobbit---TV---.png" group-title="CineMM", Hobbit ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hobbit&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Der-Herr-der-Ringe---TV---.png" group-title="CineMM", Der Herr der Ringe ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hdr&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
