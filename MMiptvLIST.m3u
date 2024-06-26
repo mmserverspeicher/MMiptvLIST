@@ -578,6 +578,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hobbit&apikey=a734e4c8
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Der-Herr-der-Ringe---TV---.png" group-title="CineMM", Der Herr der Ringe ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hdr&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Indiana-Jones---TV---.png" group-title="CineMM", Indiana Jones ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=indianajones&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Narnia---TV---.png" group-title="CineMM", Narnia ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Narnia&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
