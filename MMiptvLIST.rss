@@ -46,7 +46,7 @@
 <item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/Db8iB4N01X00BxlRt8MwP024Xxx601BIh1J7PtXGablW4Tg.m3u8">
+<media:content url="https://stream.video.gettr.com/BigPmAs62vXagzlFtmi6QelZunWsrRdphH02qZNmRnME.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" />
 </media:content>
 </item>
@@ -62,7 +62,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://rumble.com/live-hls-dvr/51f1cw/playlist.m3u8">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/r/c/6/E/rc6Es.aaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
@@ -70,7 +70,7 @@
 <item>
 <title>Stiftung Corona Ausschuss</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/01ZJ8z8hPrMTOCyXmgv02Ee02WQJkB74nkHOUuF4syr3RQ.m3u8">
+<media:content url="https://stream.video.gettr.com/qabTR02dVl013QVrd00kIZ00ejsna00pGypmIQ4t4ZlD9ZeU.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" />
 </media:content>
 </item>
