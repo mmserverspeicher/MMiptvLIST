@@ -1596,6 +1596,14 @@
 </item>
 
 <item>
+<title>THE MUMMY ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-mumie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/THE-MUMMY---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Indiana Jones ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=indianajones&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
@@ -1704,6 +1712,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=SlyStallone&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Sylvester-Stallone---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>RAMBO ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ramboFilme&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Rambo---TV---.png" />
 </media:content>
 </item>
 
