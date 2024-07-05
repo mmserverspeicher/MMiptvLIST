@@ -15,7 +15,7 @@ https://stream.video.gettr.com/7rbBfBQEMI01Daz8O68v1ECJjJ7hYa4zwNOZLgz4MugY.m3u8
 https://hugh.cdn.rumble.cloud/video/s8/2/r/c/6/E/rc6Es.aaa.rec.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
-https://stream.video.gettr.com/qabTR02dVl013QVrd00kIZ00ejsna00pGypmIQ4t4ZlD9ZeU.m3u8
+https://stream.video.gettr.com/p00qduXwC8Xj8foIgDu00Xfp564zXtaATmE77AGxYAQws.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-MUSIC.png" group-title="TVprogramme", DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -583,6 +583,12 @@ https://wagasworld.com/get_m3u8_link.php?channel=guldukat-mumie&apikey=a734e4c86
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Indiana-Jones---TV---.png" group-title="CineMM", Indiana Jones ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=indianajones&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Legacies---TV---.png" group-title="CineMM", Legacies ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Legacies&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Vikings---TV---.png" group-title="CineMM", Vikings ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Vikings&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Narnia---TV---.png" group-title="CineMM", Narnia ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=Narnia&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e

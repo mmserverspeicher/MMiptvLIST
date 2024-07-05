@@ -70,7 +70,7 @@
 <item>
 <title>Stiftung Corona Ausschuss</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/qabTR02dVl013QVrd00kIZ00ejsna00pGypmIQ4t4ZlD9ZeU.m3u8">
+<media:content url="https://stream.video.gettr.com/p00qduXwC8Xj8foIgDu00Xfp564zXtaATmE77AGxYAQws.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" />
 </media:content>
 </item>
@@ -1608,6 +1608,22 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=indianajones&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Indiana-Jones---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Legacies ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Legacies&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Legacies---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Vikings ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Vikings&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Vikings---TV---.png" />
 </media:content>
 </item>
 
