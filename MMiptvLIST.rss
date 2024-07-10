@@ -46,7 +46,7 @@
 <item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/RZext3zBhwpadUpWkF58DLYbnHPHIqsPcRJlSfG01Gik.m3u8">
+<media:content url="https://stream.video.gettr.com/Ub9RSu02gdxLGB00Y5VLHknj76xMhpaYjrjCIowBQ1016w.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/IgnazBearthTV.png" />
 </media:content>
 </item>
@@ -54,7 +54,7 @@
 <item>
 <title>Bittel TV - Einfach Anders</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/B02gTJmfRkpkgTU7wGHe5vZjuSW9xrR1HNot800QQg3PI.m3u8">
+<media:content url="https://stream.video.gettr.com/rsCcRGk7WhAnp7YO9PT9xuxm3cs26kf3ujbCnJ3EMAA.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bittel-TV-Einfach-Anders.png" />
 </media:content>
 </item>
@@ -1856,6 +1856,22 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Motherland.Fort.Salem&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Motherland-Fort-Salem---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Stargirl ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Stargirl&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Stargirl---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>The Umbrella Academy ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Umbrella.Academy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The.Umbrella.Academy---TV---.png" />
 </media:content>
 </item>
 
