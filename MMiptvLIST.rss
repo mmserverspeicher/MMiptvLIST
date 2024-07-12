@@ -500,6 +500,14 @@
 </item>
 
 <item>
+<title>Rakuten TV - Filmgold</title>
+<description>MMiptvLIST</description>
+<media:content url="https://mainstreamfilmgold-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreamfilmgold-rakuten/CDN/playlist.m3u8">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Filmgold.png" />
+</media:content>
+</item>
+
+<item>
 <title>Rakuten TV - Freitag Nacht News</title>
 <description>MMiptvLIST</description>
 <media:content url="https://9e6fa42d5ba6420aa6b82e6e0069b903.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_FreitagNachtNews/playlist.m3u8">
@@ -508,7 +516,7 @@
 </item>
 
 <item>
-<title>Rakuten TV - Comedy and Shows</title>
+<title>Rakuten TV - Comedy & Shows</title>
 <description>MMiptvLIST</description>
 <media:content url="https://comedy-and-shows-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-comedy-and-shows-rakuten/CDN/playlist.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Comedy-and-Shows.png" />
@@ -528,6 +536,14 @@
 <description>MMiptvLIST</description>
 <media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/RakutenTV-Weihnachten.mp4?raw=true">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Weihnachten.png" />
+</media:content>
+</item>
+
+<item>
+<title>Rakuten TV - ARTFLIX Filmklassiker</title>
+<description>MMiptvLIST</description>
+<media:content url="https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/554d0f4f-1134-11ef-873a-5d36f52cfa63/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakutentv.web&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=12&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0056&ads%3Agam_correlator=892155312215733&ads%3Alanguage=deu&ads%3Amarket=de&ads%3Aos_language=&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=6118&ads%3Astreaming_id=6f6b1517-94b8-408e-ba8a-fe9b702f18e0&ads%3Atcf=CQBVEDAQBVEDAAcABBDEA8EsAP_gAAAAACiQKTMV5C5cTWFgcXp1QPsEeYUH1sAwgkAAABCBAqABCCAEMBQAgiAgMASABAACAAIAIBJBAQAkCAAEAEAAQAAAAABIIACAgBAIIABAABEBAABACAACAAAAAACIgAAVAAAAkAAAAFKEAEAAAAAAAkAAAAAAAAAAAAIABAAIAAIAAEAIACgAAAAAAAAAAAAAARAAAAkAAAAAAAAAAAAAABAQEAAAAAAgABAAAAAA.f_wAAAAAAAAA&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=de&optout=0&uid=5b57016e-d47a-4c13-bec2-40b6f8dc8a56&vendor=rakuten">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-ARTFLIX-Filmklassiker.png" />
 </media:content>
 </item>
 
