@@ -62,7 +62,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/1/B/P/-/1BP-s.aaa.rec.mp4">
+<media:content url="https://hugh.cdn.rumble.cloud/video/s8/2/l/U/A/_/lUA_s.aaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
@@ -648,6 +648,14 @@
 <description>MMiptvLIST</description>
 <media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-KULTFILME.png" />
+</media:content>
+</item>
+
+<item>
+<title>pluto tv - Deutsche Sitcoms</title>
+<description>MMipLIST</description>
+<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6672f49f61a39900089db68e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9700&deviceLon=9.0500&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Deutsche-Sitcoms.png" />
 </media:content>
 </item>
 
