@@ -62,7 +62,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://1a-1791.com/video/s8/2/v/y/h/j/vyhjt.aaa.rec.mp4">
+<media:content url="https://1a-1791.com/video/s8/2/1/o/p/G/1opGt.gaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
@@ -172,10 +172,10 @@
 </item>
 
 <item>
-<title>OE24.TV</title>
+<title>RT DE</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/IR003NJCp4QIugScn1rDEg021VvoUwfalK1d00FxGx9sm8.m3u8">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" />
+<media:content url="https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RT-DE.png" />
 </media:content>
 </item>
 

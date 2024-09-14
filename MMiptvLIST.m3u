@@ -12,7 +12,7 @@ https://stream.video.gettr.com/KqMhf5mNc02dyH7CvKFpxSVEoy2KsTLzgwqI7Orncack.m3u8
 https://stream.video.gettr.com/cF5R27Rpm71RNXzpKbtf2pRoGQXs01GYCa1iFhpqp01S4.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" group-title="TVprogramme", ET VIDEO & CONTENT
-https://1a-1791.com/video/s8/2/v/y/h/j/vyhjt.aaa.rec.mp4
+https://1a-1791.com/video/s8/2/1/o/p/G/1opGt.gaa.rec.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
 https://stream.video.gettr.com/HzJDmI5WzbJMre6vySsOWEOBXY6dMJ4I41ELnnt7Kr8.m3u8
@@ -53,8 +53,8 @@ https://s.catcast.tv/content/39575/index.m3u8
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DF1-Genau-deins.png" group-title="TVprogramme", DF1 - Genau deins
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/oe24.TV.png" group-title="TVprogramme", OE24.TV
-https://stream.video.gettr.com/IR003NJCp4QIugScn1rDEg021VvoUwfalK1d00FxGx9sm8.m3u8
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RT-DE.png" group-title="TVprogramme", RT DE
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Das-Erste.png" group-title="TVprogramme", ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
