@@ -50,7 +50,7 @@ https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-raku
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/VIVA-RUSSIA.png" group-title="TVprogramme", VIVA RUSSIA
 https://s.catcast.tv/content/39575/index.m3u8
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ComedyCentral+1.png" group-title="TVprogramme", Comedy Central +1
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/nickelodeon-and-ComedyCentral+1.png" group-title="TVprogramme", nickelodeon and Comedy Central +1
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DF1-Genau-deins.png" group-title="TVprogramme", DF1 - Genau deins
