@@ -12,10 +12,10 @@ https://stream.video.gettr.com/xNau5keO006Enk53uuaTOSG901Mu989EC1nKSAEeORFyQ.m3u
 https://stream.video.gettr.com/8Y3yEp1UJBUHFHhlZLtOlGu02tBXqA022Kku01qQM7jRZY.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" group-title="TVprogramme", ET VIDEO & CONTENT
-https://1a-1791.com/live/gke17oc4/slot-38/54n1-b4nv_720p/chunklist_DVR.m3u8
+https://1a-1791.com/video/s8/2/1/u/_/S/1u_St.haa.rec.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
-https://stream.video.gettr.com/clQ4VCgdTkHTqjI2jA7Y7I003b5KefbxOC1BytwLF01vQ.m3u8
+https://stream.video.gettr.com/7esYSpCMdoLb8XwTmzrsq00lM012FdCmUaz00aZfplQm78.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-MUSIC.png" group-title="TVprogramme", DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -49,9 +49,6 @@ https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-raku
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/VIVA-RUSSIA.png" group-title="TVprogramme", VIVA RUSSIA
 https://s.catcast.tv/content/39575/index.m3u8
-
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/nickelodeon-and-ComedyCentral+1.png" group-title="TVprogramme", nickelodeon and Comedy Central +1
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DF1-Genau-deins.png" group-title="TVprogramme", DF1 - Genau deins
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
