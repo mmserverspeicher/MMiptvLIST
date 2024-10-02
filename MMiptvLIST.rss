@@ -20,30 +20,6 @@
 </item>
 
 <item>
-<title>Schlips TV</title>
-<description>MMiptvLIST</description>
-<media:content url="https://live.prd.dlive.tv/hls/live/dlive-ngvdstsyvw.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/SchlipsTV.png" />
-</media:content>
-</item>
-
-<item>
-<title>klickblick</title>
-<description>MMiptvLIST</description>
-<media:content url="https://live.prd.dlive.tv/hls/live/klickblick.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/klickblick.png" />
-</media:content>
-</item>
-
-<item>
-<title>Licht der Wahrheit</title>
-<description>MMiptvLIST</description>
-<media:content url="https://live.prd.dlive.tv/hls/live/lichtderwahrheit.m3u8">
-<media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/LichtderWahrheit.png" />
-</media:content>
-</item>
-
-<item>
 <title>Ignaz Bearth TV</title>
 <description>MMiptvLIST</description>
 <media:content url="https://stream.video.gettr.com/xNau5keO006Enk53uuaTOSG901Mu989EC1nKSAEeORFyQ.m3u8">
@@ -88,30 +64,6 @@
 <description>MMiptvLIST</description>
 <media:content url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-DANCE-BY-KONTOR.png" />
-</media:content>
-</item>
-
-<item>
-<title>DELUXE RAP</title>
-<description>MMiptvLIST</description>
-<media:content url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-RAP.png" />
-</media:content>
-</item>
-
-<item>
-<title>DELUXE ROCK</title>
-<description>MMiptvLIST</description>
-<media:content url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-ROCK.png" />
-</media:content>
-</item>
-
-<item>
-<title>DELUXE FLASHBACK</title>
-<description>MMiptvLIST</description>
-<media:content url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-FLASHBACK.png" />
 </media:content>
 </item>
 
