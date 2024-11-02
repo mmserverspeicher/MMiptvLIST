@@ -132,7 +132,7 @@ https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-KOMOEDIEN.png" group-title="TVprogramme", Rakuten TV - KOMÖDIEN
-https://ef43576fea7e4475bafdedc078f5738b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenComedyMovies/playlist.m3u8
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-THRILLER.png" group-title="TVprogramme", Rakuten TV - THRILLER
 https://5bcd094bbfe94b3390cab03bef63bee5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_RakutenThriller/playlist.m3u8
@@ -199,6 +199,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-SERIE.png" group-title="TVprogramme", pluto tv - SERIE
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0872&deviceLon=9.2275&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-serienklassiker.png" group-title="TVprogramme", pluto tv - Serienklassiker
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6690fdce2e4b5d0008a5ce0c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.1600&deviceLon=9.7700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Knallhart.png" group-title="TVprogramme", pluto tv - KNALLHART
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004605110545000842035d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=

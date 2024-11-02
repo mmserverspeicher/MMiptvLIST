@@ -382,7 +382,7 @@
 <item>
 <title>Rakuten TV - KOMÖDIEN</title>
 <description>MMiptvLIST</description>
-<media:content url="https://ef43576fea7e4475bafdedc078f5738b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenComedyMovies/playlist.m3u8">
+<media:content url="https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-KOMOEDIEN.png" />
 </media:content>
 </item>
@@ -592,6 +592,14 @@
 <description>MMiptvLIST</description>
 <media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0872&deviceLon=9.2275&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-SERIE.png" />
+</media:content>
+</item>
+
+<item>
+<title>pluto tv - Serienklassiker</title>
+<description>MMipLIST</description>
+<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6690fdce2e4b5d0008a5ce0c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.1600&deviceLon=9.7700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-serienklassiker.png" />
 </media:content>
 </item>
 
