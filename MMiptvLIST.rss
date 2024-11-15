@@ -38,7 +38,7 @@
 <item>
 <title>ET VIDEO & CONTENT</title>
 <description>MMiptvLIST</description>
-<media:content url="https://1a-1791.com/video/s8/2/R/c/X/T/RcXTt.gaa.rec.mp4">
+<media:content url="https://1a-1791.com/video/s8/2/E/z/U/F/EzUFu.gaa.rec.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/ET-VideoAndContent.png" />
 </media:content>
 </item>
@@ -46,7 +46,7 @@
 <item>
 <title>Stiftung Corona Ausschuss</title>
 <description>MMiptvLIST</description>
-<media:content url="https://stream.video.gettr.com/4Tvxvnl8c8llRjcBap48GumnE9YnjNsLSe01UJpLZa3Q.m3u8">
+<media:content url="https://stream.video.gettr.com/y2pzZjl3sV8dwkh2n9sBCyelGCo3l3LC9fovJGuMmFI.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" />
 </media:content>
 </item>
@@ -1006,7 +1006,7 @@
 <item>
 <title>CineMM MOVIEs</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Thriller.Drama&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Thriller.Drama&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Movies.png" />
 </media:content>
 </item>
@@ -1014,7 +1014,7 @@
 <item>
 <title>CineMM SUPER COMEDY</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixComedy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixComedy&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Super-Comedy.png" />
 </media:content>
 </item>
@@ -1022,7 +1022,7 @@
 <item>
 <title>CineMM POWER ACTION</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Action&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Action&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-POWER-ACTION.png" />
 </media:content>
 </item>
@@ -1030,7 +1030,7 @@
 <item>
 <title>CineMM TERROR HORROR</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixHorror&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixHorror&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-Terror-Horror.png" />
 </media:content>
 </item>
@@ -1038,7 +1038,7 @@
 <item>
 <title>CineMM SPACE FICTION</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Scifi.Fantasy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.Scifi.Fantasy&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-SPACE-FICTION.png" />
 </media:content>
 </item>
@@ -1046,7 +1046,7 @@
 <item>
 <title>CineMM Classic Science Fiction</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-vintagescifi&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-vintagescifi&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-ClassicScienceFiction.png" />
 </media:content>
 </item>
@@ -1054,7 +1054,7 @@
 <item>
 <title>CineMM CartoonTRICKs</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixAnime&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixAnime&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-CartoonTRICKs.png" />
 </media:content>
 </item>
@@ -1062,7 +1062,7 @@
 <item>
 <title>CineMM MOVIEkiDs</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixKids&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixKids&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM-MovieKids.png" />
 </media:content>
 </item>
@@ -1070,7 +1070,7 @@
 <item>
 <title>SuperHEROES ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-marvelvsdc&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-marvelvsdc&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SuperHEROES---TV---.png" />
 </media:content>
 </item>
@@ -1078,7 +1078,7 @@
 <item>
 <title>POWER FRAUEN ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.She&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMix.She&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Power-Frauen---TV---.png" />
 </media:content>
 </item>
@@ -1086,7 +1086,7 @@
 <item>
 <title>Street Fighter ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixFight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixFight&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Street-Fighter---TV---.png" />
 </media:content>
 </item>
@@ -1094,7 +1094,7 @@
 <item>
 <title>Asia ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixAsia&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MovieMixAsia&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Asia---TV---.png" />
 </media:content>
 </item>
@@ -1102,7 +1102,7 @@
 <item>
 <title>Simpsons ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=simpsons&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=simpsons&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Simpsons---TV---.png" />
 </media:content>
 </item>
@@ -1110,7 +1110,7 @@
 <item>
 <title>Futurama ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=futurama&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=futurama&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Futurama---TV---.png" />
 </media:content>
 </item>
@@ -1118,7 +1118,7 @@
 <item>
 <title>Die Jetsons ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-diejetsons&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-diejetsons&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Die-Jetsons---TV---.png" />
 </media:content>
 </item>
@@ -1126,7 +1126,7 @@
 <item>
 <title>Gummibärenbande ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-gummibaerenbande&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-gummibaerenbande&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Gummibaerenbande---TV---.png" />
 </media:content>
 </item>
@@ -1134,7 +1134,7 @@
 <item>
 <title>Asterix und Obelix ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Asterix.der.Gallier&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Asterix.der.Gallier&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Asterix-und-Obelix---TV---.png" />
 </media:content>
 </item>
@@ -1142,7 +1142,7 @@
 <item>
 <title>Tom und Jerry ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Tom.und.Jerry&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Tom.und.Jerry&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Tom-und-Jerry---TV---.png" />
 </media:content>
 </item>
@@ -1150,7 +1150,7 @@
 <item>
 <title>Captain Future ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=captainfuture&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=captainfuture&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Captain-Future---TV---.png" />
 </media:content>
 </item>
@@ -1158,7 +1158,7 @@
 <item>
 <title>Star Trek - The Animated Series ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkieanimated&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkieanimated&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Star-Trek-The-Animated-Series---TV---.png" />
 </media:content>
 </item>
@@ -1166,7 +1166,7 @@
 <item>
 <title>He-Man ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-heman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-heman&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/HeMan---TV---.png" />
 </media:content>
 </item>
@@ -1174,7 +1174,7 @@
 <item>
 <title>Paw Patrol ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=pawpatrol&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=pawpatrol&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Paw-Patrol---TV---.png" />
 </media:content>
 </item>
@@ -1182,7 +1182,7 @@
 <item>
 <title>NEW SPIDER-MAN ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=newspiderman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=newspiderman&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/NewSpiderman---TV---.png" />
 </media:content>
 </item>
@@ -1190,7 +1190,7 @@
 <item>
 <title>Attack on Titan ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=AttackonTitan&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=AttackonTitan&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Attack-on-Titan---TV---.png" />
 </media:content>
 </item>
@@ -1198,7 +1198,7 @@
 <item>
 <title>Castlevania ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Castlevania&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Castlevania&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Castlevania---TV--.png" />
 </media:content>
 </item>
@@ -1206,7 +1206,7 @@
 <item>
 <title>That Time I Got Reincarnated as a Slime ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=T.T.I.G.R.A.A.Slime&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=T.T.I.G.R.A.A.Slime&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/That.Time.I.Got.Reincarnated.as.a.Slime---TV---.png" />
 </media:content>
 </item>
@@ -1214,7 +1214,7 @@
 <item>
 <title>Miraculous ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Miraculous&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Miraculous&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Miraculous---TV---.png" />
 </media:content>
 </item>
@@ -1222,7 +1222,7 @@
 <item>
 <title>Scrubs: Die Anfänger ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-scrubs&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-scrubs&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Scrubs-Die-Anfaenger---TV---.png" />
 </media:content>
 </item>
@@ -1230,7 +1230,7 @@
 <item>
 <title>2 Broke Girls ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=2.Broke.Girls&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=2.Broke.Girls&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/2-Broke-Girls---TV---.png" />
 </media:content>
 </item>
@@ -1238,7 +1238,7 @@
 <item>
 <title>How I Met Your Mother ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Himym&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Himym&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/How-I-Met-Your-Mother---TV---.png" />
 </media:content>
 </item>
@@ -1246,7 +1246,7 @@
 <item>
 <title>Two and a Half Men ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-taahm&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-taahm&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Two-and-a-Half-Men---TV---.png" />
 </media:content>
 </item>
@@ -1254,7 +1254,7 @@
 <item>
 <title>The Big Bang Theory ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-tbbt&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-tbbt&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The-Big-Bang-Theory---TV---.png" />
 </media:content>
 </item>
@@ -1262,7 +1262,7 @@
 <item>
 <title>Sex Education ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Sex.Education&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Sex.Education&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Sex-Education---TV---.png" />
 </media:content>
 </item>
@@ -1270,7 +1270,7 @@
 <item>
 <title>King of Queens ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-koq&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-koq&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/King-of-Queens---TV---.png" />
 </media:content>
 </item>
@@ -1278,7 +1278,7 @@
 <item>
 <title>Hör mal wer da hämmert ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-homeimprovement&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-homeimprovement&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Hoer-mal-wer-da-haemmert---TV---.png" />
 </media:content>
 </item>
@@ -1286,7 +1286,7 @@
 <item>
 <title>Eine schrecklich nette Familie ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-schrecklichefamilie&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Eine-schrecklich-nette-Familie---TV---.png" />
 </media:content>
 </item>
@@ -1294,7 +1294,7 @@
 <item>
 <title>ALF ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-alf&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-alf&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Alf---TV---.png" />
 </media:content>
 </item>
@@ -1302,7 +1302,7 @@
 <item>
 <title>Die Dinos ---TV---</title> guldukat-diedinos
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-diedinos&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-diedinos&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Die-Dinos---TV---.png" />
 </media:content>
 </item>
@@ -1310,7 +1310,7 @@
 <item>
 <title>Bezaubernde Jeannie ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=bezauberndejeannie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=bezauberndejeannie&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bezaubernde-Jeannie---TV---.png" />
 </media:content>
 </item>
@@ -1318,7 +1318,7 @@
 <item>
 <title>Didi Hallervorden ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=didihallervorden&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=didihallervorden&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Didi-Hallervorden---TV---.png" />
 </media:content>
 </item>
@@ -1326,7 +1326,7 @@
 <item>
 <title>THE A-TEAM ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-ateam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-ateam&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/THE-A-TEAM---TV---.png" />
 </media:content>
 </item>
@@ -1334,7 +1334,7 @@
 <item>
 <title>Miami Vice ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Miami.Vice&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Miami.Vice&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Miami-Vice---TV---.png" />
 </media:content>
 </item>
@@ -1342,7 +1342,7 @@
 <item>
 <title>MacGyver ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ClassicMacGyver&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ClassicMacGyver&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MacGyver---TV---.png" />
 </media:content>
 </item>
@@ -1350,7 +1350,7 @@
 <item>
 <title>Mad Mission ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MadMission&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=MadMission&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Mad-Mission---TV---.png" />
 </media:content>
 </item>
@@ -1358,7 +1358,7 @@
 <item>
 <title>Airwolf ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Airwolf&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Airwolf&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Airwolf---TV---.png" />
 </media:content>
 </item>
@@ -1366,7 +1366,7 @@
 <item>
 <title>Herbie ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Herbie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Herbie&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Herbie---TV---.png" />
 </media:content>
 </item>
@@ -1374,7 +1374,7 @@
 <item>
 <title>Bud Spencer und Terence Hill ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-buddyterence&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-buddyterence&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bud-Spencer-und-Terence-Hill---TV---.png" />
 </media:content>
 </item>
@@ -1382,7 +1382,7 @@
 <item>
 <title>Louis de Funès ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Louis.de.Funes&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Louis.de.Funes&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Louis-de-Funes---TV---.png" />
 </media:content>
 </item>
@@ -1390,7 +1390,7 @@
 <item>
 <title>Miss. Marple ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Miss.Marple&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Miss.Marple&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Miss.Marple---TV---.png" />
 </media:content>
 </item>
@@ -1398,7 +1398,7 @@
 <item>
 <title>Police Academy ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-policeakademy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-policeakademy&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Police-Academy---TV---.png" />
 </media:content>
 </item>
@@ -1406,7 +1406,7 @@
 <item>
 <title>American Pie ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=American.Pie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=American.Pie&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/American-Pie---TV---.png" />
 </media:content>
 </item>
@@ -1414,7 +1414,7 @@
 <item>
 <title>Doctor Who ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=doctor-who&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=doctor-who&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Doctor-Who---TV---.png" />
 </media:content>
 </item>
@@ -1422,7 +1422,7 @@
 <item>
 <title>Star Trek - Enterprise ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-nextenterprise&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-nextenterprise&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Enterprise---TV---.png" />
 </media:content>
 </item>
@@ -1430,7 +1430,7 @@
 <item>
 <title>Star Trek - Discovery ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-discovery&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-discovery&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Discovery---TV--.png" />
 </media:content>
 </item>
@@ -1438,7 +1438,7 @@
 <item>
 <title>Star Trek - The Next Generation ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=next-generation&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=next-generation&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-The-Next-Generation---TV---.png" />
 </media:content>
 </item>
@@ -1446,7 +1446,7 @@
 <item>
 <title>Star Trek - Deep Space Nine ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ds9&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ds9&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Deep-Space-Nine---TV---.png" />
 </media:content>
 </item>
@@ -1454,7 +1454,7 @@
 <item>
 <title>Star Trek - Voyager ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=voyager&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=voyager&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Voyager---TV---.png" />
 </media:content>
 </item>
@@ -1462,7 +1462,7 @@
 <item>
 <title>Star Trek - Picard ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=startrekpicard&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=startrekpicard&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-Picard---TV---.png" />
 </media:content>
 </item>
@@ -1470,7 +1470,7 @@
 <item>
 <title>Star Trek MOVIE ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkiemovies&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-trekkiemovies&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Trek-MOVIE---TV---.png" />
 </media:content>
 </item>
@@ -1478,7 +1478,7 @@
 <item>
 <title>Star Wars ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-starwars&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-starwars&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Star-Wars---TV---.png" />
 </media:content>
 </item>
@@ -1486,7 +1486,7 @@
 <item>
 <title>Star Wars - The Mandalorian ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Mandalorian&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Mandalorian&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/The-Mandalorian---TV---.png" />
 </media:content>
 </item>
@@ -1494,7 +1494,7 @@
 <item>
 <title>The Orville ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=theorville&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=theorville&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The-Orville---TV---.png" />
 </media:content>
 </item>
@@ -1502,7 +1502,7 @@
 <item>
 <title>Stargate SG1 ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=stargate&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=stargate&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stargate-SG1---TV---.png" />
 </media:content>
 </item>
@@ -1510,7 +1510,7 @@
 <item>
 <title>Stargate Atlantis ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=stargate-atlantis&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=stargate-atlantis&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stargate-Atlantis---TV---.png" />
 </media:content>
 </item>
@@ -1518,7 +1518,7 @@
 <item>
 <title>Stargate Universe ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=stargate-universe&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=stargate-universe&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stargate-Universe---TV---.png" />
 </media:content>
 </item>
@@ -1526,7 +1526,7 @@
 <item>
 <title>Babylon 5 ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-babylon5&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-babylon5&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Babylon-5---TV---.png" />
 </media:content>
 </item>
@@ -1534,7 +1534,7 @@
 <item>
 <title>Firefly ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=firefly&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=firefly&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Firefly---TV---.png" />
 </media:content>
 </item>
@@ -1542,7 +1542,7 @@
 <item>
 <title>Buck Rogers ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=buckrogers&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=buckrogers&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Buck-Rogers---TV---.png" />
 </media:content>
 </item>
@@ -1550,7 +1550,7 @@
 <item>
 <title>SeaQuest DSV ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=seaquestdsv&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=seaquestdsv&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/SeaQuestDSV---TV---.png" />
 </media:content>
 </item>
@@ -1558,7 +1558,7 @@
 <item>
 <title>Eureka - Die geheime Stadt ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-eureka&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-eureka&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Eureka-Die-geheime-Stadt---TV---.png" />
 </media:content>
 </item>
@@ -1566,7 +1566,7 @@
 <item>
 <title>Warehouse 13 ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-warehouse&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-warehouse&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Warehouse-13---TV---.png" />
 </media:content>
 </item>
@@ -1574,7 +1574,7 @@
 <item>
 <title>Supernatural ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-spn&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-spn&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Supernatural---TV---.png" />
 </media:content>
 </item>
@@ -1582,7 +1582,7 @@
 <item>
 <title>Jessica Jones ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Marvel.JessicaJones&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Marvel.JessicaJones&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Jessica-Jones---TV---.png" />
 </media:content>
 </item>
@@ -1590,7 +1590,7 @@
 <item>
 <title>Lucifer ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Lucifer&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Lucifer&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Lucifer---TV---.png" />
 </media:content>
 </item>
@@ -1598,7 +1598,7 @@
 <item>
 <title>Under the Dome ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Under.the.Dome&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Under.the.Dome&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Under-the-Dome---TV---.png" />
 </media:content>
 </item>
@@ -1606,7 +1606,7 @@
 <item>
 <title>Die unendliche Geschichte ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=dieunendlichegeschichte&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=dieunendlichegeschichte&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Die-unendliche-Geschichte---TV---.png" />
 </media:content>
 </item>
@@ -1614,7 +1614,7 @@
 <item>
 <title>Twilight ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Twilight&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Twilight&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Twilight.png" />
 </media:content>
 </item>
@@ -1622,7 +1622,7 @@
 <item>
 <title>The Witcher ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Witcher&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Witcher&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The-Witcher---TV---.png" />
 </media:content>
 </item>
@@ -1630,7 +1630,7 @@
 <item>
 <title>Salem ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Salem&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Salem&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Salem---TV---.png" />
 </media:content>
 </item>
@@ -1638,7 +1638,7 @@
 <item>
 <title>Hobbit ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hobbit&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hobbit&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Hobbit---TV---.png" />
 </media:content>
 </item>
@@ -1646,7 +1646,7 @@
 <item>
 <title>Der Herr der Ringe ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hdr&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-hdr&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Der-Herr-der-Ringe---TV---.png" />
 </media:content>
 </item>
@@ -1654,7 +1654,7 @@
 <item>
 <title>THE MUMMY ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-mumie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-mumie&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/THE-MUMMY---TV---.png" />
 </media:content>
 </item>
@@ -1662,7 +1662,7 @@
 <item>
 <title>Indiana Jones ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=indianajones&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=indianajones&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Indiana-Jones---TV---.png" />
 </media:content>
 </item>
@@ -1670,7 +1670,7 @@
 <item>
 <title>Legacies ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Legacies&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Legacies&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Legacies---TV---.png" />
 </media:content>
 </item>
@@ -1678,7 +1678,7 @@
 <item>
 <title>Vikings ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Vikings&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Vikings&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Vikings---TV---.png" />
 </media:content>
 </item>
@@ -1686,7 +1686,7 @@
 <item>
 <title>Narnia ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Narnia&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Narnia&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Narnia---TV---.png" />
 </media:content>
 </item>
@@ -1694,7 +1694,7 @@
 <item>
 <title>Harry Potter ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-harrypotter&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-harrypotter&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Harry-Potter---TV---.png" />
 </media:content>
 </item>
@@ -1702,7 +1702,7 @@
 <item>
 <title>Fluch der Karibik ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-carribean&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-carribean&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Fluch-der-Karibik---TV---.png" />
 </media:content>
 </item>
@@ -1710,7 +1710,7 @@
 <item>
 <title>Planet der Affen ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Planet.der.Affen&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Planet.der.Affen&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Planet-der-Affen---TV---.png" />
 </media:content>
 </item>
@@ -1718,7 +1718,7 @@
 <item>
 <title>Die Olsenbande ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Die.Olsenbande&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Die.Olsenbande&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/olsenbande.png" />
 </media:content>
 </item>
@@ -1726,7 +1726,7 @@
 <item>
 <title>James Bond 007 ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-bondjames&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-bondjames&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/James-Bond007---TV---.png" />
 </media:content>
 </item>
@@ -1734,7 +1734,7 @@
 <item>
 <title>Fast and Furious ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=fastandfurious&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=fastandfurious&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Fast-and-Furious---TV---.png" />
 </media:content>
 </item>
@@ -1742,7 +1742,7 @@
 <item>
 <title>Jason Bourne ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jasonbourne&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jasonbourne&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jason-Bourne---TV---.png" />
 </media:content>
 </item>
@@ -1750,7 +1750,7 @@
 <item>
 <title>Stirb Langsam ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stirb-langsam---TV---.png" />
 </media:content>
 </item>
@@ -1758,7 +1758,7 @@
 <item>
 <title>Arnold Schwarzenegger ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ArnoldSchw&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ArnoldSchw&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Arnold-Schwarzenegger---TV---.png" />
 </media:content>
 </item>
@@ -1766,7 +1766,7 @@
 <item>
 <title>Chuck Norris ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ChuckNorris&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ChuckNorris&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Chuck-Norris---TV---.png" />
 </media:content>
 </item>
@@ -1774,7 +1774,7 @@
 <item>
 <title>Jean Claude van Damme ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jcvd&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jcvd&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jean-Claude-van-Damme---TV---.png" />
 </media:content>
 </item>
@@ -1782,7 +1782,7 @@
 <item>
 <title>Sylvester Stallone ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=SlyStallone&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=SlyStallone&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Sylvester-Stallone---TV---.png" />
 </media:content>
 </item>
@@ -1790,7 +1790,7 @@
 <item>
 <title>RAMBO ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ramboFilme&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ramboFilme&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Rambo---TV---.png" />
 </media:content>
 </item>
@@ -1798,7 +1798,7 @@
 <item>
 <title>Rocky ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-rocky&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-rocky&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Rocky---TV---.png" />
 </media:content>
 </item>
@@ -1806,7 +1806,7 @@
 <item>
 <title>Bruce Lee ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=brucelee&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=brucelee&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Bruce-Lee---TV---.png" />
 </media:content>
 </item>
@@ -1814,7 +1814,7 @@
 <item>
 <title>Jackie Chan ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jackie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=jackie&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Jackie-Chan---TV---.png" />
 </media:content>
 </item>
@@ -1822,7 +1822,7 @@
 <item>
 <title>IpMan ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ipman&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ipman&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/IpMan---TV---.png" />
 </media:content>
 </item>
@@ -1830,7 +1830,7 @@
 <item>
 <title>Chuck ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ChuckSerie&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ChuckSerie&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Chuck---TV---.png" />
 </media:content>
 </item>
@@ -1838,7 +1838,7 @@
 <item>
 <title>Charmed ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-charmed&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-charmed&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Charmed---TV---.png" />
 </media:content>
 </item>
@@ -1846,7 +1846,7 @@
 <item>
 <title>Game of Thrones ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=GoT&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=GoT&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Game.of.Thrones---TV---.png" />
 </media:content>
 </item>
@@ -1854,7 +1854,7 @@
 <item>
 <title>Grimm ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-grimm&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=guldukat-grimm&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Grimm---TV---.png" />
 </media:content>
 </item>
@@ -1862,7 +1862,7 @@
 <item>
 <title>Species ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Species&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Species&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Species---TV---.png" />
 </media:content>
 </item>
@@ -1870,7 +1870,7 @@
 <item>
 <title>Swamp Thing ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Swamp.Thing&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Swamp.Thing&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Swamp-Thing---TV---.png" />
 </media:content>
 </item>
@@ -1878,7 +1878,7 @@
 <item>
 <title>Nightmare on Elm Street ---TV---</title> walkingdead
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Nightmare.on.Elm.Street&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Nightmare.on.Elm.Street&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Nightmare-On-Elm-Street---TV---.png" />
 </media:content>
 </item>
@@ -1886,7 +1886,7 @@
 <item>
 <title>The Walking Dead ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=walkingdead&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=walkingdead&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The-Walking-Dead---TV---.png" />
 </media:content>
 </item>
@@ -1894,7 +1894,7 @@
 <item>
 <title>Motherland Fort Salem ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Motherland.Fort.Salem&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Motherland.Fort.Salem&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Motherland-Fort-Salem---TV---.png" />
 </media:content>
 </item>
@@ -1902,7 +1902,7 @@
 <item>
 <title>Stargirl ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Stargirl&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Stargirl&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Stargirl---TV---.png" />
 </media:content>
 </item>
@@ -1910,7 +1910,7 @@
 <item>
 <title>The Umbrella Academy ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Umbrella.Academy&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Umbrella.Academy&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The.Umbrella.Academy---TV---.png" />
 </media:content>
 </item>
@@ -1918,7 +1918,7 @@
 <item>
 <title>The Boys ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Boys&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=The.Boys&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/The-Boys---TV---.png" />
 </media:content>
 </item>
@@ -1926,7 +1926,7 @@
 <item>
 <title>Paranormal Activity ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ParanormalActivity&apikey=a734e4c866ce62cdcfbdd2c9359ffa8e">
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ParanormalActivity&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Paranormal-Activity---TV---.png" />
 </media:content>
 </item>
