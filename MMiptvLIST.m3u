@@ -350,6 +350,9 @@ https://archive.org/download/resource.uisounds.mm.sounds/z-srgt-e.mp4
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/premiere.png" group-title="Video-on-Demand", premiere
 https://archive.org/download/resource.uisounds.mm.sounds/z-p-alt.mp4
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/haris-sv.png" group-title="Video-on-Demand", Haris und der gefährliche Straßenverkehr beim Essen
+https://github.com/mmserverspeicher/MMiptvLIST/blob/main/haris-sv.mp4?raw=true
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/CineMM.png" group-title="CineMM", CineMM
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/CineMM.mp4?raw=true
 
