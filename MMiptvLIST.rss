@@ -414,7 +414,7 @@
 <item>
 <title>Rakuten TV - FAMILY</title>
 <description>MMiptvLIST</description>
-<media:content url="https://25355b9a6c3d470c85a0d52372ba20cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenFamily/playlist.m3u8">
+<media:content url="https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Family.png" />
 </media:content>
 </item>
@@ -486,7 +486,7 @@
 <item>
 <title>Rakuten TV - 100% Weihnachten</title>
 <description>MMiptvLIST</description>
-<media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/RakutenTV-Weihnachten.mp4?raw=true">
+<media:content url="https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Weihnachten.png" />
 </media:content>
 </item>
@@ -1160,6 +1160,14 @@
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=newspiderman&apikey=6b2e03f5da516d5f4f33068c352cc78e">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/NewSpiderman---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>Highschool DxD Hero ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Highschool.DxD.Hero&apikey=6b2e03f5da516d5f4f33068c352cc78e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Highschool.DxD.Hero---TV---.png" />
 </media:content>
 </item>
 

@@ -144,7 +144,7 @@ https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/
 https://8bd243f0856747b4aa9ae0716bc2c79e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_RakutenRomance/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Family.png" group-title="TVprogramme", Rakuten TV - FAMILY
-https://25355b9a6c3d470c85a0d52372ba20cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenFamily/playlist.m3u8
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Starke-Frauen.png" group-title="TVprogramme", Rakuten TV - STARKE FRAUEN
 https://mainstreamstarkefrauen-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreamstarkefrauen-rakuten/CDN/playlist.m3u8
@@ -171,7 +171,7 @@ https://comedy-and-shows-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-comedy-an
 https://mainstreamfilmgold-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreamfilmgold-rakuten/CDN/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Weihnachten.png" group-title="TVprogramme", Rakuten TV - 100% Weihnachten
-https://github.com/mmserverspeicher/MMiptvLIST/blob/main/RakutenTV-Weihnachten.mp4?raw=true
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-ARTFLIX-Filmklassiker.png" group-title="TVprogramme", Rakuten TV - ARTFLIX Filmklassiker
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/554d0f4f-1134-11ef-873a-5d36f52cfa63/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakutentv.web&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=12&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0056&ads%3Agam_correlator=892155312215733&ads%3Alanguage=deu&ads%3Amarket=de&ads%3Aos_language=&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=6118&ads%3Astreaming_id=6f6b1517-94b8-408e-ba8a-fe9b702f18e0&ads%3Atcf=CQBVEDAQBVEDAAcABBDEA8EsAP_gAAAAACiQKTMV5C5cTWFgcXp1QPsEeYUH1sAwgkAAABCBAqABCCAEMBQAgiAgMASABAACAAIAIBJBAQAkCAAEAEAAQAAAAABIIACAgBAIIABAABEBAABACAACAAAAAACIgAAVAAAAkAAAAFKEAEAAAAAAAkAAAAAAAAAAAAIABAAIAAIAAEAIACgAAAAAAAAAAAAAARAAAAkAAAAAAAAAAAAAABAQEAAAAAAgABAAAAAA.f_wAAAAAAAAA&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=de&optout=0&uid=5b57016e-d47a-4c13-bec2-40b6f8dc8a56&vendor=rakuten
@@ -424,6 +424,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=pawpatrol&apikey=6b2e03f5da516d
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/NewSpiderman---TV---.png" group-title="CineMM", NEW SPIDER-MAN ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=newspiderman&apikey=6b2e03f5da516d5f4f33068c352cc78e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Highschool.DxD.Hero---TV---.png" group-title="CineMM", Highschool DxD Hero ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Highschool.DxD.Hero&apikey=6b2e03f5da516d5f4f33068c352cc78e
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Attack-on-Titan---TV---.png" group-title="CineMM", Attack on Titan ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=AttackonTitan&apikey=6b2e03f5da516d5f4f33068c352cc78e
